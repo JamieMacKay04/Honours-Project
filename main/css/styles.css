@@ -1,0 +1,92 @@
+/* General Page Styling */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    background: #222; /* Fallback in case image fails */
+    color: white;
+    text-align: center;
+    background-image: url('../img/background.jpeg'); 
+    background-size: cover;
+    background-position: center;
+}
+
+.background-blur {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url('../img/background.jpeg') no-repeat center center/cover;
+    filter: blur(8px) brightness(70%); /* Adjust blur & brightness */
+    z-index: -1; /* Keeps it behind everything */
+
+}
+
+/* Grey Band Background */
+.grey-band {
+    position: absolute;
+    top: 70%; /* Positions it in the middle */
+    left: 0;
+    width: 100%;
+    height: 240px; /* Adjust height as needed */
+    background: #C4C4C4;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2); /* Soft shadow for depth */
+    transform: translateY(-50%); /* Ensures it centers properly */
+    z-index: -1; /* Keeps it behind everything */
+}
+
+
+/* Header Styling */
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 50px;
+    background: #4F517D;
+    color: white;
+}
+
+.logo img {
+    width: 100px; /* Adjust logo size */
+}
+
+
+/* Card Container */
+.card-container {
+    display: flex;
+    justify-content: center;
+    gap: 10%;
+    margin-top: 50px;
+}
+
+/* Individual Cards */
+.card {
+    width: 20%;
+    height: 500px;
+    background: linear-gradient(to bottom, #C4A77D 53%, #5E503C 80%);
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    border-radius: 10px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.card-content {
+    width: 100%;
+    background: #4F517D;
+    padding: 15px;
+    color: white;
+    font-weight: bold;
+    border-radius: 0 0 10px 10px;
+    text-transform: uppercase;
+}
+
+/* Hover Effects */
+.card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.4);
+}
+
+

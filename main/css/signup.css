@@ -1,0 +1,106 @@
+/* General Page Styling */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'DM Sans', sans-serif;
+    background: linear-gradient(to right, #d3d3d3 45%, #4F517D 40%); /* Gradient background */
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+/* Signup Container */
+.signup-container {
+    width: 100%;
+    max-width: 400px;
+    background: rgba(255, 255, 255, 0.1); /* Transparent glass effect */
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    backdrop-filter: blur(10px); /* Glass effect */
+    text-decoration: underline;
+}
+
+/* Signup Title */
+.signup-box h1 {
+    margin-bottom: 10px;
+    font-size: 28px;
+}
+
+/* Signup Form */
+.signup-box form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+/* Input Fields */
+.signup-box input {
+    width: 100%;
+    padding: 12px;
+    border: 2px solid rgba(255, 255, 255, 0.3); /* Soft border */
+    border-radius: 8px; /* Rounded edges */
+    background: rgba(255, 255, 255, 0.15); /* Light transparency */
+    color: white;
+    font-size: 16px;
+    outline: none;
+    transition: all 0.3s ease-in-out;
+    box-shadow: inset 2px 2px 5px rgba(0, 0, 0, 0.2); /* Subtle inner shadow */
+}
+
+.signup-box input::placeholder {
+    color: rgba(255, 255, 255, 0.6);
+    font-weight: 300;
+}
+
+
+
+.signup-container button {
+    width: 33%;
+    padding: 12px;
+    margin: 30px;
+    background: linear-gradient(to right, #88FBF4, #4F517D); /* Gradient effect */
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px; /* Smooth edges */
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3); /* Soft shadow */
+    letter-spacing: 1px; /* Slight spacing for a sleek feel */
+    transition: background-color 0.8s ease-in-out, box-shadow 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+/* Hover Effect */
+.signup-container button:hover {
+    background: linear-gradient(to right, #4F517D, #88FBF4); /* Gradient effect */
+    box-shadow: 0px 6px 15px rgba(136, 251, 244, 1); /* Glow effect */
+    transform: scale(1.05); /* Slight pop effect */
+}
+
+/* Button Click Effect */
+.signup-container button:active {
+    transform: scale(0.98); /* Small press effect */
+    box-shadow: 0px 2px 8px rgba(136, 251, 244, 0.2);
+}
+
+/* Signup Links */
+.signup-container p {
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.signup-container a {
+    color: #88FBF4;
+    text-decoration: none;
+}
+
+.signup-container a:hover {
+    text-decoration: underline;
+}
+

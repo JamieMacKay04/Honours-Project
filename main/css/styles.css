@@ -11,6 +11,13 @@ body {
     background-position: center;
 }
 
+h1 {
+
+    font-size: 40pt;
+    font-family: 'DM Sans';
+    margin-right: 40px;
+}
+
 .background-blur {
     position: fixed;
     top: 0;
@@ -42,13 +49,15 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 20px 50px;
+    padding: 30px auto;
     background: #4F517D;
     color: white;
+    border-bottom: 4px solid #D6DBD2; /* Grey line under header */
 }
 
 .logo img {
-    width: 100px; /* Adjust logo size */
+    width: 100px; 
+    margin-left: 40px;/* Adjust logo size */
 }
 
 
@@ -60,33 +69,132 @@ header {
     margin-top: 50px;
 }
 
-/* Individual Cards */
 .card {
     width: 20%;
-    height: 500px;
+    height: 400px;
     background: linear-gradient(to bottom, #C4A77D 53%, #5E503C 80%);
     display: flex;
-    align-items: flex-end;
-    justify-content: center;
+    flex-direction: column; /* Stack elements vertically */
+    align-items: center; /* Center horizontally */
+    justify-content: center; /* Center vertically */
     border-radius: 10px;
+    border-width: 11px;
+    border-style:solid;
+    border-color: #4F517D;
     box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.3);
     transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    text-align: center; /* Centers text as well */
 }
 
 .card-content {
     width: 100%;
     background: #4F517D;
-    padding: 15px;
+    padding: 10px;
     color: white;
     font-weight: bold;
     border-radius: 0 0 10px 10px;
     text-transform: uppercase;
+    transition: background 0.3s ease-in-out, color 0.3s ease-in-out;
 }
 
 /* Hover Effects */
 .card:hover {
     transform: translateY(-10px);
-    box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.4);
+    border: 10px solid white;
+    box-shadow: 0px 0px 15px rgba(255, 255, 255, 1.5); /* White glow */
 }
 
 
+hr {
+
+    width: 100%;
+    padding-top: 3pt;
+    fill: black;
+
+}
+
+.image-placeholder {
+    width: 300px;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50%;
+}
+
+.image-placeholder img {
+    width: 100%;
+    height: 100%;
+    margin-top:35%;
+    object-fit: cover; /* Ensures the image fills the circle */
+}
+
+.card:hover {
+    border: 10px solid white;
+    box-shadow: 0px 0px 15px rgba(255, 255, 255, 1); /* White glow */
+}
+
+/* Centered Signup Page */
+.signup-container {
+    width: 30%;
+    margin: 80px auto;
+    background: rgba(255, 255, 255, 0.1); /* Slight transparency */
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.3);
+    text-align: center;
+}
+
+/* Form Styling */
+.signup-container h2 {
+    color: white;
+    margin-bottom: 20px;
+}
+
+.signup-container input {
+    width: 90%;
+    padding: 12px;
+    margin: 10px 0;
+    border: 2px solid #C4A77D; /* Tan border */
+    border-radius: 5px;
+    background: rgba(255, 255, 255, 0.2); /* Light transparency */
+    color: white;
+    font-size: 16px;
+}
+
+.signup-container input::placeholder {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+/* Signup Button */
+.signup-container button {
+    width: 95%;
+    padding: 12px;
+    background: #4F517D; /* Match site theme */
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease-in-out;
+}
+
+.signup-container button:hover {
+    background: white;
+    color: #4F517D;
+}
+
+/* Signup Links */
+.signup-container p {
+    color: white;
+    margin-top: 10px;
+}
+
+.signup-container a {
+    color: #88FBF4; /* Light blue for contrast */
+    text-decoration: none;
+}
+
+.signup-container a:hover {
+    text-decoration: underline;
+}

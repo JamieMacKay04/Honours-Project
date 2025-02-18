@@ -32,7 +32,6 @@ router.post('/register', async (req, res) => {
     }
 });
 
-// 🔹 User Login (POST request)
 router.post('/login', async (req, res) => {
     try {
         const { email, password } = req.body;
@@ -43,8 +42,10 @@ router.post('/login', async (req, res) => {
         const isMatch = await bcrypt.compare(password, user.password);
         if (!isMatch) return res.status(400).json({ error: 'Invalid credentials' });
 
+        // 🔥 Generate JWT Token (Optional)
         const token = jwt.sign({ userId: user._id }, 'secretKey', { expiresIn: '1h' });
-        res.status(200).json({ token, userId: user._id, username: user.username });
+
+        res.status(200).json({ message: 'Login successful!', token });
     } catch (err) {
         res.status(500).json({ error: err.message });
     }

@@ -18,6 +18,13 @@ h1 {
     margin-right: 40px;
 }
 
+h3 {
+
+    font-size: 30pt;
+    font-family: 'DM Sans';
+
+}
+
 .background-blur {
     position: fixed;
     top: 0;
@@ -57,21 +64,21 @@ header {
 
 .logo img {
     width: 100px;
-    margin-left: 40px;/* Adjust logo size */
+    margin-right: 30pt;/* Adjust logo size */
 }
 
 
-/* Card Container */
 .card-container {
     display: flex;
     justify-content: center;
     gap: 10%;
+    align-items: stretch; /* ✅ Ensures all cards stretch to the same height */
     margin-top: 50px;
 }
 
 .card {
     width: 20%;
-    height: 400px;
+    height: 500px;
     background: linear-gradient(to bottom, #C4A77D 53%, #5E503C 80%);
     display: flex;
     flex-direction: column; /* Stack elements vertically */
@@ -86,10 +93,28 @@ header {
     text-align: center; /* Centers text as well */
 }
 
+.card a {
+    display: flex; /* Make <a> cover the full card */
+    flex-direction: column; /* Keep image and text stacked */
+    justify-content: space-between; /* Keep content spaced */
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    text-decoration: none; /* Remove underline */
+    color: inherit; /* Keep text color */
+}
+
+
+.card:hover {
+    transform: translateY(-10px);
+    border: 10px solid white;
+    box-shadow: 0px 0px 15px rgba(255, 255, 255, 1.5); /* White glow */
+}
+
 .card-content {
     width: 100%;
     background: #4F517D;
-    padding: 10px;
+    padding: 11px;
     color: white;
     font-weight: bold;
     border-radius: 0 0 10px 10px;
@@ -118,13 +143,13 @@ hr {
     height: 300px;
     align-items: center;
     justify-content: center;
-    margin-bottom: 50%;
+    margin-bottom: 25%;
 }
 
 .image-placeholder img {
     width: 100%;
     height: 100%;
-    margin-top:35%;
+    margin-top:20%;
     object-fit: cover; /* Ensures the image fills the circle */
 }
 
@@ -198,3 +223,50 @@ hr {
 .signup-container a:hover {
     text-decoration: underline;
 }
+
+nav {
+
+
+    margin-left: 30pt;
+
+}
+
+ul {
+
+    display: flex;
+
+}
+
+nav a {
+    text-decoration: none; /* Removes default underline */
+    color: #f2f2f2; /* Default color */
+    font-size: 20pt;
+    font-family: 'DM Sans';
+    padding: 10px 170px;
+    transition: all 0.2s ease-in-out; /* ✅ Smooth transition */
+}
+
+/* 🔥 Hover Effect */
+nav a:hover {
+    text-decoration: underline; /* ✅ Adds underline */
+    color: #C4A77D; /* ✅ Change to relevant tan color */
+    background-color: rgba(255, 255, 255, 0.1); /* Optional: Light transparent background */
+    border-radius: 5px; /* Optional: Slightly rounded corners */
+}
+
+/* 🔥 Keep the active link styled */
+nav a.active {
+    color: white; /* ✅ Make active link white */
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+
+nav ul {
+    list-style: none; /* ✅ Removes bullet points */
+    padding: 0; /* ✅ Removes default padding */
+    margin: 0; /* ✅ Removes default margin */
+    display: flex; /* ✅ Keeps items in a row */
+    gap: 20px; /* Optional: Adds spacing between links */
+}
+

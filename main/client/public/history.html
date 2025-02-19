@@ -3,30 +3,68 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AutoBar Landing Page</title>
-    <link rel="stylesheet" href="styles\styles.css">
+    <title>Analytics - AutoBar</title>
+    <link rel="stylesheet" href="styles/styles.css">
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
 
-    
-
     <!-- HEADER -->
     <header>
-        
         <nav>
             <ul>
                 <a href="stockroom.html"><li>Virtual Stockroom</li></a>
-                <a href="history.html" class="active"><li>History</li></a>
-                <a href="analytics.html"><li>Analytics</li></a>
+                <a href="history.html"><li>History</li></a>
+                <a href="analytics.html" class="active"><li>Analytics</li></a>
             </ul>
         </nav>
-        
 
         <div class="logo">
             <img src="img/logo.png" alt="AutoBar Logo">
         </div>
     </header>
+
+    <div class="background-blur"></div>
+    <!-- Grey Band Background -->
+    <div class="grey-band"></div>
+
+    <!-- Analytics Options -->
+    <div class="analytics-container">
+            <div class="card large">
+                <a href="used-this-week.html">
+                    <div class="image-placeholder"></div>
+                    <div class="card-content">
+                        <p>Stock Order this week...</p>
+                    </div>
+                </a>
+        </div>
+
+        <div class="analytics-row">
+            <div class="card small">
+                <a href="best-vs-worst.html">
+                    <div class="image-placeholder"></div>
+                    <div class="card-content">
+                        <p>DD/MM/YYYY</p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="card button">
+                <a href="seasonal-trends.html">
+                    <div class="image-placeholder"></div>
+                    <div class="card-content">
+                        <p>Submit Button</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <script src="/js/nav.js"></script>
+
+</body>
+</html>
+
 
     <script src="/js/nav.js"></script>
 

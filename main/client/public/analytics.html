@@ -3,17 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AutoBar Landing Page</title>
-    <link rel="stylesheet" href="styles\styles.css">
+    <title>Analytics - AutoBar</title>
+    <link rel="stylesheet" href="styles/styles.css">
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
 
-    
-
     <!-- HEADER -->
     <header>
-        
         <nav>
             <ul>
                 <a href="stockroom.html"><li>Virtual Stockroom</li></a>
@@ -21,12 +18,55 @@
                 <a href="analytics.html" class="active"><li>Analytics</li></a>
             </ul>
         </nav>
-        
 
         <div class="logo">
             <img src="img/logo.png" alt="AutoBar Logo">
         </div>
     </header>
+
+    <div class="background-blur"></div>
+    <!-- Grey Band Background -->
+    <div class="grey-band"></div>
+
+    <!-- Analytics Options -->
+    <div class="analytics-container">
+        <div class="analytics-row single">
+            <div class="card large">
+                <a href="used-this-week.html">
+                    <div class="image-placeholder"></div>
+                    <div class="card-content">
+                        <p>Used this week...</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        <div class="analytics-row">
+            <div class="card small">
+                <a href="best-vs-worst.html">
+                    <div class="image-placeholder"></div>
+                    <div class="card-content">
+                        <p>Best vs. Worst Performing</p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="card small">
+                <a href="seasonal-trends.html">
+                    <div class="image-placeholder"></div>
+                    <div class="card-content">
+                        <p>Seasonal Trends</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <script src="/js/nav.js"></script>
+
+</body>
+</html>
+
 
     <script src="/js/nav.js"></script>
 

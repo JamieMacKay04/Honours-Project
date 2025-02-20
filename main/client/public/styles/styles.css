@@ -414,3 +414,137 @@ nav ul {
     color: inherit;
 }
 
+.analytics-container .card-content {
+    width: 100%;
+    background: #4F517D;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    border-radius: 0 0 10px 10px;
+    text-align: center;
+}
+
+.analytics-container .card.large .card-content {
+    width: 100%;
+    background: #4F517D;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    border-radius: 0 0 10px 10px;
+    margin-top:auto;
+    text-align: center;
+}
+
+/* Order Page Layout */
+.order-container {
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    gap: 30px;
+}
+
+/* First row: Large single card */
+.order-row.single {
+    margin-right: auto;
+    margin-left: 15%;
+}
+
+/* Second row: Two small cards side by side */
+.order-row {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 30px;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+
+/* Large Card (Order) */
+.order-container .card.large {
+    width: 500px;
+    height: 600px;
+    border: 11px solid #4F517D; /* ✅ Adds the blue outline */
+}
+
+/* Small Cards (Add, Confirm) */
+.order-container .card.small {
+    width: 400px;
+    height: 250px;
+}
+
+/* Input Fields (Name & Quantity) */
+.order-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    padding: 40px;
+}
+
+.order-form input {
+    width: 80%;
+    padding: 8px;
+    border: 2px solid #4F517D;
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
+    text-align: center;
+    font-size: 14px;
+    border-radius: 5px;
+}
+
+.order-form input::placeholder {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+/* Seasonal Trends Page Layout */
+.season-container {
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+    gap: 30px;
+}
+
+/* Title for Season */
+.season-title {
+    background: #4F517D;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    width: 20%;
+    margin:20pt auto;
+}
+
+/* First row: Large single card */
+.season-row.single {
+    justify-content: center;
+    margin-right: auto;
+    margin-left:300px;
+}
+
+/* Second row: Three small cards side by side */
+.season-row {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 10px auto;
+    gap: 20px;
+}
+
+/* Large Card (Info about season) */
+.season-container .card.large {
+    width: 750px;
+    height: 600px;
+}
+
+/* Small Cards (Beer, Wine, Cocktail) */
+.season-container .card.small {
+    width: 400px;
+    height: 250px;
+}
+
+/* Highlighted Card (Wine Choice) */
+.season-container .card.highlight {
+    border: 3px solid white;
+    box-shadow: 0px 0px 15px rgba(255, 255, 255, 1);
+}

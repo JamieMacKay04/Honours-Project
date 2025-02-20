@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Analytics - AutoBar</title>
+    <title>Order - AutoBar</title>
     <link rel="stylesheet" href="styles/styles.css">
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap" rel="stylesheet">
 </head>
@@ -13,8 +13,8 @@
     <header>
         <nav>
             <ul>
-                <a href="stockroom.html"><li>Virtual Stockroom</li></a>
-                <a href="history.html" class="active"><li>History</li></a>
+                <a href="stockroom.html" class="active"><li>Virtual Stockroom</li></a>
+                <a href="history.html"><li>History</li></a>
                 <a href="analytics.html"><li>Analytics</li></a>
             </ul>
         </nav>
@@ -28,29 +28,37 @@
     <!-- Grey Band Background -->
     <div class="grey-band"></div>
 
-    <!-- Analytics Options -->
-    <div class="analytics-container">
+    <!-- Order Page Layout -->
+    <div class="order-container">
+        <div class="order-row single">
             <div class="card large">
+                <a href="order-details.html">
                     <div class="image-placeholder"></div>
                     <div class="card-content">
-                        <p>Stock Order this week...</p>
-          </div>
-        </div>
-
-        <div class="analytics-row">
-            <div class="card small">
-                <a href="best-vs-worst.html">
-                    <div class="image-placeholder"></div>
-                    <div class="card-content">
-                        <p>DD/MM/YYYY</p>
+                        <p>Order</p>
                     </div>
                 </a>
             </div>
+        </div>
 
-            <div class="card button">
-                <a href="seasonal-trends.html">
+        <div class="order-row">
+            <div class="card small">
+                <div class="order-form">
+                    <input type="text" placeholder="Name">
+                    <input type="number" placeholder="Quantity">
+                </div>
+                <div class="card-content">
+                    <p>Add</p>
+                </div>
+
+                
+            </div>
+
+            <div class="card small">
+                <a href="confirm.html">
+                    <div class="image-placeholder"></div>
                     <div class="card-content">
-                        <p>Submit Button</p>
+                        <p>Confirm</p>
                     </div>
                 </a>
             </div>
@@ -58,13 +66,6 @@
     </div>
 
     <script src="/js/nav.js"></script>
-
-</body>
-</html>
-
-
-    <script src="/js/nav.js"></script>
-
 
 </body>
 </html>

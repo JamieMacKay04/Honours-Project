@@ -32,10 +32,18 @@ app.get('/login', (req, res) => {
     res.sendFile(path.join(__dirname, '../client/public/login.html'));
 });
 
+const orderRoutes = require('./routes/orderRoutes');
+app.use('/api/order', orderRoutes);
+
+// Import Routes
+const addStockRoute = require("./routes/addStock");
+app.use("/api", addStockRoute);
+
 // ✅ Use authentication routes
 app.use('/api/auth', authRoutes);
 
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => console.log(`🚀 Server running on port ${PORT}`));
+
 
 

@@ -378,6 +378,13 @@ nav ul {
     height: 250px;
 }
 
+.card.medium {
+
+    width: 700px;
+    height: 500px;
+
+}
+
 .analytics-container .card.button {
     width: 300px;
     height: 00px;
@@ -443,6 +450,8 @@ nav ul {
     gap: 30px;
 }
 
+
+
 /* First row: Large single card */
 .order-row.single {
     margin-right: auto;
@@ -452,7 +461,6 @@ nav ul {
 /* Second row: Two small cards side by side */
 .order-row {
     display: flex;
-    flex-direction: column;
     justify-content: center;
     gap: 30px;
     margin: 0 auto;
@@ -472,29 +480,71 @@ nav ul {
     height: 250px;
 }
 
-/* Input Fields (Name & Quantity) */
 .order-form {
     display: flex;
     flex-direction: column;
+    gap: 15px;
     align-items: center;
-    gap: 10px;
-    padding: 40px;
+    width: 100%;
 }
 
-.order-form input {
-    width: 80%;
-    padding: 8px;
-    border: 2px solid #4F517D;
-    background: rgba(255, 255, 255, 0.2);
+.order-form label {
+    font-size: 16px;
+    font-weight: bold;
     color: white;
-    text-align: center;
-    font-size: 14px;
-    border-radius: 5px;
+    align-self: flex-start;
 }
 
-.order-form input::placeholder {
-    color: rgba(255, 255, 255, 0.7);
+.order-form input,
+.order-form select {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid #4F517D;
+    background: white;
+    color: #333;
+    font-size: 16px;
+    border-radius: 5px;
+    outline: none;
 }
+
+.radio-group {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+    gap: 5px;
+}
+
+.radio-options {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    justify-content: flex-start;
+}
+
+.card-order {
+    margin-top: 20px;
+    width: 100%;
+    text-align: center;
+}
+
+.add-order-button {
+    padding: 12px 24px;
+    color: #ffffff;
+    font-size: 18px;
+    background-color: #4F517D;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s ease-in-out;
+}
+
+.add-order-button:hover {
+    background-color: white;
+    color: #4F517D;
+    border: 2px solid #4F517D;
+}
+
 
 /* Seasonal Trends Page Layout */
 .season-container {
@@ -547,4 +597,38 @@ nav ul {
 .season-container .card.highlight {
     border: 3px solid white;
     box-shadow: 0px 0px 15px rgba(255, 255, 255, 1);
+}
+
+#radiobuttons {
+    flex-direction: row !important;
+}
+
+.card-order {
+    margin-top: auto;
+    width: 100%;
+    background: #4F517D;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    border-radius: 0 0 15px 3px;
+    text-align: left; /* ✅ Aligns button to the left */
+}
+
+.add-order-button {
+    margin-left:39%;
+    padding:30px;
+    color: #ffffff;
+    text-decoration: bold;
+    font-size: 20px;
+    background-color:#C4A77D;
+    border:none;
+    border-radius: 10px;
+}
+
+.no-hover .card:hover,
+.no-hover .add-order-button:hover,
+.no-hover .order-form input:hover {
+    transform: none !important;
+    box-shadow: none !important;
+    border-color: #4F517D !important;
 }

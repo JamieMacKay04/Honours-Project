@@ -42,6 +42,9 @@ app.use("/api", addStockRoute);
 // ✅ Use authentication routes
 app.use('/api/auth', authRoutes);
 
+const getStockRoutes = require("./routes/getStock"); // Import the route
+app.use("/api", getStockRoutes); // Use it under `/api`
+
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => console.log(`🚀 Server running on port ${PORT}`));
 

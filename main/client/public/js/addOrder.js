@@ -23,8 +23,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
         const data = await response.json();
         if (response.ok) {
-            alert("Stock added successfully!");
             form.reset();
+            location.reload(); // ✅ Refresh the page after submission
+        
+        
         } else {
             alert(`Error: ${data.message}`);
         }

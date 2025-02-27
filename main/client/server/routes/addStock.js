@@ -16,6 +16,10 @@ router.post("/add-stock", async (req, res) => {
         console.error("Error adding stock:", error);
         res.status(500).json({ message: "Server Error" });
     }
+
+    
 });
+
+
 
 module.exports = router;

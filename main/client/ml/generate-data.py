@@ -3,20 +3,20 @@ import random
 
 # Define stock items (from your images)
 stock_items = [
-    ("Apple Juice", "Soft Drinks"), ("Bacardi Blanco", "Spirits"), ("Bira Moretti", "Beer"),
-    ("Bombay Gin", "Spirits"), ("Captain Morgan Spiced Rum", "Spirits"), ("Chardonnay", "Wine"),
-    ("Coca Cola", "Soft Drinks"), ("Coke Zero", "Soft Drinks"), ("Cointreau", "Spirits"),
-    ("Corona", "Beer"), ("Cranberry Juice", "Soft Drinks"), ("Dalmore 12", "Spirits"),
-    ("Diet Coke", "Soft Drinks"), ("Disaronno", "Spirits"), ("Havana Club 3", "Spirits"),
-    ("Havana Club 7", "Spirits"), ("High Commissioner", "Spirits"), ("Irn Bru", "Soft Drinks"),
-    ("J20", "Soft Drinks"), ("Jack Daniels", "Spirits"), ("Kahlua", "Spirits"),
-    ("Lemonade", "Soft Drinks"), ("Light Tonic", "Soft Drinks"), ("Limoncello", "Spirits"),
-    ("Macallan 12", "Spirits"), ("Malbec", "Wine"), ("Martini Rosso", "Spirits"),
-    ("Merlot", "Wine"), ("Moet", "Wine"), ("Orange Juice", "Soft Drinks"),
-    ("Passoa", "Spirits"), ("Peroni", "Beer"), ("Pineapple Juice", "Soft Drinks"),
-    ("Pink Gin", "Spirits"), ("Pinot Grigio", "Wine"), ("Prosecco", "Wine"),
-    ("Rijoca", "Wine"), ("Sauvignon Blanc", "Wine"), ("St Germain", "Spirits"),
-    ("Tanqueray 10", "Spirits"), ("Tonic Water", "Soft Drinks")
+    ("Apple Juice", "soft drinks"), ("Bacardi Blanco", "spirits"), ("Bira Moretti", "beer"),
+    ("Bombay Gin", "spirits"), ("Captain Morgan Spiced Rum", "spirits"), ("Chardonnay", "wine"),
+    ("Coca Cola", "soft drinks"), ("Coke Zero", "soft drinks"), ("Cointreau", "spirits"),
+    ("Corona", "beer"), ("Cranberry Juice", "soft drinks"), ("Dalmore 12", "spirits"),
+    ("Diet Coke", "soft drinks"), ("Disaronno", "spirits"), ("Havana Club 3", "spirits"),
+    ("Havana Club 7", "spirits"), ("High Commissioner", "spirits"), ("Irn Bru", "soft drinks"),
+    ("J20", "soft drinks"), ("Jack Daniels", "spirits"), ("Kahlua", "spirits"),
+    ("Lemonade", "soft drinks"), ("Light Tonic", "soft drinks"), ("Limoncello", "spirits"),
+    ("Macallan 12", "spirits"), ("Malbec", "wine"), ("Martini Rosso", "spirits"),
+    ("Merlot", "wine"), ("Moet", "wine"), ("Orange Juice", "soft drinks"),
+    ("Passoa", "spirits"), ("Peroni", "beer"), ("Pineapple Juice", "soft drinks"),
+    ("Pink Gin", "spirits"), ("Pinot Grigio", "wine"), ("Prosecco", "wine"),
+    ("Rijoca", "wine"), ("Sauvignon Blanc", "wine"), ("St Germain", "spirits"),
+    ("Tanqueray 10", "spirits"), ("Tonic Water", "soft drinks")
 ]
 
 # Define seasons

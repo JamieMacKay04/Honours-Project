@@ -13,7 +13,7 @@ df = pd.read_csv("stock_orders_50_weeks.csv")
 item_names = df["Item Name"]
 
 # ✅ One-Hot Encode "Season"
-df = pd.get_dummies(df, columns=["Season"])  
+df = pd.get_dummies(df, columns=["Season"])
 
 # ✅ Define features (X) and target variable (y)
 X = df[["Week", "Projected Covers", "Stock Left"] + list(df.filter(like="Season_").columns)]

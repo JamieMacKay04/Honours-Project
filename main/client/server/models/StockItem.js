@@ -3,8 +3,10 @@ const mongoose = require('mongoose');
 const StockItemSchema = new mongoose.Schema({
     name: { type: String, required: true },
     category: { type: String, enum: ['beer', 'wine', 'spirits', 'soft drinks'], required: true },
-    unit: { type: String, enum: ['bottle', 'ml', 'keg'], required: true },
+    unit: { type: String, enum: ['bottle', 'mL', 'keg'], required: true }, 
     quantity: { type: Number, required: true, min: 0 }
-}, { timestamps: true });
+}, { timestamps: false });  // ✅ Prevents 'createdAt' & 'updatedAt'
 
-module.exports = mongoose.model('StockItem', StockItemSchema);
+StockItemSchema.set("versionKey", false);  // ✅ Prevents '__v'
+
+module.exports = mongoose.model('StockItem', StockItemSchema, "stockitems");  // ✅ Ensure "stockitems" is specified

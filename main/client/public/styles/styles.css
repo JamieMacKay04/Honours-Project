@@ -248,7 +248,7 @@ nav a {
     color: #f2f2f2; /* Default color */
     font-size: 20pt;
     font-family: 'DM Sans';
-    padding: 10px 170px;
+    padding: 10px 250px;
     transition: all 0.2s ease-in-out; /* ✅ Smooth transition */
 }
 
@@ -273,7 +273,7 @@ nav ul {
     padding: 0; /* ✅ Removes default padding */
     margin: 0; /* ✅ Removes default margin */
     display: flex; /* ✅ Keeps items in a row */
-    gap: 20px; /* Optional: Adds spacing between links */
+    gap: 70px; /* Optional: Adds spacing between links */
 }
 
 /* Stockroom Page Layout */
@@ -382,6 +382,7 @@ nav ul {
 
     width: 700px;
     height: 500px;
+    margin: 100px auto;
 
 }
 
@@ -650,4 +651,10 @@ nav ul {
     padding: 10px;
     border: 1px solid #ddd; /* Optional: Add a border */
     text-align: center;
+}
+
+.pushdown {
+
+    margin-top:300px;
+
 }

@@ -3,6 +3,9 @@ const express = require('express');
 const cors = require('cors');
 const mongoose = require('mongoose');
 const path = require('path');
+const { exec } = require('child_process');  // Add this to use exec
+const fs = require('fs');
+
 
 const authRoutes = require('./routes/authRoutes');
 
@@ -36,8 +39,9 @@ const orderRoutes = require('./routes/orderRoutes');
 app.use('/api/order', orderRoutes);
 
 // Import Routes
-const addStockRoute = require("./routes/addStock");
-app.use("/api", addStockRoute);
+const addStockRoute = require("./routes/addStock");  // Correct import
+app.use("/api", addStockRoute);                      // Correct usage
+
 
 // ✅ Use authentication routes
 app.use('/api/auth', authRoutes);
@@ -47,6 +51,35 @@ app.use("/api", getStockRoutes); // Use it under `/api`
 
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => console.log(`🚀 Server running on port ${PORT}`));
+
+
+// ✅ Route to trigger Python scripts and send the CSV file
+app.post('/run-scripts', (req, res) => {
+    // Correct the path to the Python scripts
+    exec('python ../ml/trainmodel.py && python ../ml/updateDatabase.py', (error, stdout, stderr) => {
+        if (error) {
+            console.error(`Error: ${error.message}`);
+            return res.status(500).send('Error running Python scripts');
+        }
+        if (stderr) {
+            console.error(`stderr: ${stderr}`);
+            return res.status(500).send('Error running Python scripts');
+        }
+
+        // Correct file path for newOrder.csv
+        const filePath = path.join(__dirname, 'client/ml/newOrder.csv');
+
+        // Check if the newOrder.csv file exists
+        if (fs.existsSync(filePath)) {
+            // Send the file as a download response
+            res.setHeader('Content-Type', 'text/csv');
+            res.setHeader('Content-Disposition', 'attachment; filename=newOrder.csv');
+            fs.createReadStream(filePath).pipe(res);  // Stream the CSV file
+        } else {
+            res.status(404).send('newOrder.csv not found');
+        }
+    });
+});
 
 
 

@@ -7,4 +7,5 @@ const StockSchema = new mongoose.Schema({
     quantity: { type: Number, required: true },
 }, { timestamps: true });
 
-module.exports = mongoose.model("Stock", StockSchema);
+module.exports = mongoose.model("Stock", StockSchema, "stockitems");
+

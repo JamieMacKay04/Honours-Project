@@ -18,28 +18,26 @@ def read_csv_data(file_path):
         csv_reader = csv.DictReader(file)
         data = []
         for row in csv_reader:
-            row.pop('Projected Covers', None)  # Remove 'Projected Covers' if present
-            
-            # Handle 'Predicted Ordered Stock' ➔ 'quantity' (converted to int)
-            if 'Predicted Ordered Stock' in row:
+            # Ensure 'Ordered Stock' is converted to 'quantity'
+            if 'Ordered Stock' in row:
                 try:
-                    row['quantity'] = int(float(row.pop('Predicted Ordered Stock')))
+                    quantity = int(float(row.pop('Ordered Stock')))
+                    row['quantity'] = quantity  # Properly assign to 'quantity'
                 except ValueError:
                     print(f"⚠️ Invalid quantity for {row['Item Name']}. Skipping entry.")
                     continue  # Skip invalid entries
 
-            # Unit & Quantity Handling
+            # Set units based on category
             if row['Category'].strip().lower() == 'spirits':
                 row['unit'] = 'mL'
-                row['quantity'] *= 1000  # Convert to mL for new entries only
-                row['converted'] = True  # Flag to mark converted items
+                row['quantity'] *= 1000  # Convert to mL for spirits after 'quantity' has been defined
             else:
-                row['unit'] = 'bottle'  # Non-spirits remain in bottles
-            
+                row['unit'] = 'bottles'  # Set unit to 'bottles' for non-spirits
+
             data.append(row)
         return data
 
-# Function to insert or aggregate data in MongoDB
+# Function to insert or update data in MongoDB
 def insert_data(collection, data):
     for item in data:
         query = {"Item Name": item["Item Name"]}
@@ -49,13 +47,7 @@ def insert_data(collection, data):
 
         if existing_item:
             existing_quantity = int(existing_item.get("quantity", 0))
-            
-            # If item is a spirit, add mL values directly (skip multiplying by 1000 again)
-            if item['unit'] == 'mL':
-                new_quantity = existing_quantity + item['quantity']  # No extra multiplication
-            else:
-                new_quantity = existing_quantity + item['quantity']
-
+            new_quantity = existing_quantity + item['quantity']
             update = {"$set": {"quantity": new_quantity, "unit": item["unit"]}}
             collection.update_one(query, update)
             print(f"🔄 Updated {item['Item Name']} ➔ New Quantity: {new_quantity} {item['unit']} ✅")
@@ -78,7 +70,7 @@ if __name__ == "__main__":
         print(f"❌ Error: CSV file '{csv_file_path}' not found.")
         exit()
 
-    # Step 2: Connect to MongoDB and Insert/Aggregate Data
+    # Step 2: Connect to MongoDB and Insert/Update Data
     try:
         collection = connect_to_mongo()
         insert_data(collection, data)

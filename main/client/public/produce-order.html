@@ -8,7 +8,6 @@
 </head>
 <body class="no-hover">
 
-    <!-- HEADER -->
     <header>
         <nav>
             <ul>
@@ -23,18 +22,24 @@
     </header>
 
     <div class="background-blur"></div>
-    <!-- Grey Band Background -->
     <div class="grey-band"></div>
 
-    <!-- Button to trigger the scripts -->
-     <div class = "pushdown">
-<button class="add-order-button" onClick={handleButtonClick} id="runScriptsButton">
-    Run Scripts and Fetch New Orders
-</button>
+    <div class="pushdown">
+        <button class="add-order-button" onClick={handleButtonClick}  id="runScriptsButton">Run Scripts and Fetch New Orders</button>
 
-</div>
+        <div id="progress-container" style="display: none;">
+            <p id="status-text">Processing...</p>
+            <div id="progress-bar" style="
+                width: 0%;
+                height: 20px;
+                background-color: #4CAF50;
+                transition: width 0.3s ease;
+            "></div>
+        </div>
+        
+    <div id="output-container" style="margin-top: 20px;"></div>
 
-<script src="js/produceOrder.js"></script>
 
+    <script src="js/produceOrder.js"></script>
 </body>
 </html>

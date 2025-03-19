@@ -8,8 +8,6 @@
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
-
-    <!-- HEADER -->
     <header>
         <nav>
             <ul>
@@ -18,65 +16,34 @@
                 <a href="analytics.html" class="active"><li>Analytics</li></a>
             </ul>
         </nav>
-
         <div class="logo">
             <img src="img/logo.png" alt="AutoBar Logo">
         </div>
     </header>
 
     <div class="background-blur"></div>
-    <!-- Grey Band Background -->
     <div class="grey-band"></div>
 
-    <!-- Season Title -->
-    <div class="season-title">
-        <h3>"Season"</h3>
-    </div>
-
-    <!-- Seasonal Trends Page Layout -->
-    <div class="season-container">
-        <div class="season-row single">
-            <div class="card large">
-                <a href="season-info.html">
-                    <div class="image-placeholder"></div>
-                    <div class="card-content">
-                        <p>Info about season</p>
-                    </div>
-                </a>
+    <main class="seasonal-trends">
+        <h2>"Season"</h2>
+        <div class="season-info">
+            <div class="season-box">
+                <p>Info about season</p>
+            </div>
+            <div class="choices">
+                <div class="choice beer">
+                    <p>Beer Choice</p>
+                </div>
+                <div class="choice wine">
+                    <p>Wine Choice</p>
+                </div>
+                <div class="choice cocktail">
+                    <p>Cocktail Choice</p>
+                </div>
             </div>
         </div>
-
-        <div class="season-row">
-            <div class="card small">
-                <a href="beer-choice.html">
-                    <div class="image-placeholder"></div>
-                    <div class="card-content">
-                        <p>Beer Choice</p>
-                    </div>
-                </a>
-            </div>
-
-            <div class="card small">
-                <a href="wine-choice.html">
-                    <div class="image-placeholder"></div>
-                    <div class="card-content">
-                        <p>Wine Choice</p>
-                    </div>
-                </a>
-            </div>
-
-            <div class="card small">
-                <a href="cocktail-choice.html">
-                    <div class="image-placeholder"></div>
-                    <div class="card-content">
-                        <p>Cocktail Choice</p>
-                    </div>
-                </a>
-            </div>
-        </div>
-    </div>
+    </main>
 
     <script src="/js/nav.js"></script>
-
 </body>
 </html>

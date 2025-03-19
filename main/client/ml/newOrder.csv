@@ -1,44 +1,169 @@
 Item Name,Category,Ordered Stock
-Apple Juice,soft drinks,8
-Aperol,spirits,5
-Bacardi Blanco,spirits,5
-Bira Moretti,beer,31
-Bombay Gin,spirits,5
-Captain Morgan Spiced Rum,spirits,5
-Chardonnay,wine,5
-Coca Cola,soft drinks,5
-Coke Zero,soft drinks,11
-Cointreau,spirits,5
-Corona,beer,21
-Cranberry Juice,soft drinks,7
-Dalmore 12,spirits,5
-Diet Coke,soft drinks,11
-Disaronno,spirits,5
-Finlandia Vodka,spirits,5
-Havana Club 3,spirits,5
-Havana Club 7,spirits,5
-High Commissioner,spirits,5
-Irn Bru,soft drinks,5
-J20,soft drinks,17
-Jack Daniels,spirits,5
-Kahlua,spirits,5
-Lemonade,soft drinks,26
-Light Tonic,soft drinks,5
-Limoncello,spirits,5
-Macallan 12,spirits,5
-Malbec,wine,5
-Martini Rosso,spirits,5
-Merlot,wine,5
-Moet,wine,5
-Orange Juice,soft drinks,9
-Passoa,spirits,5
-Peroni,beer,5
-Pineapple Juice,soft drinks,16
-Pink Gin,spirits,5
-Pinot Grigio,wine,5
-Prosecco,wine,5
-Rijoca,wine,17
-Sauvignon Blanc,wine,5
-St Germain,spirits,5
-Tanqueray 10,spirits,5
-Tonic Water,soft drinks,30
+Aperol,spirits,16
+Bacardi Blanco,spirits,10
+Bira Moretti,beer,23
+Bombay Gin,spirits,11
+Captain Morgan Spiced Rum,spirits,12
+Chardonnay,wine,12
+Coca Cola,soft drinks,22
+Coke Zero,soft drinks,16
+Cointreau,spirits,10
+Corona,beer,16
+Cranberry Juice,soft drinks,13
+Dalmore 12,spirits,10
+Diet Coke,soft drinks,14
+Disaronno,spirits,11
+Finlandia Vodka,spirits,12
+Havana Club 3,spirits,10
+Havana Club 7,spirits,10
+High Commissioner,spirits,11
+Irn Bru,soft drinks,13
+J20,soft drinks,12
+Jack Daniels,spirits,10
+Kahlua,spirits,10
+Lemonade,soft drinks,15
+Light Tonic,soft drinks,15
+Limoncello,spirits,11
+Macallan 12,spirits,9
+Malbec,wine,13
+Martini Rosso,spirits,9
+Merlot,wine,13
+Moet,wine,14
+Orange Juice,soft drinks,15
+Passoa,spirits,10
+Peroni,beer,21
+Pineapple Juice,soft drinks,13
+Pink Gin,spirits,10
+Pinot Grigio,wine,12
+Prosecco,wine,13
+Rijoca,wine,11
+Sauvignon Blanc,wine,11
+St Germain,spirits,11
+Tanqueray 10,spirits,11
+Tonic Water,soft drinks,14
+Aperol,spirits,16
+Bacardi Blanco,spirits,10
+Bira Moretti,beer,23
+Bombay Gin,spirits,11
+Captain Morgan Spiced Rum,spirits,12
+Chardonnay,wine,12
+Coca Cola,soft drinks,22
+Coke Zero,soft drinks,16
+Cointreau,spirits,10
+Corona,beer,16
+Cranberry Juice,soft drinks,13
+Dalmore 12,spirits,10
+Diet Coke,soft drinks,14
+Disaronno,spirits,11
+Finlandia Vodka,spirits,12
+Havana Club 3,spirits,10
+Havana Club 7,spirits,10
+High Commissioner,spirits,11
+Irn Bru,soft drinks,13
+J20,soft drinks,12
+Jack Daniels,spirits,10
+Kahlua,spirits,10
+Lemonade,soft drinks,15
+Light Tonic,soft drinks,15
+Limoncello,spirits,11
+Macallan 12,spirits,9
+Malbec,wine,13
+Martini Rosso,spirits,9
+Merlot,wine,13
+Moet,wine,14
+Orange Juice,soft drinks,15
+Passoa,spirits,10
+Peroni,beer,21
+Pineapple Juice,soft drinks,13
+Pink Gin,spirits,10
+Pinot Grigio,wine,12
+Prosecco,wine,13
+Rijoca,wine,11
+Sauvignon Blanc,wine,11
+St Germain,spirits,11
+Tanqueray 10,spirits,11
+Tonic Water,soft drinks,14
+Aperol,spirits,16
+Bacardi Blanco,spirits,10
+Bira Moretti,beer,23
+Bombay Gin,spirits,11
+Captain Morgan Spiced Rum,spirits,12
+Chardonnay,wine,12
+Coca Cola,soft drinks,22
+Coke Zero,soft drinks,16
+Cointreau,spirits,10
+Corona,beer,16
+Cranberry Juice,soft drinks,13
+Dalmore 12,spirits,10
+Diet Coke,soft drinks,14
+Disaronno,spirits,11
+Finlandia Vodka,spirits,12
+Havana Club 3,spirits,10
+Havana Club 7,spirits,10
+High Commissioner,spirits,11
+Irn Bru,soft drinks,13
+J20,soft drinks,12
+Jack Daniels,spirits,10
+Kahlua,spirits,10
+Lemonade,soft drinks,15
+Light Tonic,soft drinks,15
+Limoncello,spirits,11
+Macallan 12,spirits,9
+Malbec,wine,13
+Martini Rosso,spirits,9
+Merlot,wine,13
+Moet,wine,14
+Orange Juice,soft drinks,15
+Passoa,spirits,10
+Peroni,beer,21
+Pineapple Juice,soft drinks,13
+Pink Gin,spirits,10
+Pinot Grigio,wine,12
+Prosecco,wine,13
+Rijoca,wine,11
+Sauvignon Blanc,wine,11
+St Germain,spirits,11
+Tanqueray 10,spirits,11
+Tonic Water,soft drinks,14
+Aperol,spirits,16
+Bacardi Blanco,spirits,10
+Bira Moretti,beer,23
+Bombay Gin,spirits,11
+Captain Morgan Spiced Rum,spirits,12
+Chardonnay,wine,12
+Coca Cola,soft drinks,22
+Coke Zero,soft drinks,16
+Cointreau,spirits,10
+Corona,beer,16
+Cranberry Juice,soft drinks,13
+Dalmore 12,spirits,10
+Diet Coke,soft drinks,14
+Disaronno,spirits,11
+Finlandia Vodka,spirits,12
+Havana Club 3,spirits,10
+Havana Club 7,spirits,10
+High Commissioner,spirits,11
+Irn Bru,soft drinks,13
+J20,soft drinks,12
+Jack Daniels,spirits,10
+Kahlua,spirits,10
+Lemonade,soft drinks,15
+Light Tonic,soft drinks,15
+Limoncello,spirits,11
+Macallan 12,spirits,9
+Malbec,wine,13
+Martini Rosso,spirits,9
+Merlot,wine,13
+Moet,wine,14
+Orange Juice,soft drinks,15
+Passoa,spirits,10
+Peroni,beer,21
+Pineapple Juice,soft drinks,13
+Pink Gin,spirits,10
+Pinot Grigio,wine,12
+Prosecco,wine,13
+Rijoca,wine,11
+Sauvignon Blanc,wine,11
+St Germain,spirits,11
+Tanqueray 10,spirits,11
+Tonic Water,soft drinks,14

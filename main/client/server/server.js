@@ -35,13 +35,16 @@ app.get('/login', (req, res) => {
     res.sendFile(path.join(__dirname, '../client/public/login.html'));
 });
 
-const orderRoutes = require('./routes/orderRoutes');
+const orderRoutes = require('./routes/orderRoutes');  // Existing Route
 app.use('/api/order', orderRoutes);
+
+const scriptRoutes = require('./routes/scriptRoutes');
+app.use('/api/script', scriptRoutes);
+
 
 // Import Routes
 const addStockRoute = require("./routes/addStock");  // Correct import
 app.use("/api", addStockRoute);                      // Correct usage
-
 
 // ✅ Use authentication routes
 app.use('/api/auth', authRoutes);

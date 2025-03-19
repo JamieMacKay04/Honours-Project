@@ -64,16 +64,16 @@ if __name__ == "__main__":
     try:
         data = read_csv_data(csv_file_path)
         if not data:
-            print("❌ No data found in CSV file.")
+            print(" No data found in CSV file.")
             exit()
     except FileNotFoundError:
-        print(f"❌ Error: CSV file '{csv_file_path}' not found.")
+        print(f" Error: CSV file '{csv_file_path}' not found.")
         exit()
 
     # Step 2: Connect to MongoDB and Insert/Update Data
     try:
         collection = connect_to_mongo()
         insert_data(collection, data)
-        print("🚀 Database update completed successfully!")
+        print(" Database update completed successfully!")
     except Exception as e:
-        print(f"❌ Database error: {e}")
+        print(f" Database error: {e}")

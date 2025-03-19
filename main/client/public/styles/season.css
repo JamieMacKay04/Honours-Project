@@ -142,6 +142,8 @@ nav a.active {
     color: white;
     font-weight: bold;
     border-radius: 0 0 10px 10px;
+    border-color: #4F517D;
+    border-width: 5px;
 }
 
 

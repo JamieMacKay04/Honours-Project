@@ -699,12 +699,15 @@ main.seasonal-trends {
     padding: 3rem;
     text-align: center;
     border-radius: 8px;
+    border-width: 5px;
+    border-color: #4F517D;
+    border-style: solid;
 }
 
 .choices {
     display: flex;
     flex-direction: column;
-    gap: 1rem;
+    gap: 3rem;
     flex: 1;
 }
 
@@ -714,8 +717,219 @@ main.seasonal-trends {
     text-align: center;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    border-width: 5px;
+    border-color: #4F517D;
+    border-style: solid;
 }
 
-.choice.wine {
-    border: 3px solid #A28C65;
+.stock-list-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%;
+    border: 2px solid #8B6F47;
+    padding: 20px;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3);
+    background-color: #C4A77D;
+    border-radius: 12px;
+    text-align: center;
 }
+
+.beer-list-title {
+    margin-bottom: 20px;
+    color: #4E342E;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+}
+
+#beerList {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+}
+
+#beerList li {
+    background-color: #FAF3E0;
+    padding: 15px 20px;
+    color:#4F517D;
+    border: 1px solid #8B6F47;
+    border-radius: 8px;
+    box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s ease-in-out;
+    width: 250px;
+    text-align: left;
+}
+
+#beerList li:hover {
+    transform: scale(1.05);
+    background-color: #F5E1A4;
+}
+
+#beerList li::before {
+    content: "🍺";
+    margin-right: 8px;
+    color: #8B6F47;
+    font-size: 1.2rem;
+}
+
+#spiritsList li::after {
+    content: "ml";
+}
+
+
+.spirits-list-title {
+    margin-bottom: 20px;
+    color: #4E342E;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+}
+
+#spiritsList {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+}
+
+#spiritsList li {
+    background-color: #FAF3E0;
+    padding: 15px 20px;
+    color:#4F517D;
+    border: 1px solid #8B6F47;
+    border-radius: 8px;
+    box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s ease-in-out;
+    width: 250px;
+    text-align: left;
+}
+
+#spiritsList li:hover {
+    transform: scale(1.05);
+    background-color: #F5E1A4;
+}
+
+#spiritsList li::before {
+    content: "🥃";
+    margin-right: 8px;
+    color: #8B6F47;
+    font-size: 1.2rem;
+}
+
+
+
+.wine-list-title {
+    margin-bottom: 20px;
+    color: #4E342E;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+}
+
+#wineList {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+}
+
+#wineList li {
+    background-color: #FAF3E0;
+    padding: 15px 20px;
+    color:#4F517D;
+    border: 1px solid #8B6F47;
+    border-radius: 8px;
+    box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s ease-in-out;
+    width: 250px;
+    text-align: left;
+}
+
+#wineList li:hover {
+    transform: scale(1.05);
+    background-color: #F5E1A4;
+}
+
+#wineList li::before {
+    content: "🍷";
+    margin-right: 8px;
+    color: #8B6F47;
+    font-size: 1.2rem;
+}
+
+
+.softdrinks-list-title {
+    margin-bottom: 20px;
+    color: #4E342E;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+}
+
+#softList {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+}
+
+#softList li {
+    background-color: #FAF3E0;
+    padding: 15px 20px;
+    color:#4F517D;
+    border: 1px solid #8B6F47;
+    border-radius: 8px;
+    box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s ease-in-out;
+    width: 250px;
+    text-align: left;
+}
+
+#softList li:hover {
+    transform: scale(1.05);
+    background-color: #F5E1A4;
+}
+
+#softList li::before {
+    content: "🥤";
+    margin-right: 8px;
+    color: #8B6F47;
+    font-size: 1.2rem;
+}
+
+.category-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%;
+    border: 1px solid #ccc;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #C4A77D;
+}
+
+.category-title {
+    margin-bottom: 20px;
+    color: #4E342E;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+}
+

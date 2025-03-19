@@ -49,6 +49,16 @@ app.use("/api", addStockRoute);                      // Correct usage
 // ✅ Use authentication routes
 app.use('/api/auth', authRoutes);
 
+const beerRoutes = require('./routes/beerRoutes');
+const wineRoutes = require('./routes/wineRoutes');
+const spiritsRoutes = require('./routes/spiritsRoutes');
+const softDrinksRoutes = require('./routes/softDrinksRoutes');
+
+app.use('/api/wines', wineRoutes);
+app.use('/api/spirits', spiritsRoutes);
+app.use('/api/softdrinks', softDrinksRoutes);
+app.use('/api', beerRoutes);
+
 const getStockRoutes = require("./routes/getStock"); // Import the route
 app.use("/api", getStockRoutes); // Use it under `/api`
 

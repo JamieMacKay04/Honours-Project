@@ -8,11 +8,13 @@ const fs = require('fs');
 
 const authRoutes = require('./routes/authRoutes');
 
+
 const app = express();
 app.use(cors());
 app.use(express.json());
 
 app.use(express.static(path.join(__dirname, '../public')));
+app.use(express.static(path.join(__dirname, '../client/public')));
 
 // 🔥 Connect to MongoDB
 mongoose.connect(process.env.MONGO_URI || 'mongodb://localhost:27017/mydatabase', {

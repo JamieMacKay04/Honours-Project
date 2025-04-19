@@ -129,4 +129,4 @@ final_output.to_csv(stock_orders_path, mode='a', header=False, index=False)
 output_path = os.path.join(dir_path, 'newOrder.csv')
 print(f"Saving newOrder.csv to: {output_path}")  # Debugging Step
 output.to_csv(output_path, index=False)
-
+subprocess.run(['python', 'analytics.py'])

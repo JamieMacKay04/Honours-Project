@@ -3,9 +3,8 @@ const express = require('express');
 const cors = require('cors');
 const mongoose = require('mongoose');
 const path = require('path');
-const { exec } = require('child_process');  // Add this to use exec
+const { exec } = require('child_process'); 
 const fs = require('fs');
-
 
 const authRoutes = require('./routes/authRoutes');
 
@@ -13,7 +12,6 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-// ✅ Serve Static Files from `client/public/`
 app.use(express.static(path.join(__dirname, '../public')));
 
 // 🔥 Connect to MongoDB
@@ -41,6 +39,11 @@ app.use('/api/order', orderRoutes);
 const scriptRoutes = require('./routes/scriptRoutes');
 app.use('/api/script', scriptRoutes);
 
+const latestWeekRoute = require('./routes/latest-week');
+app.use('/api/script', latestWeekRoute); // Available at /api/latest-week
+
+
+
 
 // Import Routes
 const addStockRoute = require("./routes/addStock");  // Correct import
@@ -64,6 +67,10 @@ app.use("/api", getStockRoutes); // Use it under `/api`
 
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => console.log(`🚀 Server running on port ${PORT}`));
+
+const analyticsRoutes = require('./routes/latest-week');
+app.use('/', analyticsRoutes);
+
 
 
 // ✅ Route to trigger Python scripts and send the CSV file

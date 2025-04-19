@@ -7,7 +7,6 @@
     <link rel="stylesheet" href="styles/styles.css">
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap" rel="stylesheet">
 </head>
-<body>
 
     <!-- HEADER -->
     <header>
@@ -15,7 +14,7 @@
             <ul>
                 <a href="stockroom.html"><li>Virtual Stockroom</li></a>
         
-                <a href="analytics.html"" class="active"><li>Analytics</li></a>
+                <a href="analytics.html" class="active"><li>Analytics</li></a>
             </ul>
         </nav>
 
@@ -23,6 +22,25 @@
             <img src="img/logo.png" alt="AutoBar Logo">
         </div>
     </header>
+    <body>
+
+        <div class="insight-container">
+          <h2>Weekly Order Summary</h2>
+      
+          <div class="charts-box">
+            <div class="chart">
+              <p>Total Items Ordered</p>
+              <img src="../ml/beer_trends.png" alt="Bar graph of total items ordered" />
+            </div>
+
+            <div class="chart">
+              <p>Beer Order Trends</p>
+              <img src="../ml/weekly_totals.png" alt="Line graph of beer trends" />
+            </div>
+          </div>
+      
+          <p class="footnote">Based on historical data up to Week 50.</p>
+        </div>
 
     <div class="background-blur"></div>
     <!-- Grey Band Background -->
@@ -30,13 +48,8 @@
 
 
     <script src="/js/nav.js"></script>
+    <script src="/js/insights.js"></script>
 
 </body>
 </html>
 
-
-    <script src="/js/nav.js"></script>
-
-
-</body>
-</html>

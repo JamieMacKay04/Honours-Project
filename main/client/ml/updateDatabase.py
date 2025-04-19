@@ -17,25 +17,33 @@ def read_csv_data(file_path):
     with open(file_path, mode='r') as file:
         csv_reader = csv.DictReader(file)
         data = []
+        processed_items = set()  # Set to track processed item names
         for row in csv_reader:
-            # Ensure 'Ordered Stock' is converted to 'quantity'
+            item_name = row['Item Name']
+            
+            # Skip if the item has already been processed
+            if item_name in processed_items:
+                continue
+
+            processed_items.add(item_name)  # Mark this item as processed
+            
             if 'Ordered Stock' in row:
                 try:
                     quantity = int(float(row.pop('Ordered Stock')))
-                    row['quantity'] = quantity  # Properly assign to 'quantity'
+                    row['quantity'] = quantity
                 except ValueError:
                     print(f"⚠️ Invalid quantity for {row['Item Name']}. Skipping entry.")
-                    continue  # Skip invalid entries
+                    continue
 
-            # Set units based on category
             if row['Category'].strip().lower() == 'spirits':
                 row['unit'] = 'mL'
-                row['quantity'] *= 1000  # Convert to mL for spirits after 'quantity' has been defined
+                row['quantity'] *= 1000
             else:
-                row['unit'] = 'bottles'  # Set unit to 'bottles' for non-spirits
+                row['unit'] = 'bottles'
 
             data.append(row)
         return data
+
 
 # Function to insert or update data in MongoDB
 def insert_data(collection, data):

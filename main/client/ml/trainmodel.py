@@ -9,6 +9,7 @@ from datetime import datetime, timedelta
 import requests  # For fetching weather data
 from pymongo import MongoClient
 import os
+import subprocess
 os.environ["PYTHONIOENCODING"] = "utf-8"
 
 dir_path = os.path.dirname(os.path.realpath(__file__))
@@ -51,7 +52,7 @@ def get_weather_forecast():
         print(" Error fetching weather data.")
         return 12, 0  # Default values if API fails
     forecast_data = response['timelines']['daily']
-    weekday_weight = {0: 0.7, 1: 0.7, 2: 0.7, 3: 0.7, 4: 0.7, 5: 1.3, 6: 1.3}  # Weighting system for weekdays
+    weekday_weight = {0: 0.7, 1: 0.7, 2: 0.7, 3: 0.7, 4: 1.3, 5: 1.3, 6: 1}  # Weighting system for weekdays
     weighted_temp = 0
     weighted_rainfall = 0
     for entry in forecast_data:
@@ -79,7 +80,7 @@ X_scaled = scaler.fit_transform(X)
 X_train, X_test, y_train, y_test = train_test_split(X_scaled, y, test_size=0.2, random_state=42)
 
 model = Sequential([
-    Input(shape=(X_train.shape[1],)),  # Adjust this based on your input feature size
+    Input(shape=(X_train.shape[1],)),  
     Dense(64, activation='relu'),
     Dense(32, activation='relu'),
     Dense(1)
@@ -128,3 +129,4 @@ final_output.to_csv(stock_orders_path, mode='a', header=False, index=False)
 output_path = os.path.join(dir_path, 'newOrder.csv')
 print(f"Saving newOrder.csv to: {output_path}")  # Debugging Step
 output.to_csv(output_path, index=False)
+

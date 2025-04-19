@@ -43,4 +43,20 @@ document.getElementById('runScriptsButton').addEventListener('click', async () =
         progressBar.style.width = '100%';
         statusText.textContent = 'Error: Failed to run scripts.';
     }
+
+});
+
+document.getElementById('update').addEventListener('click', async () => {
+    try {
+        const response = await fetch('http://localhost:5000/api/script/run-update', { method: 'POST' });
+
+        if (!response.ok) {
+            throw new Error('Failed to update database');
+        }
+
+        alert('✅ Database updated successfully!');
+    } catch (error) {
+        console.error('Update Error:', error);
+        alert('❌ Failed to update the database.');
+    }
 });

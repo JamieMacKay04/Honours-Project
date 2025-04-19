@@ -41,4 +41,20 @@ router.post('/run-scripts', (req, res) => {
     });
 });
 
+router.post('/run-update', (req, res) => {
+    const scriptPath = path.join(__dirname, '../../ml/updateDatabase.py');
+    exec(`python "${scriptPath}"`, (error, stdout, stderr) => {
+      if (error) {
+        console.error('Update script error:', error.message);
+        return res.status(500).send('Failed to update database');
+      }
+      if (stderr) {
+        console.error('Update stderr:', stderr);
+      }
+      console.log('Update stdout:', stdout);
+      res.status(200).send('Database update completed.');
+    });
+  });
+  
+
 module.exports = router;

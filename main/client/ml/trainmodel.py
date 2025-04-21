@@ -80,7 +80,7 @@ X_scaled = scaler.fit_transform(X)
 X_train, X_test, y_train, y_test = train_test_split(X_scaled, y, test_size=0.2, random_state=42)
 
 model = Sequential([
-    Input(shape=(X_train.shape[1],)),  
+    Input(shape=(X_train.shape[1],)),
     Dense(64, activation='relu'),
     Dense(32, activation='relu'),
     Dense(1)

@@ -5,6 +5,7 @@ const mongoose = require('mongoose');
 const path = require('path');
 const { exec } = require('child_process'); 
 const fs = require('fs');
+const multer = require('multer');
 
 const authRoutes = require('./routes/authRoutes');
 
@@ -44,6 +45,32 @@ app.use('/api/script', scriptRoutes);
 const latestWeekRoute = require('./routes/latest-week');
 app.use('/api/script', latestWeekRoute); // Available at /api/latest-week
 
+// Route to fetch all stock items
+app.get('/api/stockitems', async (req, res) => {
+    try {
+        const stockItems = await StockItem.find();
+        res.json(stockItems);
+    } catch (err) {
+        console.error(err);
+        res.status(500).send('Error fetching stock items');
+    }
+});
+
+// Route to update a stock item's quantity
+app.post('/api/stockitems/update', async (req, res) => {
+    const { itemId, quantity } = req.body;
+
+    try {
+        const updatedItem = await StockItem.findByIdAndUpdate(itemId, { quantity }, { new: true });
+        if (!updatedItem) {
+            return res.status(404).send('Item not found');
+        }
+        res.json(updatedItem);
+    } catch (err) {
+        console.error(err);
+        res.status(500).send('Error updating stock item');
+    }
+});
 
 
 
@@ -73,7 +100,25 @@ app.listen(PORT, () => console.log(`🚀 Server running on port ${PORT}`));
 const analyticsRoutes = require('./routes/latest-week');
 app.use('/', analyticsRoutes);
 
+const storage = multer.diskStorage({
+    destination: (req, file, cb) => {
+        cb(null, '../ml'); // make sure this folder exists
+    },
+    filename: (req, file, cb) => {
+        cb(null, 'stockOrder.csv');
+    }
+});
 
+const upload = multer({ storage: storage });
+
+app.post('/upload-endpoint', upload.single('file'), (req, res) => {
+    if (!req.file) {
+        return res.status(400).send('No file uploaded');
+    }
+
+    console.log('File uploaded:', req.file.filename);
+    res.status(200).json({ message: 'File uploaded successfully', fileName: req.file.filename });
+});
 
 // ✅ Route to trigger Python scripts and send the CSV file
 app.post('/run-scripts', (req, res) => {

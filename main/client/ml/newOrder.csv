@@ -1,44 +1,85 @@
 Item Name,Category,Ordered Stock
-Apple Juice,soft drinks,8
-Aperol,spirits,5
+Aperol,spirits,10
 Bacardi Blanco,spirits,5
-Bira Moretti,beer,31
-Bombay Gin,spirits,5
-Captain Morgan Spiced Rum,spirits,5
-Chardonnay,wine,5
-Coca Cola,soft drinks,5
-Coke Zero,soft drinks,11
+Bira Moretti,beer,14
+Bombay Gin,spirits,6
+Captain Morgan Spiced Rum,spirits,7
+Chardonnay,wine,7
+Coca Cola,soft drinks,13
+Coke Zero,soft drinks,10
 Cointreau,spirits,5
-Corona,beer,21
-Cranberry Juice,soft drinks,6
+Corona,beer,10
+Cranberry Juice,soft drinks,8
 Dalmore 12,spirits,5
-Diet Coke,soft drinks,11
+Diet Coke,soft drinks,9
 Disaronno,spirits,5
-Finlandia Vodka,spirits,5
+Finlandia Vodka,spirits,8
 Havana Club 3,spirits,5
 Havana Club 7,spirits,5
 High Commissioner,spirits,5
-Irn Bru,soft drinks,5
-J20,soft drinks,18
+Irn Bru,soft drinks,9
+J20,soft drinks,7
 Jack Daniels,spirits,5
 Kahlua,spirits,5
-Lemonade,soft drinks,26
-Light Tonic,soft drinks,5
+Lemonade,soft drinks,10
+Light Tonic,soft drinks,10
 Limoncello,spirits,5
 Macallan 12,spirits,5
-Malbec,wine,5
+Malbec,wine,8
 Martini Rosso,spirits,5
-Merlot,wine,5
-Moet,wine,5
-Orange Juice,soft drinks,9
+Merlot,wine,9
+Moet,wine,9
+Orange Juice,soft drinks,10
 Passoa,spirits,5
-Peroni,beer,5
-Pineapple Juice,soft drinks,16
+Peroni,beer,12
+Pineapple Juice,soft drinks,9
 Pink Gin,spirits,5
-Pinot Grigio,wine,5
-Prosecco,wine,5
-Rijoca,wine,18
-Sauvignon Blanc,wine,5
-St Germain,spirits,5
+Pinot Grigio,wine,8
+Prosecco,wine,8
+Rijoca,wine,6
+Sauvignon Blanc,wine,6
+St Germain,spirits,6
 Tanqueray 10,spirits,5
-Tonic Water,soft drinks,30
+Tonic Water,soft drinks,10
+Aperol,spirits,10
+Bacardi Blanco,spirits,5
+Bira Moretti,beer,14
+Bombay Gin,spirits,6
+Captain Morgan Spiced Rum,spirits,7
+Chardonnay,wine,7
+Coca Cola,soft drinks,13
+Coke Zero,soft drinks,10
+Cointreau,spirits,5
+Corona,beer,10
+Cranberry Juice,soft drinks,8
+Dalmore 12,spirits,5
+Diet Coke,soft drinks,9
+Disaronno,spirits,5
+Finlandia Vodka,spirits,8
+Havana Club 3,spirits,5
+Havana Club 7,spirits,5
+High Commissioner,spirits,5
+Irn Bru,soft drinks,9
+J20,soft drinks,7
+Jack Daniels,spirits,5
+Kahlua,spirits,5
+Lemonade,soft drinks,10
+Light Tonic,soft drinks,10
+Limoncello,spirits,5
+Macallan 12,spirits,5
+Malbec,wine,8
+Martini Rosso,spirits,5
+Merlot,wine,9
+Moet,wine,9
+Orange Juice,soft drinks,10
+Passoa,spirits,5
+Peroni,beer,12
+Pineapple Juice,soft drinks,9
+Pink Gin,spirits,5
+Pinot Grigio,wine,8
+Prosecco,wine,8
+Rijoca,wine,6
+Sauvignon Blanc,wine,6
+St Germain,spirits,6
+Tanqueray 10,spirits,5
+Tonic Water,soft drinks,10

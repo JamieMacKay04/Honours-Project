@@ -484,6 +484,7 @@ nav ul {
 .order-form {
     display: flex;
     flex-direction: column;
+    padding-top: 30px;
     gap: 15px;
     align-items: center;
     width: 100%;
@@ -529,7 +530,7 @@ nav ul {
     text-align: center;
 }
 
-.add-order-button {
+.add-order-button, .update-file-button  {
     padding: 12px 24px;
     color: #ffffff;
     font-size: 18px;
@@ -538,9 +539,10 @@ nav ul {
     border-radius: 8px;
     cursor: pointer;
     transition: background 0.3s ease-in-out;
+    margin-bottom: 10px;
 }
 
-.add-order-button:hover {
+.add-order-button:hover, .update-file-button:hover {
     background-color: white;
     color: #4F517D;
     border: 2px solid #4F517D;
@@ -988,3 +990,5 @@ main.seasonal-trends {
     color: #bcae93;
   }
 
+  .stock-item { margin: 10px; padding: 10px; border: 1px solid #ccc; }
+    .stock-item input { width: 50px; }

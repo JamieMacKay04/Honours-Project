@@ -1,0 +1,2655 @@
+Week,Item Name,Category,Ordered Stock,Projected Covers,Stock Left,Season
+1,Apple Juice,soft drinks,4,32,0,Winter
+1,Aperol,spirits,1,32,0,Winter
+1,Bacardi Blanco,spirits,0,32,0,Winter
+1,Bira Moretti,beer,13,32,0,Winter
+1,Bombay Gin,spirits,1,32,0,Winter
+1,Captain Morgan Spiced Rum,spirits,1,32,0,Winter
+1,Chardonnay,wine,3,32,0,Winter
+1,Coca Cola,soft drinks,12,32,4,Winter
+1,Coke Zero,soft drinks,15,32,1,Winter
+1,Cointreau,spirits,0,32,0,Winter
+1,Corona,beer,18,32,11,Winter
+1,Cranberry Juice,soft drinks,6,32,5,Winter
+1,Dalmore 12,spirits,1,32,0,Winter
+1,Diet Coke,soft drinks,17,32,3,Winter
+1,Disaronno,spirits,0,32,0,Winter
+1,Finlandia Vodka,spirits,3,32,0,Winter
+1,Havana Club 3,spirits,0,32,0,Winter
+1,Havana Club 7,spirits,0,32,0,Winter
+1,High Commissioner,spirits,0,32,0,Winter
+1,Irn Bru,soft drinks,3,32,0,Winter
+1,J20,soft drinks,5,32,0,Winter
+1,Jack Daniels,spirits,0,32,0,Winter
+1,Kahlua,spirits,1,32,0,Winter
+1,Lemonade,soft drinks,12,32,1,Winter
+1,Light Tonic,soft drinks,4,32,0,Winter
+1,Limoncello,spirits,0,32,0,Winter
+1,Macallan 12,spirits,0,32,0,Winter
+1,Malbec,wine,6,32,0,Winter
+1,Martini Rosso,spirits,1,32,0,Winter
+1,Merlot,wine,5,32,5,Winter
+1,Moet,wine,1,32,0,Winter
+1,Orange Juice,soft drinks,4,32,0,Winter
+1,Passoa,spirits,1,32,0,Winter
+1,Peroni,beer,4,32,0,Winter
+1,Pineapple Juice,soft drinks,6,32,0,Winter
+1,Pink Gin,spirits,0,32,0,Winter
+1,Pinot Grigio,wine,1,32,0,Winter
+1,Prosecco,wine,6,32,0,Winter
+1,Rijoca,wine,3,32,0,Winter
+1,Sauvignon Blanc,wine,2,32,0,Winter
+1,St Germain,spirits,0,32,0,Winter
+1,Tanqueray 10,spirits,0,32,0,Winter
+1,Tonic Water,soft drinks,18,32,17,Winter
+2,Apple Juice,soft drinks,4,57,0,Winter
+2,Aperol,spirits,0,57,0,Winter
+2,Bacardi Blanco,spirits,1,57,0,Winter
+2,Bira Moretti,beer,7,57,0,Winter
+2,Bombay Gin,spirits,2,57,0,Winter
+2,Captain Morgan Spiced Rum,spirits,1,57,1,Winter
+2,Chardonnay,wine,1,57,0,Winter
+2,Coca Cola,soft drinks,19,57,6,Winter
+2,Coke Zero,soft drinks,14,57,2,Winter
+2,Cointreau,spirits,0,57,0,Winter
+2,Corona,beer,18,57,3,Winter
+2,Cranberry Juice,soft drinks,3,57,0,Winter
+2,Dalmore 12,spirits,0,57,0,Winter
+2,Diet Coke,soft drinks,19,57,13,Winter
+2,Disaronno,spirits,0,57,0,Winter
+2,Finlandia Vodka,spirits,1,57,0,Winter
+2,Havana Club 3,spirits,0,57,0,Winter
+2,Havana Club 7,spirits,1,57,1,Winter
+2,High Commissioner,spirits,1,57,0,Winter
+2,Irn Bru,soft drinks,4,57,0,Winter
+2,J20,soft drinks,4,57,0,Winter
+2,Jack Daniels,spirits,0,57,0,Winter
+2,Kahlua,spirits,0,57,0,Winter
+2,Lemonade,soft drinks,13,57,0,Winter
+2,Light Tonic,soft drinks,5,57,0,Winter
+2,Limoncello,spirits,0,57,0,Winter
+2,Macallan 12,spirits,1,57,0,Winter
+2,Malbec,wine,3,57,0,Winter
+2,Martini Rosso,spirits,1,57,0,Winter
+2,Merlot,wine,3,57,0,Winter
+2,Moet,wine,1,57,0,Winter
+2,Orange Juice,soft drinks,6,57,0,Winter
+2,Passoa,spirits,0,57,0,Winter
+2,Peroni,beer,7,57,6,Winter
+2,Pineapple Juice,soft drinks,7,57,2,Winter
+2,Pink Gin,spirits,1,57,0,Winter
+2,Pinot Grigio,wine,3,57,0,Winter
+2,Prosecco,wine,1,57,0,Winter
+2,Rijoca,wine,4,57,0,Winter
+2,Sauvignon Blanc,wine,6,57,0,Winter
+2,St Germain,spirits,1,57,0,Winter
+2,Tanqueray 10,spirits,0,57,0,Winter
+2,Tonic Water,soft drinks,10,57,0,Winter
+3,Apple Juice,soft drinks,4,110,0,Winter
+3,Aperol,spirits,1,110,0,Winter
+3,Bacardi Blanco,spirits,0,110,0,Winter
+3,Bira Moretti,beer,18,110,17,Winter
+3,Bombay Gin,spirits,3,110,0,Winter
+3,Captain Morgan Spiced Rum,spirits,3,110,0,Winter
+3,Chardonnay,wine,3,110,0,Winter
+3,Coca Cola,soft drinks,8,110,0,Winter
+3,Coke Zero,soft drinks,13,110,0,Winter
+3,Cointreau,spirits,0,110,0,Winter
+3,Corona,beer,16,110,4,Winter
+3,Cranberry Juice,soft drinks,7,110,0,Winter
+3,Dalmore 12,spirits,0,110,0,Winter
+3,Diet Coke,soft drinks,21,110,3,Winter
+3,Disaronno,spirits,1,110,0,Winter
+3,Finlandia Vodka,spirits,1,110,0,Winter
+3,Havana Club 3,spirits,1,110,0,Winter
+3,Havana Club 7,spirits,0,110,0,Winter
+3,High Commissioner,spirits,0,110,0,Winter
+3,Irn Bru,soft drinks,4,110,0,Winter
+3,J20,soft drinks,5,110,0,Winter
+3,Jack Daniels,spirits,1,110,0,Winter
+3,Kahlua,spirits,1,110,0,Winter
+3,Lemonade,soft drinks,16,110,8,Winter
+3,Light Tonic,soft drinks,4,110,0,Winter
+3,Limoncello,spirits,0,110,0,Winter
+3,Macallan 12,spirits,1,110,0,Winter
+3,Malbec,wine,2,110,0,Winter
+3,Martini Rosso,spirits,0,110,0,Winter
+3,Merlot,wine,1,110,0,Winter
+3,Moet,wine,6,110,4,Winter
+3,Orange Juice,soft drinks,3,110,0,Winter
+3,Passoa,spirits,1,110,0,Winter
+3,Peroni,beer,11,110,3,Winter
+3,Pineapple Juice,soft drinks,3,110,0,Winter
+3,Pink Gin,spirits,1,110,0,Winter
+3,Pinot Grigio,wine,5,110,5,Winter
+3,Prosecco,wine,3,110,0,Winter
+3,Rijoca,wine,3,110,0,Winter
+3,Sauvignon Blanc,wine,6,110,6,Winter
+3,St Germain,spirits,1,110,0,Winter
+3,Tanqueray 10,spirits,1,110,0,Winter
+3,Tonic Water,soft drinks,18,110,1,Winter
+4,Apple Juice,soft drinks,7,113,0,Winter
+4,Aperol,spirits,1,113,0,Winter
+4,Bacardi Blanco,spirits,0,113,0,Winter
+4,Bira Moretti,beer,6,113,0,Winter
+4,Bombay Gin,spirits,1,113,0,Winter
+4,Captain Morgan Spiced Rum,spirits,2,113,0,Winter
+4,Chardonnay,wine,4,113,0,Winter
+4,Coca Cola,soft drinks,14,113,8,Winter
+4,Coke Zero,soft drinks,19,113,12,Winter
+4,Cointreau,spirits,1,113,0,Winter
+4,Corona,beer,4,113,0,Winter
+4,Cranberry Juice,soft drinks,6,113,6,Winter
+4,Dalmore 12,spirits,0,113,0,Winter
+4,Diet Coke,soft drinks,12,113,1,Winter
+4,Disaronno,spirits,0,113,0,Winter
+4,Finlandia Vodka,spirits,3,113,0,Winter
+4,Havana Club 3,spirits,1,113,1,Winter
+4,Havana Club 7,spirits,0,113,0,Winter
+4,High Commissioner,spirits,1,113,0,Winter
+4,Irn Bru,soft drinks,4,113,0,Winter
+4,J20,soft drinks,6,113,4,Winter
+4,Jack Daniels,spirits,0,113,0,Winter
+4,Kahlua,spirits,1,113,0,Winter
+4,Lemonade,soft drinks,8,113,0,Winter
+4,Light Tonic,soft drinks,6,113,0,Winter
+4,Limoncello,spirits,1,113,0,Winter
+4,Macallan 12,spirits,0,113,0,Winter
+4,Malbec,wine,2,113,0,Winter
+4,Martini Rosso,spirits,1,113,0,Winter
+4,Merlot,wine,4,113,0,Winter
+4,Moet,wine,5,113,2,Winter
+4,Orange Juice,soft drinks,3,113,0,Winter
+4,Passoa,spirits,0,113,0,Winter
+4,Peroni,beer,16,113,11,Winter
+4,Pineapple Juice,soft drinks,4,113,0,Winter
+4,Pink Gin,spirits,1,113,0,Winter
+4,Pinot Grigio,wine,6,113,0,Winter
+4,Prosecco,wine,5,113,0,Winter
+4,Rijoca,wine,5,113,1,Winter
+4,Sauvignon Blanc,wine,3,113,0,Winter
+4,St Germain,spirits,0,113,0,Winter
+4,Tanqueray 10,spirits,0,113,0,Winter
+4,Tonic Water,soft drinks,7,113,0,Winter
+5,Apple Juice,soft drinks,3,126,0,Winter
+5,Aperol,spirits,1,126,1,Winter
+5,Bacardi Blanco,spirits,0,126,0,Winter
+5,Bira Moretti,beer,19,126,6,Winter
+5,Bombay Gin,spirits,2,126,0,Winter
+5,Captain Morgan Spiced Rum,spirits,2,126,0,Winter
+5,Chardonnay,wine,4,126,3,Winter
+5,Coca Cola,soft drinks,12,126,0,Winter
+5,Coke Zero,soft drinks,21,126,16,Winter
+5,Cointreau,spirits,0,126,0,Winter
+5,Corona,beer,4,126,0,Winter
+5,Cranberry Juice,soft drinks,7,126,3,Winter
+5,Dalmore 12,spirits,0,126,0,Winter
+5,Diet Coke,soft drinks,19,126,16,Winter
+5,Disaronno,spirits,0,126,0,Winter
+5,Finlandia Vodka,spirits,3,126,0,Winter
+5,Havana Club 3,spirits,0,126,0,Winter
+5,Havana Club 7,spirits,0,126,0,Winter
+5,High Commissioner,spirits,0,126,0,Winter
+5,Irn Bru,soft drinks,4,126,0,Winter
+5,J20,soft drinks,5,126,0,Winter
+5,Jack Daniels,spirits,0,126,0,Winter
+5,Kahlua,spirits,1,126,0,Winter
+5,Lemonade,soft drinks,19,126,11,Winter
+5,Light Tonic,soft drinks,4,126,0,Winter
+5,Limoncello,spirits,0,126,0,Winter
+5,Macallan 12,spirits,1,126,0,Winter
+5,Malbec,wine,5,126,0,Winter
+5,Martini Rosso,spirits,0,126,0,Winter
+5,Merlot,wine,3,126,0,Winter
+5,Moet,wine,3,126,3,Winter
+5,Orange Juice,soft drinks,4,126,0,Winter
+5,Passoa,spirits,0,126,0,Winter
+5,Peroni,beer,14,126,4,Winter
+5,Pineapple Juice,soft drinks,4,126,0,Winter
+5,Pink Gin,spirits,0,126,0,Winter
+5,Pinot Grigio,wine,1,126,0,Winter
+5,Prosecco,wine,2,126,0,Winter
+5,Rijoca,wine,6,126,0,Winter
+5,Sauvignon Blanc,wine,4,126,0,Winter
+5,St Germain,spirits,0,126,0,Winter
+5,Tanqueray 10,spirits,1,126,0,Winter
+5,Tonic Water,soft drinks,7,126,0,Winter
+6,Apple Juice,soft drinks,4,61,0,Winter
+6,Aperol,spirits,1,61,0,Winter
+6,Bacardi Blanco,spirits,1,61,0,Winter
+6,Bira Moretti,beer,18,61,0,Winter
+6,Bombay Gin,spirits,3,61,0,Winter
+6,Captain Morgan Spiced Rum,spirits,1,61,0,Winter
+6,Chardonnay,wine,6,61,0,Winter
+6,Coca Cola,soft drinks,4,61,0,Winter
+6,Coke Zero,soft drinks,10,61,2,Winter
+6,Cointreau,spirits,1,61,0,Winter
+6,Corona,beer,19,61,7,Winter
+6,Cranberry Juice,soft drinks,3,61,0,Winter
+6,Dalmore 12,spirits,0,61,0,Winter
+6,Diet Coke,soft drinks,18,61,0,Winter
+6,Disaronno,spirits,0,61,0,Winter
+6,Finlandia Vodka,spirits,1,61,0,Winter
+6,Havana Club 3,spirits,0,61,0,Winter
+6,Havana Club 7,spirits,1,61,0,Winter
+6,High Commissioner,spirits,0,61,0,Winter
+6,Irn Bru,soft drinks,5,61,0,Winter
+6,J20,soft drinks,3,61,0,Winter
+6,Jack Daniels,spirits,0,61,0,Winter
+6,Kahlua,spirits,0,61,0,Winter
+6,Lemonade,soft drinks,4,61,0,Winter
+6,Light Tonic,soft drinks,3,61,1,Winter
+6,Limoncello,spirits,0,61,0,Winter
+6,Macallan 12,spirits,1,61,0,Winter
+6,Malbec,wine,3,61,0,Winter
+6,Martini Rosso,spirits,0,61,0,Winter
+6,Merlot,wine,1,61,0,Winter
+6,Moet,wine,6,61,6,Winter
+6,Orange Juice,soft drinks,6,61,0,Winter
+6,Passoa,spirits,0,61,0,Winter
+6,Peroni,beer,16,61,15,Winter
+6,Pineapple Juice,soft drinks,4,61,0,Winter
+6,Pink Gin,spirits,0,61,0,Winter
+6,Pinot Grigio,wine,4,61,4,Winter
+6,Prosecco,wine,3,61,0,Winter
+6,Rijoca,wine,1,61,1,Winter
+6,Sauvignon Blanc,wine,1,61,0,Winter
+6,St Germain,spirits,1,61,0,Winter
+6,Tanqueray 10,spirits,0,61,0,Winter
+6,Tonic Water,soft drinks,11,61,9,Winter
+7,Apple Juice,soft drinks,7,40,3,Winter
+7,Aperol,spirits,1,40,0,Winter
+7,Bacardi Blanco,spirits,0,40,0,Winter
+7,Bira Moretti,beer,8,40,6,Winter
+7,Bombay Gin,spirits,2,40,0,Winter
+7,Captain Morgan Spiced Rum,spirits,3,40,0,Winter
+7,Chardonnay,wine,4,40,0,Winter
+7,Coca Cola,soft drinks,15,40,5,Winter
+7,Coke Zero,soft drinks,13,40,11,Winter
+7,Cointreau,spirits,0,40,0,Winter
+7,Corona,beer,10,40,0,Winter
+7,Cranberry Juice,soft drinks,3,40,2,Winter
+7,Dalmore 12,spirits,0,40,0,Winter
+7,Diet Coke,soft drinks,16,40,5,Winter
+7,Disaronno,spirits,0,40,0,Winter
+7,Finlandia Vodka,spirits,1,40,0,Winter
+7,Havana Club 3,spirits,0,40,0,Winter
+7,Havana Club 7,spirits,0,40,0,Winter
+7,High Commissioner,spirits,0,40,0,Winter
+7,Irn Bru,soft drinks,3,40,0,Winter
+7,J20,soft drinks,6,40,0,Winter
+7,Jack Daniels,spirits,0,40,0,Winter
+7,Kahlua,spirits,0,40,0,Winter
+7,Lemonade,soft drinks,20,40,9,Winter
+7,Light Tonic,soft drinks,4,40,4,Winter
+7,Limoncello,spirits,0,40,0,Winter
+7,Macallan 12,spirits,1,40,0,Winter
+7,Malbec,wine,2,40,0,Winter
+7,Martini Rosso,spirits,0,40,0,Winter
+7,Merlot,wine,6,40,2,Winter
+7,Moet,wine,3,40,0,Winter
+7,Orange Juice,soft drinks,3,40,0,Winter
+7,Passoa,spirits,0,40,0,Winter
+7,Peroni,beer,10,40,0,Winter
+7,Pineapple Juice,soft drinks,6,40,2,Winter
+7,Pink Gin,spirits,0,40,0,Winter
+7,Pinot Grigio,wine,4,40,0,Winter
+7,Prosecco,wine,5,40,0,Winter
+7,Rijoca,wine,5,40,0,Winter
+7,Sauvignon Blanc,wine,3,40,0,Winter
+7,St Germain,spirits,0,40,0,Winter
+7,Tanqueray 10,spirits,0,40,0,Winter
+7,Tonic Water,soft drinks,20,40,13,Winter
+8,Apple Juice,soft drinks,4,59,0,Winter
+8,Aperol,spirits,0,59,0,Winter
+8,Bacardi Blanco,spirits,0,59,0,Winter
+8,Bira Moretti,beer,14,59,0,Winter
+8,Bombay Gin,spirits,3,59,0,Winter
+8,Captain Morgan Spiced Rum,spirits,2,59,0,Winter
+8,Chardonnay,wine,4,59,0,Winter
+8,Coca Cola,soft drinks,12,59,0,Winter
+8,Coke Zero,soft drinks,14,59,4,Winter
+8,Cointreau,spirits,0,59,0,Winter
+8,Corona,beer,5,59,0,Winter
+8,Cranberry Juice,soft drinks,3,59,0,Winter
+8,Dalmore 12,spirits,0,59,0,Winter
+8,Diet Coke,soft drinks,18,59,13,Winter
+8,Disaronno,spirits,1,59,1,Winter
+8,Finlandia Vodka,spirits,2,59,2,Winter
+8,Havana Club 3,spirits,0,59,0,Winter
+8,Havana Club 7,spirits,0,59,0,Winter
+8,High Commissioner,spirits,0,59,0,Winter
+8,Irn Bru,soft drinks,6,59,0,Winter
+8,J20,soft drinks,6,59,2,Winter
+8,Jack Daniels,spirits,0,59,0,Winter
+8,Kahlua,spirits,1,59,0,Winter
+8,Lemonade,soft drinks,6,59,0,Winter
+8,Light Tonic,soft drinks,6,59,0,Winter
+8,Limoncello,spirits,1,59,0,Winter
+8,Macallan 12,spirits,0,59,0,Winter
+8,Malbec,wine,4,59,3,Winter
+8,Martini Rosso,spirits,0,59,0,Winter
+8,Merlot,wine,1,59,0,Winter
+8,Moet,wine,3,59,0,Winter
+8,Orange Juice,soft drinks,5,59,0,Winter
+8,Passoa,spirits,0,59,0,Winter
+8,Peroni,beer,12,59,4,Winter
+8,Pineapple Juice,soft drinks,3,59,0,Winter
+8,Pink Gin,spirits,0,59,0,Winter
+8,Pinot Grigio,wine,1,59,0,Winter
+8,Prosecco,wine,2,59,0,Winter
+8,Rijoca,wine,1,59,0,Winter
+8,Sauvignon Blanc,wine,3,59,2,Winter
+8,St Germain,spirits,1,59,0,Winter
+8,Tanqueray 10,spirits,0,59,0,Winter
+8,Tonic Water,soft drinks,18,59,4,Winter
+9,Apple Juice,soft drinks,3,84,0,Winter
+9,Aperol,spirits,1,84,0,Winter
+9,Bacardi Blanco,spirits,1,84,0,Winter
+9,Bira Moretti,beer,20,84,0,Winter
+9,Bombay Gin,spirits,2,84,0,Winter
+9,Captain Morgan Spiced Rum,spirits,3,84,0,Winter
+9,Chardonnay,wine,6,84,0,Winter
+9,Coca Cola,soft drinks,5,84,0,Winter
+9,Coke Zero,soft drinks,19,84,13,Winter
+9,Cointreau,spirits,0,84,0,Winter
+9,Corona,beer,15,84,2,Winter
+9,Cranberry Juice,soft drinks,4,84,0,Winter
+9,Dalmore 12,spirits,0,84,0,Winter
+9,Diet Coke,soft drinks,16,84,9,Winter
+9,Disaronno,spirits,1,84,0,Winter
+9,Finlandia Vodka,spirits,3,84,0,Winter
+9,Havana Club 3,spirits,0,84,0,Winter
+9,Havana Club 7,spirits,1,84,0,Winter
+9,High Commissioner,spirits,0,84,0,Winter
+9,Irn Bru,soft drinks,3,84,0,Winter
+9,J20,soft drinks,4,84,0,Winter
+9,Jack Daniels,spirits,0,84,0,Winter
+9,Kahlua,spirits,0,84,0,Winter
+9,Lemonade,soft drinks,6,84,0,Winter
+9,Light Tonic,soft drinks,7,84,7,Winter
+9,Limoncello,spirits,0,84,0,Winter
+9,Macallan 12,spirits,1,84,0,Winter
+9,Malbec,wine,4,84,0,Winter
+9,Martini Rosso,spirits,0,84,0,Winter
+9,Merlot,wine,3,84,0,Winter
+9,Moet,wine,6,84,0,Winter
+9,Orange Juice,soft drinks,6,84,3,Winter
+9,Passoa,spirits,1,84,0,Winter
+9,Peroni,beer,10,84,0,Winter
+9,Pineapple Juice,soft drinks,4,84,0,Winter
+9,Pink Gin,spirits,1,84,0,Winter
+9,Pinot Grigio,wine,5,84,0,Winter
+9,Prosecco,wine,4,84,0,Winter
+9,Rijoca,wine,3,84,0,Winter
+9,Sauvignon Blanc,wine,5,84,0,Winter
+9,St Germain,spirits,1,84,0,Winter
+9,Tanqueray 10,spirits,1,84,0,Winter
+9,Tonic Water,soft drinks,5,84,0,Winter
+10,Apple Juice,soft drinks,4,144,0,Winter
+10,Aperol,spirits,0,144,0,Winter
+10,Bacardi Blanco,spirits,1,144,0,Winter
+10,Bira Moretti,beer,11,144,8,Winter
+10,Bombay Gin,spirits,1,144,0,Winter
+10,Captain Morgan Spiced Rum,spirits,3,144,0,Winter
+10,Chardonnay,wine,4,144,0,Winter
+10,Coca Cola,soft drinks,16,144,10,Winter
+10,Coke Zero,soft drinks,17,144,4,Winter
+10,Cointreau,spirits,0,144,0,Winter
+10,Corona,beer,16,144,10,Winter
+10,Cranberry Juice,soft drinks,3,144,0,Winter
+10,Dalmore 12,spirits,0,144,0,Winter
+10,Diet Coke,soft drinks,7,144,3,Winter
+10,Disaronno,spirits,1,144,0,Winter
+10,Finlandia Vodka,spirits,1,144,0,Winter
+10,Havana Club 3,spirits,0,144,0,Winter
+10,Havana Club 7,spirits,0,144,0,Winter
+10,High Commissioner,spirits,0,144,0,Winter
+10,Irn Bru,soft drinks,6,144,0,Winter
+10,J20,soft drinks,5,144,0,Winter
+10,Jack Daniels,spirits,0,144,0,Winter
+10,Kahlua,spirits,0,144,0,Winter
+10,Lemonade,soft drinks,18,144,9,Winter
+10,Light Tonic,soft drinks,3,144,1,Winter
+10,Limoncello,spirits,0,144,0,Winter
+10,Macallan 12,spirits,1,144,0,Winter
+10,Malbec,wine,3,144,0,Winter
+10,Martini Rosso,spirits,0,144,0,Winter
+10,Merlot,wine,6,144,2,Winter
+10,Moet,wine,5,144,0,Winter
+10,Orange Juice,soft drinks,4,144,3,Winter
+10,Passoa,spirits,0,144,0,Winter
+10,Peroni,beer,13,144,6,Winter
+10,Pineapple Juice,soft drinks,4,144,0,Winter
+10,Pink Gin,spirits,1,144,0,Winter
+10,Pinot Grigio,wine,1,144,0,Winter
+10,Prosecco,wine,4,144,0,Winter
+10,Rijoca,wine,4,144,0,Winter
+10,Sauvignon Blanc,wine,1,144,0,Winter
+10,St Germain,spirits,0,144,0,Winter
+10,Tanqueray 10,spirits,1,144,0,Winter
+10,Tonic Water,soft drinks,4,144,0,Winter
+11,Apple Juice,soft drinks,7,51,0,Winter
+11,Aperol,spirits,0,51,0,Winter
+11,Bacardi Blanco,spirits,1,51,0,Winter
+11,Bira Moretti,beer,10,51,10,Winter
+11,Bombay Gin,spirits,3,51,0,Winter
+11,Captain Morgan Spiced Rum,spirits,2,51,0,Winter
+11,Chardonnay,wine,5,51,4,Winter
+11,Coca Cola,soft drinks,10,51,0,Winter
+11,Coke Zero,soft drinks,15,51,12,Winter
+11,Cointreau,spirits,0,51,0,Winter
+11,Corona,beer,9,51,9,Winter
+11,Cranberry Juice,soft drinks,6,51,0,Winter
+11,Dalmore 12,spirits,0,51,0,Winter
+11,Diet Coke,soft drinks,4,51,0,Winter
+11,Disaronno,spirits,0,51,0,Winter
+11,Finlandia Vodka,spirits,1,51,0,Winter
+11,Havana Club 3,spirits,0,51,0,Winter
+11,Havana Club 7,spirits,1,51,0,Winter
+11,High Commissioner,spirits,0,51,0,Winter
+11,Irn Bru,soft drinks,6,51,0,Winter
+11,J20,soft drinks,3,51,0,Winter
+11,Jack Daniels,spirits,1,51,0,Winter
+11,Kahlua,spirits,0,51,0,Winter
+11,Lemonade,soft drinks,4,51,0,Winter
+11,Light Tonic,soft drinks,5,51,0,Winter
+11,Limoncello,spirits,1,51,0,Winter
+11,Macallan 12,spirits,0,51,0,Winter
+11,Malbec,wine,1,51,0,Winter
+11,Martini Rosso,spirits,0,51,0,Winter
+11,Merlot,wine,3,51,3,Winter
+11,Moet,wine,2,51,0,Winter
+11,Orange Juice,soft drinks,6,51,0,Winter
+11,Passoa,spirits,0,51,0,Winter
+11,Peroni,beer,14,51,5,Winter
+11,Pineapple Juice,soft drinks,6,51,0,Winter
+11,Pink Gin,spirits,0,51,0,Winter
+11,Pinot Grigio,wine,4,51,3,Winter
+11,Prosecco,wine,1,51,0,Winter
+11,Rijoca,wine,1,51,0,Winter
+11,Sauvignon Blanc,wine,1,51,0,Winter
+11,St Germain,spirits,0,51,0,Winter
+11,Tanqueray 10,spirits,0,51,0,Winter
+11,Tonic Water,soft drinks,7,51,0,Winter
+12,Apple Juice,soft drinks,4,124,0,Winter
+12,Aperol,spirits,1,124,0,Winter
+12,Bacardi Blanco,spirits,1,124,0,Winter
+12,Bira Moretti,beer,16,124,2,Winter
+12,Bombay Gin,spirits,1,124,0,Winter
+12,Captain Morgan Spiced Rum,spirits,2,124,0,Winter
+12,Chardonnay,wine,2,124,0,Winter
+12,Coca Cola,soft drinks,10,124,0,Winter
+12,Coke Zero,soft drinks,12,124,10,Winter
+12,Cointreau,spirits,1,124,0,Winter
+12,Corona,beer,8,124,0,Winter
+12,Cranberry Juice,soft drinks,4,124,0,Winter
+12,Dalmore 12,spirits,0,124,0,Winter
+12,Diet Coke,soft drinks,15,124,12,Winter
+12,Disaronno,spirits,1,124,0,Winter
+12,Finlandia Vodka,spirits,1,124,0,Winter
+12,Havana Club 3,spirits,0,124,0,Winter
+12,Havana Club 7,spirits,0,124,0,Winter
+12,High Commissioner,spirits,0,124,0,Winter
+12,Irn Bru,soft drinks,7,124,0,Winter
+12,J20,soft drinks,3,124,0,Winter
+12,Jack Daniels,spirits,1,124,0,Winter
+12,Kahlua,spirits,1,124,0,Winter
+12,Lemonade,soft drinks,12,124,6,Winter
+12,Light Tonic,soft drinks,4,124,4,Winter
+12,Limoncello,spirits,0,124,0,Winter
+12,Macallan 12,spirits,0,124,0,Winter
+12,Malbec,wine,4,124,0,Winter
+12,Martini Rosso,spirits,0,124,0,Winter
+12,Merlot,wine,1,124,0,Winter
+12,Moet,wine,2,124,0,Winter
+12,Orange Juice,soft drinks,7,124,0,Winter
+12,Passoa,spirits,0,124,0,Winter
+12,Peroni,beer,18,124,13,Winter
+12,Pineapple Juice,soft drinks,3,124,0,Winter
+12,Pink Gin,spirits,0,124,0,Winter
+12,Pinot Grigio,wine,3,124,0,Winter
+12,Prosecco,wine,4,124,0,Winter
+12,Rijoca,wine,3,124,0,Winter
+12,Sauvignon Blanc,wine,3,124,0,Winter
+12,St Germain,spirits,0,124,0,Winter
+12,Tanqueray 10,spirits,1,124,0,Winter
+12,Tonic Water,soft drinks,10,124,5,Winter
+13,Apple Juice,soft drinks,8,239,8,Spring
+13,Aperol,spirits,1,239,1,Spring
+13,Bacardi Blanco,spirits,2,239,2,Spring
+13,Bira Moretti,beer,22,239,12,Spring
+13,Bombay Gin,spirits,3,239,0,Spring
+13,Captain Morgan Spiced Rum,spirits,5,239,4,Spring
+13,Chardonnay,wine,5,239,0,Spring
+13,Coca Cola,soft drinks,10,239,0,Spring
+13,Coke Zero,soft drinks,35,239,32,Spring
+13,Cointreau,spirits,2,239,0,Spring
+13,Corona,beer,29,239,24,Spring
+13,Cranberry Juice,soft drinks,12,239,0,Spring
+13,Dalmore 12,spirits,1,239,0,Spring
+13,Diet Coke,soft drinks,21,239,1,Spring
+13,Disaronno,spirits,1,239,0,Spring
+13,Finlandia Vodka,spirits,5,239,0,Spring
+13,Havana Club 3,spirits,1,239,0,Spring
+13,Havana Club 7,spirits,1,239,0,Spring
+13,High Commissioner,spirits,0,239,0,Spring
+13,Irn Bru,soft drinks,9,239,0,Spring
+13,J20,soft drinks,5,239,1,Spring
+13,Jack Daniels,spirits,2,239,0,Spring
+13,Kahlua,spirits,2,239,0,Spring
+13,Lemonade,soft drinks,24,239,18,Spring
+13,Light Tonic,soft drinks,7,239,2,Spring
+13,Limoncello,spirits,2,239,0,Spring
+13,Macallan 12,spirits,0,239,0,Spring
+13,Malbec,wine,9,239,0,Spring
+13,Martini Rosso,spirits,2,239,0,Spring
+13,Merlot,wine,5,239,0,Spring
+13,Moet,wine,7,239,0,Spring
+13,Orange Juice,soft drinks,10,239,7,Spring
+13,Passoa,spirits,2,239,0,Spring
+13,Peroni,beer,14,239,10,Spring
+13,Pineapple Juice,soft drinks,11,239,0,Spring
+13,Pink Gin,spirits,1,239,0,Spring
+13,Pinot Grigio,wine,2,239,0,Spring
+13,Prosecco,wine,4,239,0,Spring
+13,Rijoca,wine,8,239,4,Spring
+13,Sauvignon Blanc,wine,4,239,0,Spring
+13,St Germain,spirits,2,239,0,Spring
+13,Tanqueray 10,spirits,1,239,0,Spring
+13,Tonic Water,soft drinks,33,239,19,Spring
+14,Apple Juice,soft drinks,5,131,0,Spring
+14,Aperol,spirits,0,131,0,Spring
+14,Bacardi Blanco,spirits,0,131,0,Spring
+14,Bira Moretti,beer,16,131,10,Spring
+14,Bombay Gin,spirits,4,131,4,Spring
+14,Captain Morgan Spiced Rum,spirits,5,131,0,Spring
+14,Chardonnay,wine,10,131,0,Spring
+14,Coca Cola,soft drinks,33,131,32,Spring
+14,Coke Zero,soft drinks,13,131,0,Spring
+14,Cointreau,spirits,2,131,0,Spring
+14,Corona,beer,14,131,0,Spring
+14,Cranberry Juice,soft drinks,8,131,0,Spring
+14,Dalmore 12,spirits,0,131,0,Spring
+14,Diet Coke,soft drinks,9,131,0,Spring
+14,Disaronno,spirits,1,131,0,Spring
+14,Finlandia Vodka,spirits,4,131,0,Spring
+14,Havana Club 3,spirits,0,131,0,Spring
+14,Havana Club 7,spirits,2,131,0,Spring
+14,High Commissioner,spirits,1,131,1,Spring
+14,Irn Bru,soft drinks,10,131,0,Spring
+14,J20,soft drinks,5,131,0,Spring
+14,Jack Daniels,spirits,1,131,0,Spring
+14,Kahlua,spirits,2,131,0,Spring
+14,Lemonade,soft drinks,34,131,29,Spring
+14,Light Tonic,soft drinks,5,131,0,Spring
+14,Limoncello,spirits,1,131,0,Spring
+14,Macallan 12,spirits,2,131,0,Spring
+14,Malbec,wine,10,131,0,Spring
+14,Martini Rosso,spirits,0,131,0,Spring
+14,Merlot,wine,9,131,0,Spring
+14,Moet,wine,2,131,0,Spring
+14,Orange Juice,soft drinks,12,131,0,Spring
+14,Passoa,spirits,2,131,0,Spring
+14,Peroni,beer,26,131,23,Spring
+14,Pineapple Juice,soft drinks,6,131,0,Spring
+14,Pink Gin,spirits,1,131,0,Spring
+14,Pinot Grigio,wine,10,131,0,Spring
+14,Prosecco,wine,2,131,0,Spring
+14,Rijoca,wine,10,131,7,Spring
+14,Sauvignon Blanc,wine,6,131,0,Spring
+14,St Germain,spirits,2,131,0,Spring
+14,Tanqueray 10,spirits,2,131,0,Spring
+14,Tonic Water,soft drinks,13,131,0,Spring
+15,Apple Juice,soft drinks,10,203,7,Spring
+15,Aperol,spirits,1,203,0,Spring
+15,Bacardi Blanco,spirits,0,203,0,Spring
+15,Bira Moretti,beer,31,203,25,Spring
+15,Bombay Gin,spirits,2,203,0,Spring
+15,Captain Morgan Spiced Rum,spirits,5,203,0,Spring
+15,Chardonnay,wine,9,203,5,Spring
+15,Coca Cola,soft drinks,25,203,23,Spring
+15,Coke Zero,soft drinks,33,203,31,Spring
+15,Cointreau,spirits,1,203,0,Spring
+15,Corona,beer,35,203,19,Spring
+15,Cranberry Juice,soft drinks,11,203,0,Spring
+15,Dalmore 12,spirits,1,203,0,Spring
+15,Diet Coke,soft drinks,23,203,21,Spring
+15,Disaronno,spirits,0,203,0,Spring
+15,Finlandia Vodka,spirits,4,203,0,Spring
+15,Havana Club 3,spirits,2,203,0,Spring
+15,Havana Club 7,spirits,0,203,0,Spring
+15,High Commissioner,spirits,2,203,0,Spring
+15,Irn Bru,soft drinks,12,203,11,Spring
+15,J20,soft drinks,10,203,0,Spring
+15,Jack Daniels,spirits,2,203,0,Spring
+15,Kahlua,spirits,0,203,0,Spring
+15,Lemonade,soft drinks,9,203,6,Spring
+15,Light Tonic,soft drinks,5,203,0,Spring
+15,Limoncello,spirits,1,203,0,Spring
+15,Macallan 12,spirits,2,203,0,Spring
+15,Malbec,wine,3,203,0,Spring
+15,Martini Rosso,spirits,2,203,0,Spring
+15,Merlot,wine,6,203,0,Spring
+15,Moet,wine,6,203,6,Spring
+15,Orange Juice,soft drinks,11,203,1,Spring
+15,Passoa,spirits,1,203,0,Spring
+15,Peroni,beer,20,203,11,Spring
+15,Pineapple Juice,soft drinks,7,203,4,Spring
+15,Pink Gin,spirits,1,203,0,Spring
+15,Pinot Grigio,wine,5,203,0,Spring
+15,Prosecco,wine,8,203,0,Spring
+15,Rijoca,wine,2,203,0,Spring
+15,Sauvignon Blanc,wine,5,203,0,Spring
+15,St Germain,spirits,2,203,0,Spring
+15,Tanqueray 10,spirits,1,203,0,Spring
+15,Tonic Water,soft drinks,15,203,6,Spring
+16,Apple Juice,soft drinks,12,246,3,Spring
+16,Aperol,spirits,1,246,0,Spring
+16,Bacardi Blanco,spirits,0,246,0,Spring
+16,Bira Moretti,beer,14,246,0,Spring
+16,Bombay Gin,spirits,3,246,0,Spring
+16,Captain Morgan Spiced Rum,spirits,3,246,0,Spring
+16,Chardonnay,wine,6,246,0,Spring
+16,Coca Cola,soft drinks,22,246,4,Spring
+16,Coke Zero,soft drinks,34,246,27,Spring
+16,Cointreau,spirits,1,246,0,Spring
+16,Corona,beer,18,246,10,Spring
+16,Cranberry Juice,soft drinks,6,246,0,Spring
+16,Dalmore 12,spirits,1,246,0,Spring
+16,Diet Coke,soft drinks,17,246,16,Spring
+16,Disaronno,spirits,0,246,0,Spring
+16,Finlandia Vodka,spirits,3,246,0,Spring
+16,Havana Club 3,spirits,2,246,2,Spring
+16,Havana Club 7,spirits,1,246,0,Spring
+16,High Commissioner,spirits,2,246,0,Spring
+16,Irn Bru,soft drinks,8,246,4,Spring
+16,J20,soft drinks,9,246,7,Spring
+16,Jack Daniels,spirits,2,246,0,Spring
+16,Kahlua,spirits,0,246,0,Spring
+16,Lemonade,soft drinks,28,246,19,Spring
+16,Light Tonic,soft drinks,9,246,6,Spring
+16,Limoncello,spirits,1,246,0,Spring
+16,Macallan 12,spirits,1,246,0,Spring
+16,Malbec,wine,5,246,0,Spring
+16,Martini Rosso,spirits,0,246,0,Spring
+16,Merlot,wine,3,246,0,Spring
+16,Moet,wine,9,246,0,Spring
+16,Orange Juice,soft drinks,5,246,0,Spring
+16,Passoa,spirits,2,246,0,Spring
+16,Peroni,beer,33,246,26,Spring
+16,Pineapple Juice,soft drinks,9,246,4,Spring
+16,Pink Gin,spirits,2,246,0,Spring
+16,Pinot Grigio,wine,10,246,3,Spring
+16,Prosecco,wine,6,246,4,Spring
+16,Rijoca,wine,2,246,0,Spring
+16,Sauvignon Blanc,wine,3,246,0,Spring
+16,St Germain,spirits,0,246,0,Spring
+16,Tanqueray 10,spirits,0,246,0,Spring
+16,Tonic Water,soft drinks,34,246,14,Spring
+17,Apple Juice,soft drinks,8,153,1,Spring
+17,Aperol,spirits,1,153,0,Spring
+17,Bacardi Blanco,spirits,2,153,0,Spring
+17,Bira Moretti,beer,29,153,16,Spring
+17,Bombay Gin,spirits,5,153,0,Spring
+17,Captain Morgan Spiced Rum,spirits,3,153,0,Spring
+17,Chardonnay,wine,10,153,0,Spring
+17,Coca Cola,soft drinks,22,153,21,Spring
+17,Coke Zero,soft drinks,10,153,3,Spring
+17,Cointreau,spirits,2,153,0,Spring
+17,Corona,beer,12,153,0,Spring
+17,Cranberry Juice,soft drinks,10,153,0,Spring
+17,Dalmore 12,spirits,0,153,0,Spring
+17,Diet Coke,soft drinks,30,153,21,Spring
+17,Disaronno,spirits,0,153,0,Spring
+17,Finlandia Vodka,spirits,4,153,3,Spring
+17,Havana Club 3,spirits,0,153,0,Spring
+17,Havana Club 7,spirits,2,153,2,Spring
+17,High Commissioner,spirits,0,153,0,Spring
+17,Irn Bru,soft drinks,7,153,0,Spring
+17,J20,soft drinks,12,153,0,Spring
+17,Jack Daniels,spirits,1,153,0,Spring
+17,Kahlua,spirits,2,153,0,Spring
+17,Lemonade,soft drinks,14,153,11,Spring
+17,Light Tonic,soft drinks,11,153,4,Spring
+17,Limoncello,spirits,2,153,0,Spring
+17,Macallan 12,spirits,1,153,0,Spring
+17,Malbec,wine,10,153,0,Spring
+17,Martini Rosso,spirits,2,153,0,Spring
+17,Merlot,wine,5,153,5,Spring
+17,Moet,wine,4,153,0,Spring
+17,Orange Juice,soft drinks,10,153,10,Spring
+17,Passoa,spirits,1,153,0,Spring
+17,Peroni,beer,22,153,11,Spring
+17,Pineapple Juice,soft drinks,6,153,5,Spring
+17,Pink Gin,spirits,0,153,0,Spring
+17,Pinot Grigio,wine,3,153,0,Spring
+17,Prosecco,wine,4,153,0,Spring
+17,Rijoca,wine,7,153,0,Spring
+17,Sauvignon Blanc,wine,6,153,0,Spring
+17,St Germain,spirits,0,153,0,Spring
+17,Tanqueray 10,spirits,2,153,0,Spring
+17,Tonic Water,soft drinks,33,153,13,Spring
+18,Apple Juice,soft drinks,6,141,0,Spring
+18,Aperol,spirits,0,141,0,Spring
+18,Bacardi Blanco,spirits,0,141,0,Spring
+18,Bira Moretti,beer,26,141,6,Spring
+18,Bombay Gin,spirits,3,141,2,Spring
+18,Captain Morgan Spiced Rum,spirits,2,141,0,Spring
+18,Chardonnay,wine,2,141,0,Spring
+18,Coca Cola,soft drinks,13,141,5,Spring
+18,Coke Zero,soft drinks,8,141,0,Spring
+18,Cointreau,spirits,0,141,0,Spring
+18,Corona,beer,19,141,18,Spring
+18,Cranberry Juice,soft drinks,8,141,1,Spring
+18,Dalmore 12,spirits,0,141,0,Spring
+18,Diet Coke,soft drinks,32,141,13,Spring
+18,Disaronno,spirits,2,141,0,Spring
+18,Finlandia Vodka,spirits,4,141,0,Spring
+18,Havana Club 3,spirits,0,141,0,Spring
+18,Havana Club 7,spirits,2,141,0,Spring
+18,High Commissioner,spirits,0,141,0,Spring
+18,Irn Bru,soft drinks,7,141,6,Spring
+18,J20,soft drinks,7,141,3,Spring
+18,Jack Daniels,spirits,2,141,0,Spring
+18,Kahlua,spirits,1,141,0,Spring
+18,Lemonade,soft drinks,14,141,10,Spring
+18,Light Tonic,soft drinks,5,141,0,Spring
+18,Limoncello,spirits,0,141,0,Spring
+18,Macallan 12,spirits,0,141,0,Spring
+18,Malbec,wine,5,141,2,Spring
+18,Martini Rosso,spirits,2,141,0,Spring
+18,Merlot,wine,5,141,0,Spring
+18,Moet,wine,7,141,0,Spring
+18,Orange Juice,soft drinks,5,141,0,Spring
+18,Passoa,spirits,0,141,0,Spring
+18,Peroni,beer,7,141,0,Spring
+18,Pineapple Juice,soft drinks,9,141,0,Spring
+18,Pink Gin,spirits,0,141,0,Spring
+18,Pinot Grigio,wine,9,141,0,Spring
+18,Prosecco,wine,2,141,0,Spring
+18,Rijoca,wine,7,141,0,Spring
+18,Sauvignon Blanc,wine,3,141,2,Spring
+18,St Germain,spirits,2,141,2,Spring
+18,Tanqueray 10,spirits,2,141,0,Spring
+18,Tonic Water,soft drinks,23,141,19,Spring
+19,Apple Juice,soft drinks,7,141,0,Spring
+19,Aperol,spirits,0,141,0,Spring
+19,Bacardi Blanco,spirits,0,141,0,Spring
+19,Bira Moretti,beer,29,141,25,Spring
+19,Bombay Gin,spirits,2,141,0,Spring
+19,Captain Morgan Spiced Rum,spirits,3,141,0,Spring
+19,Chardonnay,wine,3,141,0,Spring
+19,Coca Cola,soft drinks,17,141,17,Spring
+19,Coke Zero,soft drinks,13,141,0,Spring
+19,Cointreau,spirits,1,141,0,Spring
+19,Corona,beer,28,141,8,Spring
+19,Cranberry Juice,soft drinks,9,141,0,Spring
+19,Dalmore 12,spirits,1,141,0,Spring
+19,Diet Coke,soft drinks,14,141,5,Spring
+19,Disaronno,spirits,1,141,0,Spring
+19,Finlandia Vodka,spirits,3,141,0,Spring
+19,Havana Club 3,spirits,2,141,0,Spring
+19,Havana Club 7,spirits,1,141,0,Spring
+19,High Commissioner,spirits,0,141,0,Spring
+19,Irn Bru,soft drinks,8,141,0,Spring
+19,J20,soft drinks,11,141,3,Spring
+19,Jack Daniels,spirits,0,141,0,Spring
+19,Kahlua,spirits,2,141,0,Spring
+19,Lemonade,soft drinks,25,141,15,Spring
+19,Light Tonic,soft drinks,5,141,0,Spring
+19,Limoncello,spirits,0,141,0,Spring
+19,Macallan 12,spirits,0,141,0,Spring
+19,Malbec,wine,9,141,0,Spring
+19,Martini Rosso,spirits,2,141,0,Spring
+19,Merlot,wine,8,141,0,Spring
+19,Moet,wine,9,141,0,Spring
+19,Orange Juice,soft drinks,6,141,4,Spring
+19,Passoa,spirits,1,141,0,Spring
+19,Peroni,beer,34,141,32,Spring
+19,Pineapple Juice,soft drinks,10,141,0,Spring
+19,Pink Gin,spirits,0,141,0,Spring
+19,Pinot Grigio,wine,5,141,0,Spring
+19,Prosecco,wine,8,141,0,Spring
+19,Rijoca,wine,8,141,0,Spring
+19,Sauvignon Blanc,wine,5,141,0,Spring
+19,St Germain,spirits,0,141,0,Spring
+19,Tanqueray 10,spirits,1,141,1,Spring
+19,Tonic Water,soft drinks,10,141,0,Spring
+20,Apple Juice,soft drinks,11,210,0,Spring
+20,Aperol,spirits,1,210,0,Spring
+20,Bacardi Blanco,spirits,2,210,1,Spring
+20,Bira Moretti,beer,24,210,18,Spring
+20,Bombay Gin,spirits,4,210,0,Spring
+20,Captain Morgan Spiced Rum,spirits,2,210,0,Spring
+20,Chardonnay,wine,10,210,0,Spring
+20,Coca Cola,soft drinks,17,210,12,Spring
+20,Coke Zero,soft drinks,12,210,10,Spring
+20,Cointreau,spirits,2,210,0,Spring
+20,Corona,beer,22,210,21,Spring
+20,Cranberry Juice,soft drinks,6,210,0,Spring
+20,Dalmore 12,spirits,0,210,0,Spring
+20,Diet Coke,soft drinks,25,210,24,Spring
+20,Disaronno,spirits,1,210,0,Spring
+20,Finlandia Vodka,spirits,5,210,0,Spring
+20,Havana Club 3,spirits,1,210,0,Spring
+20,Havana Club 7,spirits,1,210,0,Spring
+20,High Commissioner,spirits,1,210,0,Spring
+20,Irn Bru,soft drinks,6,210,3,Spring
+20,J20,soft drinks,9,210,0,Spring
+20,Jack Daniels,spirits,2,210,0,Spring
+20,Kahlua,spirits,1,210,0,Spring
+20,Lemonade,soft drinks,35,210,19,Spring
+20,Light Tonic,soft drinks,5,210,0,Spring
+20,Limoncello,spirits,0,210,0,Spring
+20,Macallan 12,spirits,1,210,0,Spring
+20,Malbec,wine,8,210,0,Spring
+20,Martini Rosso,spirits,0,210,0,Spring
+20,Merlot,wine,6,210,5,Spring
+20,Moet,wine,7,210,4,Spring
+20,Orange Juice,soft drinks,9,210,0,Spring
+20,Passoa,spirits,1,210,0,Spring
+20,Peroni,beer,30,210,15,Spring
+20,Pineapple Juice,soft drinks,6,210,0,Spring
+20,Pink Gin,spirits,2,210,0,Spring
+20,Pinot Grigio,wine,7,210,0,Spring
+20,Prosecco,wine,10,210,0,Spring
+20,Rijoca,wine,7,210,0,Spring
+20,Sauvignon Blanc,wine,6,210,5,Spring
+20,St Germain,spirits,1,210,0,Spring
+20,Tanqueray 10,spirits,2,210,0,Spring
+20,Tonic Water,soft drinks,31,210,26,Spring
+21,Apple Juice,soft drinks,5,122,0,Spring
+21,Aperol,spirits,0,122,0,Spring
+21,Bacardi Blanco,spirits,0,122,0,Spring
+21,Bira Moretti,beer,14,122,7,Spring
+21,Bombay Gin,spirits,5,122,3,Spring
+21,Captain Morgan Spiced Rum,spirits,4,122,0,Spring
+21,Chardonnay,wine,3,122,0,Spring
+21,Coca Cola,soft drinks,31,122,26,Spring
+21,Coke Zero,soft drinks,7,122,0,Spring
+21,Cointreau,spirits,2,122,0,Spring
+21,Corona,beer,28,122,28,Spring
+21,Cranberry Juice,soft drinks,9,122,3,Spring
+21,Dalmore 12,spirits,2,122,0,Spring
+21,Diet Coke,soft drinks,8,122,0,Spring
+21,Disaronno,spirits,1,122,0,Spring
+21,Finlandia Vodka,spirits,6,122,5,Spring
+21,Havana Club 3,spirits,0,122,0,Spring
+21,Havana Club 7,spirits,2,122,0,Spring
+21,High Commissioner,spirits,0,122,0,Spring
+21,Irn Bru,soft drinks,11,122,0,Spring
+21,J20,soft drinks,9,122,1,Spring
+21,Jack Daniels,spirits,2,122,0,Spring
+21,Kahlua,spirits,0,122,0,Spring
+21,Lemonade,soft drinks,9,122,3,Spring
+21,Light Tonic,soft drinks,5,122,0,Spring
+21,Limoncello,spirits,2,122,0,Spring
+21,Macallan 12,spirits,1,122,0,Spring
+21,Malbec,wine,5,122,0,Spring
+21,Martini Rosso,spirits,2,122,0,Spring
+21,Merlot,wine,2,122,0,Spring
+21,Moet,wine,8,122,0,Spring
+21,Orange Juice,soft drinks,10,122,0,Spring
+21,Passoa,spirits,1,122,0,Spring
+21,Peroni,beer,27,122,23,Spring
+21,Pineapple Juice,soft drinks,10,122,0,Spring
+21,Pink Gin,spirits,1,122,1,Spring
+21,Pinot Grigio,wine,9,122,7,Spring
+21,Prosecco,wine,10,122,10,Spring
+21,Rijoca,wine,3,122,0,Spring
+21,Sauvignon Blanc,wine,4,122,0,Spring
+21,St Germain,spirits,0,122,0,Spring
+21,Tanqueray 10,spirits,0,122,0,Spring
+21,Tonic Water,soft drinks,18,122,16,Spring
+22,Apple Juice,soft drinks,7,108,0,Spring
+22,Aperol,spirits,1,108,0,Spring
+22,Bacardi Blanco,spirits,1,108,0,Spring
+22,Bira Moretti,beer,13,108,7,Spring
+22,Bombay Gin,spirits,2,108,0,Spring
+22,Captain Morgan Spiced Rum,spirits,6,108,0,Spring
+22,Chardonnay,wine,3,108,0,Spring
+22,Coca Cola,soft drinks,12,108,0,Spring
+22,Coke Zero,soft drinks,30,108,15,Spring
+22,Cointreau,spirits,2,108,0,Spring
+22,Corona,beer,9,108,0,Spring
+22,Cranberry Juice,soft drinks,7,108,0,Spring
+22,Dalmore 12,spirits,0,108,0,Spring
+22,Diet Coke,soft drinks,34,108,14,Spring
+22,Disaronno,spirits,0,108,0,Spring
+22,Finlandia Vodka,spirits,2,108,2,Spring
+22,Havana Club 3,spirits,2,108,0,Spring
+22,Havana Club 7,spirits,1,108,0,Spring
+22,High Commissioner,spirits,2,108,0,Spring
+22,Irn Bru,soft drinks,7,108,5,Spring
+22,J20,soft drinks,8,108,0,Spring
+22,Jack Daniels,spirits,0,108,0,Spring
+22,Kahlua,spirits,1,108,0,Spring
+22,Lemonade,soft drinks,35,108,16,Spring
+22,Light Tonic,soft drinks,12,108,0,Spring
+22,Limoncello,spirits,0,108,0,Spring
+22,Macallan 12,spirits,0,108,0,Spring
+22,Malbec,wine,3,108,0,Spring
+22,Martini Rosso,spirits,1,108,0,Spring
+22,Merlot,wine,4,108,0,Spring
+22,Moet,wine,4,108,0,Spring
+22,Orange Juice,soft drinks,7,108,0,Spring
+22,Passoa,spirits,2,108,0,Spring
+22,Peroni,beer,26,108,25,Spring
+22,Pineapple Juice,soft drinks,10,108,0,Spring
+22,Pink Gin,spirits,0,108,0,Spring
+22,Pinot Grigio,wine,3,108,0,Spring
+22,Prosecco,wine,8,108,0,Spring
+22,Rijoca,wine,6,108,0,Spring
+22,Sauvignon Blanc,wine,2,108,0,Spring
+22,St Germain,spirits,1,108,0,Spring
+22,Tanqueray 10,spirits,1,108,0,Spring
+22,Tonic Water,soft drinks,16,108,11,Spring
+23,Apple Juice,soft drinks,5,73,0,Spring
+23,Aperol,spirits,0,73,0,Spring
+23,Bacardi Blanco,spirits,0,73,0,Spring
+23,Bira Moretti,beer,29,73,10,Spring
+23,Bombay Gin,spirits,6,73,0,Spring
+23,Captain Morgan Spiced Rum,spirits,4,73,0,Spring
+23,Chardonnay,wine,2,73,0,Spring
+23,Coca Cola,soft drinks,9,73,0,Spring
+23,Coke Zero,soft drinks,18,73,10,Spring
+23,Cointreau,spirits,1,73,0,Spring
+23,Corona,beer,35,73,33,Spring
+23,Cranberry Juice,soft drinks,12,73,9,Spring
+23,Dalmore 12,spirits,1,73,0,Spring
+23,Diet Coke,soft drinks,20,73,7,Spring
+23,Disaronno,spirits,1,73,0,Spring
+23,Finlandia Vodka,spirits,2,73,0,Spring
+23,Havana Club 3,spirits,2,73,0,Spring
+23,Havana Club 7,spirits,2,73,0,Spring
+23,High Commissioner,spirits,0,73,0,Spring
+23,Irn Bru,soft drinks,7,73,0,Spring
+23,J20,soft drinks,7,73,0,Spring
+23,Jack Daniels,spirits,1,73,0,Spring
+23,Kahlua,spirits,1,73,0,Spring
+23,Lemonade,soft drinks,31,73,25,Spring
+23,Light Tonic,soft drinks,10,73,0,Spring
+23,Limoncello,spirits,0,73,0,Spring
+23,Macallan 12,spirits,1,73,0,Spring
+23,Malbec,wine,8,73,0,Spring
+23,Martini Rosso,spirits,1,73,0,Spring
+23,Merlot,wine,8,73,0,Spring
+23,Moet,wine,3,73,0,Spring
+23,Orange Juice,soft drinks,8,73,3,Spring
+23,Passoa,spirits,0,73,0,Spring
+23,Peroni,beer,13,73,0,Spring
+23,Pineapple Juice,soft drinks,5,73,0,Spring
+23,Pink Gin,spirits,0,73,0,Spring
+23,Pinot Grigio,wine,7,73,2,Spring
+23,Prosecco,wine,9,73,6,Spring
+23,Rijoca,wine,10,73,0,Spring
+23,Sauvignon Blanc,wine,2,73,0,Spring
+23,St Germain,spirits,0,73,0,Spring
+23,Tanqueray 10,spirits,1,73,0,Spring
+23,Tonic Water,soft drinks,20,73,9,Spring
+24,Apple Juice,soft drinks,10,82,7,Spring
+24,Aperol,spirits,1,82,0,Spring
+24,Bacardi Blanco,spirits,0,82,0,Spring
+24,Bira Moretti,beer,29,82,9,Spring
+24,Bombay Gin,spirits,2,82,0,Spring
+24,Captain Morgan Spiced Rum,spirits,5,82,0,Spring
+24,Chardonnay,wine,5,82,0,Spring
+24,Coca Cola,soft drinks,32,82,27,Spring
+24,Coke Zero,soft drinks,29,82,28,Spring
+24,Cointreau,spirits,2,82,0,Spring
+24,Corona,beer,27,82,15,Spring
+24,Cranberry Juice,soft drinks,7,82,0,Spring
+24,Dalmore 12,spirits,2,82,0,Spring
+24,Diet Coke,soft drinks,17,82,14,Spring
+24,Disaronno,spirits,2,82,0,Spring
+24,Finlandia Vodka,spirits,2,82,0,Spring
+24,Havana Club 3,spirits,1,82,0,Spring
+24,Havana Club 7,spirits,0,82,0,Spring
+24,High Commissioner,spirits,1,82,0,Spring
+24,Irn Bru,soft drinks,8,82,0,Spring
+24,J20,soft drinks,12,82,0,Spring
+24,Jack Daniels,spirits,2,82,0,Spring
+24,Kahlua,spirits,2,82,0,Spring
+24,Lemonade,soft drinks,23,82,8,Spring
+24,Light Tonic,soft drinks,11,82,1,Spring
+24,Limoncello,spirits,0,82,0,Spring
+24,Macallan 12,spirits,2,82,0,Spring
+24,Malbec,wine,5,82,3,Spring
+24,Martini Rosso,spirits,2,82,0,Spring
+24,Merlot,wine,7,82,0,Spring
+24,Moet,wine,2,82,0,Spring
+24,Orange Juice,soft drinks,6,82,0,Spring
+24,Passoa,spirits,0,82,0,Spring
+24,Peroni,beer,28,82,26,Spring
+24,Pineapple Juice,soft drinks,12,82,0,Spring
+24,Pink Gin,spirits,2,82,0,Spring
+24,Pinot Grigio,wine,7,82,0,Spring
+24,Prosecco,wine,10,82,0,Spring
+24,Rijoca,wine,8,82,0,Spring
+24,Sauvignon Blanc,wine,7,82,0,Spring
+24,St Germain,spirits,2,82,0,Spring
+24,Tanqueray 10,spirits,0,82,0,Spring
+24,Tonic Water,soft drinks,28,82,18,Spring
+25,Apple Juice,soft drinks,9,214,3,Spring
+25,Aperol,spirits,2,214,0,Spring
+25,Bacardi Blanco,spirits,0,214,0,Spring
+25,Bira Moretti,beer,9,214,0,Spring
+25,Bombay Gin,spirits,2,214,0,Spring
+25,Captain Morgan Spiced Rum,spirits,4,214,0,Spring
+25,Chardonnay,wine,10,214,9,Spring
+25,Coca Cola,soft drinks,28,214,27,Spring
+25,Coke Zero,soft drinks,31,214,12,Spring
+25,Cointreau,spirits,1,214,0,Spring
+25,Corona,beer,17,214,1,Spring
+25,Cranberry Juice,soft drinks,11,214,5,Spring
+25,Dalmore 12,spirits,1,214,0,Spring
+25,Diet Coke,soft drinks,30,214,24,Spring
+25,Disaronno,spirits,0,214,0,Spring
+25,Finlandia Vodka,spirits,6,214,0,Spring
+25,Havana Club 3,spirits,2,214,0,Spring
+25,Havana Club 7,spirits,1,214,0,Spring
+25,High Commissioner,spirits,2,214,0,Spring
+25,Irn Bru,soft drinks,5,214,5,Spring
+25,J20,soft drinks,10,214,0,Spring
+25,Jack Daniels,spirits,0,214,0,Spring
+25,Kahlua,spirits,0,214,0,Spring
+25,Lemonade,soft drinks,29,214,17,Spring
+25,Light Tonic,soft drinks,7,214,2,Spring
+25,Limoncello,spirits,2,214,0,Spring
+25,Macallan 12,spirits,2,214,2,Spring
+25,Malbec,wine,7,214,0,Spring
+25,Martini Rosso,spirits,0,214,0,Spring
+25,Merlot,wine,6,214,6,Spring
+25,Moet,wine,9,214,0,Spring
+25,Orange Juice,soft drinks,8,214,3,Spring
+25,Passoa,spirits,2,214,0,Spring
+25,Peroni,beer,16,214,0,Spring
+25,Pineapple Juice,soft drinks,9,214,1,Spring
+25,Pink Gin,spirits,0,214,0,Spring
+25,Pinot Grigio,wine,8,214,8,Spring
+25,Prosecco,wine,9,214,9,Spring
+25,Rijoca,wine,9,214,0,Spring
+25,Sauvignon Blanc,wine,6,214,0,Spring
+25,St Germain,spirits,0,214,0,Spring
+25,Tanqueray 10,spirits,0,214,0,Spring
+25,Tonic Water,soft drinks,8,214,0,Spring
+26,Apple Juice,soft drinks,18,345,10,Summer
+26,Aperol,spirits,1,345,0,Summer
+26,Bacardi Blanco,spirits,0,345,0,Summer
+26,Bira Moretti,beer,34,345,22,Summer
+26,Bombay Gin,spirits,7,345,1,Summer
+26,Captain Morgan Spiced Rum,spirits,4,345,0,Summer
+26,Chardonnay,wine,12,345,0,Summer
+26,Coca Cola,soft drinks,12,345,8,Summer
+26,Coke Zero,soft drinks,45,345,42,Summer
+26,Cointreau,spirits,1,345,0,Summer
+26,Corona,beer,49,345,38,Summer
+26,Cranberry Juice,soft drinks,18,345,0,Summer
+26,Dalmore 12,spirits,3,345,0,Summer
+26,Diet Coke,soft drinks,24,345,19,Summer
+26,Disaronno,spirits,3,345,0,Summer
+26,Finlandia Vodka,spirits,9,345,0,Summer
+26,Havana Club 3,spirits,0,345,0,Summer
+26,Havana Club 7,spirits,3,345,0,Summer
+26,High Commissioner,spirits,1,345,0,Summer
+26,Irn Bru,soft drinks,10,345,7,Summer
+26,J20,soft drinks,18,345,5,Summer
+26,Jack Daniels,spirits,1,345,0,Summer
+26,Kahlua,spirits,1,345,0,Summer
+26,Lemonade,soft drinks,18,345,18,Summer
+26,Light Tonic,soft drinks,10,345,7,Summer
+26,Limoncello,spirits,1,345,0,Summer
+26,Macallan 12,spirits,0,345,0,Summer
+26,Malbec,wine,4,345,0,Summer
+26,Martini Rosso,spirits,3,345,1,Summer
+26,Merlot,wine,15,345,2,Summer
+26,Moet,wine,7,345,0,Summer
+26,Orange Juice,soft drinks,16,345,4,Summer
+26,Passoa,spirits,0,345,0,Summer
+26,Peroni,beer,16,345,0,Summer
+26,Pineapple Juice,soft drinks,10,345,6,Summer
+26,Pink Gin,spirits,1,345,0,Summer
+26,Pinot Grigio,wine,10,345,0,Summer
+26,Prosecco,wine,7,345,0,Summer
+26,Rijoca,wine,13,345,2,Summer
+26,Sauvignon Blanc,wine,12,345,7,Summer
+26,St Germain,spirits,3,345,0,Summer
+26,Tanqueray 10,spirits,3,345,0,Summer
+26,Tonic Water,soft drinks,22,345,3,Summer
+27,Apple Juice,soft drinks,13,277,13,Summer
+27,Aperol,spirits,1,277,0,Summer
+27,Bacardi Blanco,spirits,3,277,0,Summer
+27,Bira Moretti,beer,39,277,33,Summer
+27,Bombay Gin,spirits,9,277,0,Summer
+27,Captain Morgan Spiced Rum,spirits,7,277,0,Summer
+27,Chardonnay,wine,4,277,2,Summer
+27,Coca Cola,soft drinks,34,277,18,Summer
+27,Coke Zero,soft drinks,18,277,17,Summer
+27,Cointreau,spirits,0,277,0,Summer
+27,Corona,beer,45,277,40,Summer
+27,Cranberry Juice,soft drinks,18,277,1,Summer
+27,Dalmore 12,spirits,1,277,0,Summer
+27,Diet Coke,soft drinks,43,277,42,Summer
+27,Disaronno,spirits,1,277,0,Summer
+27,Finlandia Vodka,spirits,3,277,0,Summer
+27,Havana Club 3,spirits,3,277,0,Summer
+27,Havana Club 7,spirits,3,277,0,Summer
+27,High Commissioner,spirits,1,277,0,Summer
+27,Irn Bru,soft drinks,16,277,15,Summer
+27,J20,soft drinks,12,277,4,Summer
+27,Jack Daniels,spirits,1,277,0,Summer
+27,Kahlua,spirits,3,277,3,Summer
+27,Lemonade,soft drinks,45,277,29,Summer
+27,Light Tonic,soft drinks,16,277,11,Summer
+27,Limoncello,spirits,0,277,0,Summer
+27,Macallan 12,spirits,3,277,0,Summer
+27,Malbec,wine,3,277,0,Summer
+27,Martini Rosso,spirits,1,277,0,Summer
+27,Merlot,wine,10,277,6,Summer
+27,Moet,wine,12,277,9,Summer
+27,Orange Juice,soft drinks,7,277,0,Summer
+27,Passoa,spirits,3,277,0,Summer
+27,Peroni,beer,51,277,37,Summer
+27,Pineapple Juice,soft drinks,18,277,0,Summer
+27,Pink Gin,spirits,3,277,0,Summer
+27,Pinot Grigio,wine,10,277,1,Summer
+27,Prosecco,wine,9,277,0,Summer
+27,Rijoca,wine,4,277,0,Summer
+27,Sauvignon Blanc,wine,10,277,0,Summer
+27,St Germain,spirits,0,277,0,Summer
+27,Tanqueray 10,spirits,1,277,0,Summer
+27,Tonic Water,soft drinks,25,277,14,Summer
+28,Apple Juice,soft drinks,15,298,13,Summer
+28,Aperol,spirits,1,298,0,Summer
+28,Bacardi Blanco,spirits,0,298,0,Summer
+28,Bira Moretti,beer,21,298,8,Summer
+28,Bombay Gin,spirits,4,298,0,Summer
+28,Captain Morgan Spiced Rum,spirits,6,298,2,Summer
+28,Chardonnay,wine,9,298,9,Summer
+28,Coca Cola,soft drinks,30,298,29,Summer
+28,Coke Zero,soft drinks,40,298,26,Summer
+28,Cointreau,spirits,1,298,0,Summer
+28,Corona,beer,22,298,3,Summer
+28,Cranberry Juice,soft drinks,16,298,0,Summer
+28,Dalmore 12,spirits,0,298,0,Summer
+28,Diet Coke,soft drinks,28,298,27,Summer
+28,Disaronno,spirits,0,298,0,Summer
+28,Finlandia Vodka,spirits,3,298,0,Summer
+28,Havana Club 3,spirits,3,298,0,Summer
+28,Havana Club 7,spirits,0,298,0,Summer
+28,High Commissioner,spirits,0,298,0,Summer
+28,Irn Bru,soft drinks,12,298,1,Summer
+28,J20,soft drinks,9,298,0,Summer
+28,Jack Daniels,spirits,1,298,0,Summer
+28,Kahlua,spirits,3,298,0,Summer
+28,Lemonade,soft drinks,36,298,29,Summer
+28,Light Tonic,soft drinks,12,298,6,Summer
+28,Limoncello,spirits,3,298,0,Summer
+28,Macallan 12,spirits,1,298,0,Summer
+28,Malbec,wine,9,298,3,Summer
+28,Martini Rosso,spirits,1,298,0,Summer
+28,Merlot,wine,10,298,0,Summer
+28,Moet,wine,10,298,4,Summer
+28,Orange Juice,soft drinks,10,298,8,Summer
+28,Passoa,spirits,1,298,0,Summer
+28,Peroni,beer,21,298,16,Summer
+28,Pineapple Juice,soft drinks,18,298,3,Summer
+28,Pink Gin,spirits,0,298,0,Summer
+28,Pinot Grigio,wine,13,298,12,Summer
+28,Prosecco,wine,15,298,4,Summer
+28,Rijoca,wine,6,298,0,Summer
+28,Sauvignon Blanc,wine,10,298,0,Summer
+28,St Germain,spirits,0,298,0,Summer
+28,Tanqueray 10,spirits,3,298,0,Summer
+28,Tonic Water,soft drinks,25,298,10,Summer
+29,Apple Juice,soft drinks,16,210,11,Summer
+29,Aperol,spirits,4,210,0,Summer
+29,Bacardi Blanco,spirits,0,210,0,Summer
+29,Bira Moretti,beer,37,210,35,Summer
+29,Bombay Gin,spirits,6,210,0,Summer
+29,Captain Morgan Spiced Rum,spirits,3,210,0,Summer
+29,Chardonnay,wine,13,210,8,Summer
+29,Coca Cola,soft drinks,16,210,11,Summer
+29,Coke Zero,soft drinks,10,210,0,Summer
+29,Cointreau,spirits,3,210,0,Summer
+29,Corona,beer,48,210,37,Summer
+29,Cranberry Juice,soft drinks,18,210,11,Summer
+29,Dalmore 12,spirits,3,210,0,Summer
+29,Diet Coke,soft drinks,18,210,11,Summer
+29,Disaronno,spirits,1,210,0,Summer
+29,Finlandia Vodka,spirits,6,210,0,Summer
+29,Havana Club 3,spirits,1,210,0,Summer
+29,Havana Club 7,spirits,3,210,0,Summer
+29,High Commissioner,spirits,1,210,1,Summer
+29,Irn Bru,soft drinks,12,210,8,Summer
+29,J20,soft drinks,16,210,6,Summer
+29,Jack Daniels,spirits,0,210,0,Summer
+29,Kahlua,spirits,1,210,0,Summer
+29,Lemonade,soft drinks,46,210,34,Summer
+29,Light Tonic,soft drinks,9,210,0,Summer
+29,Limoncello,spirits,0,210,0,Summer
+29,Macallan 12,spirits,1,210,0,Summer
+29,Malbec,wine,15,210,3,Summer
+29,Martini Rosso,spirits,3,210,0,Summer
+29,Merlot,wine,7,210,0,Summer
+29,Moet,wine,4,210,0,Summer
+29,Orange Juice,soft drinks,7,210,0,Summer
+29,Passoa,spirits,0,210,0,Summer
+29,Peroni,beer,46,210,31,Summer
+29,Pineapple Juice,soft drinks,13,210,0,Summer
+29,Pink Gin,spirits,1,210,0,Summer
+29,Pinot Grigio,wine,13,210,10,Summer
+29,Prosecco,wine,10,210,9,Summer
+29,Rijoca,wine,15,210,7,Summer
+29,Sauvignon Blanc,wine,12,210,6,Summer
+29,St Germain,spirits,0,210,0,Summer
+29,Tanqueray 10,spirits,0,210,0,Summer
+29,Tonic Water,soft drinks,22,210,14,Summer
+30,Apple Juice,soft drinks,12,297,10,Summer
+30,Aperol,spirits,3,297,0,Summer
+30,Bacardi Blanco,spirits,1,297,0,Summer
+30,Bira Moretti,beer,13,297,3,Summer
+30,Bombay Gin,spirits,6,297,1,Summer
+30,Captain Morgan Spiced Rum,spirits,6,297,3,Summer
+30,Chardonnay,wine,4,297,0,Summer
+30,Coca Cola,soft drinks,42,297,34,Summer
+30,Coke Zero,soft drinks,15,297,2,Summer
+30,Cointreau,spirits,1,297,0,Summer
+30,Corona,beer,43,297,37,Summer
+30,Cranberry Juice,soft drinks,15,297,0,Summer
+30,Dalmore 12,spirits,3,297,3,Summer
+30,Diet Coke,soft drinks,52,297,37,Summer
+30,Disaronno,spirits,3,297,3,Summer
+30,Finlandia Vodka,spirits,6,297,0,Summer
+30,Havana Club 3,spirits,0,297,0,Summer
+30,Havana Club 7,spirits,1,297,0,Summer
+30,High Commissioner,spirits,1,297,0,Summer
+30,Irn Bru,soft drinks,18,297,3,Summer
+30,J20,soft drinks,7,297,0,Summer
+30,Jack Daniels,spirits,1,297,0,Summer
+30,Kahlua,spirits,0,297,0,Summer
+30,Lemonade,soft drinks,39,297,28,Summer
+30,Light Tonic,soft drinks,9,297,1,Summer
+30,Limoncello,spirits,0,297,0,Summer
+30,Macallan 12,spirits,3,297,0,Summer
+30,Malbec,wine,7,297,0,Summer
+30,Martini Rosso,spirits,0,297,0,Summer
+30,Merlot,wine,12,297,9,Summer
+30,Moet,wine,3,297,0,Summer
+30,Orange Juice,soft drinks,7,297,0,Summer
+30,Passoa,spirits,1,297,0,Summer
+30,Peroni,beer,36,297,35,Summer
+30,Pineapple Juice,soft drinks,10,297,0,Summer
+30,Pink Gin,spirits,3,297,0,Summer
+30,Pinot Grigio,wine,4,297,0,Summer
+30,Prosecco,wine,13,297,0,Summer
+30,Rijoca,wine,12,297,0,Summer
+30,Sauvignon Blanc,wine,12,297,0,Summer
+30,St Germain,spirits,3,297,1,Summer
+30,Tanqueray 10,spirits,1,297,0,Summer
+30,Tonic Water,soft drinks,49,297,46,Summer
+31,Apple Juice,soft drinks,7,105,5,Summer
+31,Aperol,spirits,3,105,2,Summer
+31,Bacardi Blanco,spirits,0,105,0,Summer
+31,Bira Moretti,beer,40,105,32,Summer
+31,Bombay Gin,spirits,4,105,0,Summer
+31,Captain Morgan Spiced Rum,spirits,4,105,0,Summer
+31,Chardonnay,wine,6,105,0,Summer
+31,Coca Cola,soft drinks,13,105,0,Summer
+31,Coke Zero,soft drinks,51,105,37,Summer
+31,Cointreau,spirits,0,105,0,Summer
+31,Corona,beer,45,105,40,Summer
+31,Cranberry Juice,soft drinks,10,105,0,Summer
+31,Dalmore 12,spirits,0,105,0,Summer
+31,Diet Coke,soft drinks,18,105,13,Summer
+31,Disaronno,spirits,3,105,0,Summer
+31,Finlandia Vodka,spirits,4,105,0,Summer
+31,Havana Club 3,spirits,1,105,0,Summer
+31,Havana Club 7,spirits,3,105,0,Summer
+31,High Commissioner,spirits,0,105,0,Summer
+31,Irn Bru,soft drinks,9,105,0,Summer
+31,J20,soft drinks,10,105,7,Summer
+31,Jack Daniels,spirits,1,105,0,Summer
+31,Kahlua,spirits,0,105,0,Summer
+31,Lemonade,soft drinks,21,105,16,Summer
+31,Light Tonic,soft drinks,13,105,0,Summer
+31,Limoncello,spirits,1,105,0,Summer
+31,Macallan 12,spirits,3,105,0,Summer
+31,Malbec,wine,9,105,0,Summer
+31,Martini Rosso,spirits,1,105,0,Summer
+31,Merlot,wine,13,105,13,Summer
+31,Moet,wine,4,105,0,Summer
+31,Orange Juice,soft drinks,13,105,7,Summer
+31,Passoa,spirits,0,105,0,Summer
+31,Peroni,beer,13,105,7,Summer
+31,Pineapple Juice,soft drinks,7,105,3,Summer
+31,Pink Gin,spirits,3,105,0,Summer
+31,Pinot Grigio,wine,4,105,0,Summer
+31,Prosecco,wine,6,105,0,Summer
+31,Rijoca,wine,7,105,7,Summer
+31,Sauvignon Blanc,wine,10,105,0,Summer
+31,St Germain,spirits,1,105,0,Summer
+31,Tanqueray 10,spirits,0,105,0,Summer
+31,Tonic Water,soft drinks,36,105,25,Summer
+32,Apple Juice,soft drinks,10,157,0,Summer
+32,Aperol,spirits,4,157,3,Summer
+32,Bacardi Blanco,spirits,3,157,0,Summer
+32,Bira Moretti,beer,22,157,21,Summer
+32,Bombay Gin,spirits,4,157,3,Summer
+32,Captain Morgan Spiced Rum,spirits,4,157,0,Summer
+32,Chardonnay,wine,9,157,4,Summer
+32,Coca Cola,soft drinks,22,157,12,Summer
+32,Coke Zero,soft drinks,21,157,17,Summer
+32,Cointreau,spirits,1,157,0,Summer
+32,Corona,beer,40,157,36,Summer
+32,Cranberry Juice,soft drinks,15,157,15,Summer
+32,Dalmore 12,spirits,0,157,0,Summer
+32,Diet Coke,soft drinks,52,157,50,Summer
+32,Disaronno,spirits,3,157,0,Summer
+32,Finlandia Vodka,spirits,6,157,0,Summer
+32,Havana Club 3,spirits,1,157,0,Summer
+32,Havana Club 7,spirits,1,157,0,Summer
+32,High Commissioner,spirits,1,157,0,Summer
+32,Irn Bru,soft drinks,13,157,0,Summer
+32,J20,soft drinks,18,157,2,Summer
+32,Jack Daniels,spirits,3,157,1,Summer
+32,Kahlua,spirits,3,157,0,Summer
+32,Lemonade,soft drinks,43,157,33,Summer
+32,Light Tonic,soft drinks,7,157,0,Summer
+32,Limoncello,spirits,0,157,0,Summer
+32,Macallan 12,spirits,0,157,0,Summer
+32,Malbec,wine,7,157,0,Summer
+32,Martini Rosso,spirits,0,157,0,Summer
+32,Merlot,wine,13,157,7,Summer
+32,Moet,wine,15,157,13,Summer
+32,Orange Juice,soft drinks,9,157,0,Summer
+32,Passoa,spirits,0,157,0,Summer
+32,Peroni,beer,13,157,0,Summer
+32,Pineapple Juice,soft drinks,15,157,8,Summer
+32,Pink Gin,spirits,3,157,0,Summer
+32,Pinot Grigio,wine,13,157,5,Summer
+32,Prosecco,wine,3,157,0,Summer
+32,Rijoca,wine,13,157,9,Summer
+32,Sauvignon Blanc,wine,10,157,4,Summer
+32,St Germain,spirits,0,157,0,Summer
+32,Tanqueray 10,spirits,3,157,0,Summer
+32,Tonic Water,soft drinks,19,157,18,Summer
+33,Apple Juice,soft drinks,10,90,0,Summer
+33,Aperol,spirits,6,90,0,Summer
+33,Bacardi Blanco,spirits,1,90,0,Summer
+33,Bira Moretti,beer,36,90,21,Summer
+33,Bombay Gin,spirits,7,90,3,Summer
+33,Captain Morgan Spiced Rum,spirits,7,90,0,Summer
+33,Chardonnay,wine,7,90,0,Summer
+33,Coca Cola,soft drinks,31,90,12,Summer
+33,Coke Zero,soft drinks,46,90,26,Summer
+33,Cointreau,spirits,3,90,0,Summer
+33,Corona,beer,27,90,19,Summer
+33,Cranberry Juice,soft drinks,7,90,0,Summer
+33,Dalmore 12,spirits,0,90,0,Summer
+33,Diet Coke,soft drinks,18,90,10,Summer
+33,Disaronno,spirits,3,90,1,Summer
+33,Finlandia Vodka,spirits,3,90,0,Summer
+33,Havana Club 3,spirits,3,90,0,Summer
+33,Havana Club 7,spirits,1,90,0,Summer
+33,High Commissioner,spirits,1,90,0,Summer
+33,Irn Bru,soft drinks,12,90,2,Summer
+33,J20,soft drinks,12,90,0,Summer
+33,Jack Daniels,spirits,0,90,0,Summer
+33,Kahlua,spirits,0,90,0,Summer
+33,Lemonade,soft drinks,31,90,17,Summer
+33,Light Tonic,soft drinks,9,90,8,Summer
+33,Limoncello,spirits,3,90,0,Summer
+33,Macallan 12,spirits,0,90,0,Summer
+33,Malbec,wine,13,90,8,Summer
+33,Martini Rosso,spirits,1,90,0,Summer
+33,Merlot,wine,9,90,0,Summer
+33,Moet,wine,7,90,0,Summer
+33,Orange Juice,soft drinks,18,90,0,Summer
+33,Passoa,spirits,0,90,0,Summer
+33,Peroni,beer,34,90,18,Summer
+33,Pineapple Juice,soft drinks,18,90,4,Summer
+33,Pink Gin,spirits,1,90,1,Summer
+33,Pinot Grigio,wine,3,90,0,Summer
+33,Prosecco,wine,15,90,3,Summer
+33,Rijoca,wine,4,90,0,Summer
+33,Sauvignon Blanc,wine,3,90,0,Summer
+33,St Germain,spirits,0,90,0,Summer
+33,Tanqueray 10,spirits,3,90,0,Summer
+33,Tonic Water,soft drinks,31,90,18,Summer
+34,Apple Juice,soft drinks,9,273,4,Summer
+34,Aperol,spirits,6,273,2,Summer
+34,Bacardi Blanco,spirits,3,273,0,Summer
+34,Bira Moretti,beer,31,273,14,Summer
+34,Bombay Gin,spirits,3,273,0,Summer
+34,Captain Morgan Spiced Rum,spirits,9,273,0,Summer
+34,Chardonnay,wine,7,273,0,Summer
+34,Coca Cola,soft drinks,13,273,9,Summer
+34,Coke Zero,soft drinks,43,273,32,Summer
+34,Cointreau,spirits,0,273,0,Summer
+34,Corona,beer,12,273,10,Summer
+34,Cranberry Juice,soft drinks,10,273,0,Summer
+34,Dalmore 12,spirits,1,273,0,Summer
+34,Diet Coke,soft drinks,16,273,6,Summer
+34,Disaronno,spirits,3,273,0,Summer
+34,Finlandia Vodka,spirits,7,273,0,Summer
+34,Havana Club 3,spirits,3,273,0,Summer
+34,Havana Club 7,spirits,1,273,0,Summer
+34,High Commissioner,spirits,1,273,0,Summer
+34,Irn Bru,soft drinks,12,273,2,Summer
+34,J20,soft drinks,7,273,5,Summer
+34,Jack Daniels,spirits,1,273,0,Summer
+34,Kahlua,spirits,3,273,0,Summer
+34,Lemonade,soft drinks,15,273,15,Summer
+34,Light Tonic,soft drinks,9,273,4,Summer
+34,Limoncello,spirits,0,273,0,Summer
+34,Macallan 12,spirits,1,273,0,Summer
+34,Malbec,wine,9,273,0,Summer
+34,Martini Rosso,spirits,0,273,0,Summer
+34,Merlot,wine,10,273,3,Summer
+34,Moet,wine,10,273,8,Summer
+34,Orange Juice,soft drinks,18,273,0,Summer
+34,Passoa,spirits,3,273,0,Summer
+34,Peroni,beer,25,273,14,Summer
+34,Pineapple Juice,soft drinks,13,273,6,Summer
+34,Pink Gin,spirits,0,273,0,Summer
+34,Pinot Grigio,wine,12,273,11,Summer
+34,Prosecco,wine,9,273,6,Summer
+34,Rijoca,wine,10,273,0,Summer
+34,Sauvignon Blanc,wine,13,273,0,Summer
+34,St Germain,spirits,0,273,0,Summer
+34,Tanqueray 10,spirits,0,273,0,Summer
+34,Tonic Water,soft drinks,27,273,8,Summer
+35,Apple Juice,soft drinks,16,144,8,Summer
+35,Aperol,spirits,1,144,0,Summer
+35,Bacardi Blanco,spirits,3,144,0,Summer
+35,Bira Moretti,beer,42,144,30,Summer
+35,Bombay Gin,spirits,9,144,0,Summer
+35,Captain Morgan Spiced Rum,spirits,9,144,5,Summer
+35,Chardonnay,wine,15,144,0,Summer
+35,Coca Cola,soft drinks,24,144,8,Summer
+35,Coke Zero,soft drinks,33,144,20,Summer
+35,Cointreau,spirits,0,144,0,Summer
+35,Corona,beer,13,144,9,Summer
+35,Cranberry Juice,soft drinks,12,144,11,Summer
+35,Dalmore 12,spirits,0,144,0,Summer
+35,Diet Coke,soft drinks,45,144,44,Summer
+35,Disaronno,spirits,1,144,0,Summer
+35,Finlandia Vodka,spirits,4,144,0,Summer
+35,Havana Club 3,spirits,1,144,1,Summer
+35,Havana Club 7,spirits,1,144,0,Summer
+35,High Commissioner,spirits,1,144,0,Summer
+35,Irn Bru,soft drinks,9,144,5,Summer
+35,J20,soft drinks,15,144,4,Summer
+35,Jack Daniels,spirits,1,144,0,Summer
+35,Kahlua,spirits,3,144,0,Summer
+35,Lemonade,soft drinks,49,144,40,Summer
+35,Light Tonic,soft drinks,16,144,5,Summer
+35,Limoncello,spirits,1,144,0,Summer
+35,Macallan 12,spirits,0,144,0,Summer
+35,Malbec,wine,6,144,4,Summer
+35,Martini Rosso,spirits,3,144,0,Summer
+35,Merlot,wine,3,144,0,Summer
+35,Moet,wine,3,144,0,Summer
+35,Orange Juice,soft drinks,16,144,0,Summer
+35,Passoa,spirits,1,144,0,Summer
+35,Peroni,beer,25,144,16,Summer
+35,Pineapple Juice,soft drinks,9,144,3,Summer
+35,Pink Gin,spirits,3,144,3,Summer
+35,Pinot Grigio,wine,9,144,5,Summer
+35,Prosecco,wine,10,144,5,Summer
+35,Rijoca,wine,15,144,0,Summer
+35,Sauvignon Blanc,wine,4,144,1,Summer
+35,St Germain,spirits,0,144,0,Summer
+35,Tanqueray 10,spirits,3,144,0,Summer
+35,Tonic Water,soft drinks,25,144,15,Summer
+36,Apple Juice,soft drinks,10,240,0,Summer
+36,Aperol,spirits,0,240,0,Summer
+36,Bacardi Blanco,spirits,0,240,0,Summer
+36,Bira Moretti,beer,46,240,31,Summer
+36,Bombay Gin,spirits,9,240,0,Summer
+36,Captain Morgan Spiced Rum,spirits,3,240,1,Summer
+36,Chardonnay,wine,4,240,0,Summer
+36,Coca Cola,soft drinks,30,240,11,Summer
+36,Coke Zero,soft drinks,51,240,38,Summer
+36,Cointreau,spirits,3,240,0,Summer
+36,Corona,beer,39,240,30,Summer
+36,Cranberry Juice,soft drinks,13,240,2,Summer
+36,Dalmore 12,spirits,1,240,0,Summer
+36,Diet Coke,soft drinks,10,240,8,Summer
+36,Disaronno,spirits,0,240,0,Summer
+36,Finlandia Vodka,spirits,4,240,1,Summer
+36,Havana Club 3,spirits,1,240,0,Summer
+36,Havana Club 7,spirits,1,240,0,Summer
+36,High Commissioner,spirits,3,240,0,Summer
+36,Irn Bru,soft drinks,16,240,5,Summer
+36,J20,soft drinks,10,240,0,Summer
+36,Jack Daniels,spirits,1,240,0,Summer
+36,Kahlua,spirits,1,240,0,Summer
+36,Lemonade,soft drinks,24,240,20,Summer
+36,Light Tonic,soft drinks,9,240,0,Summer
+36,Limoncello,spirits,0,240,0,Summer
+36,Macallan 12,spirits,1,240,0,Summer
+36,Malbec,wine,9,240,2,Summer
+36,Martini Rosso,spirits,1,240,0,Summer
+36,Merlot,wine,15,240,15,Summer
+36,Moet,wine,15,240,0,Summer
+36,Orange Juice,soft drinks,9,240,0,Summer
+36,Passoa,spirits,1,240,0,Summer
+36,Peroni,beer,19,240,10,Summer
+36,Pineapple Juice,soft drinks,9,240,0,Summer
+36,Pink Gin,spirits,3,240,0,Summer
+36,Pinot Grigio,wine,7,240,4,Summer
+36,Prosecco,wine,3,240,1,Summer
+36,Rijoca,wine,9,240,3,Summer
+36,Sauvignon Blanc,wine,4,240,3,Summer
+36,St Germain,spirits,3,240,0,Summer
+36,Tanqueray 10,spirits,3,240,0,Summer
+36,Tonic Water,soft drinks,43,240,33,Summer
+37,Apple Juice,soft drinks,12,190,0,Summer
+37,Aperol,spirits,0,190,0,Summer
+37,Bacardi Blanco,spirits,1,190,0,Summer
+37,Bira Moretti,beer,28,190,19,Summer
+37,Bombay Gin,spirits,9,190,0,Summer
+37,Captain Morgan Spiced Rum,spirits,9,190,0,Summer
+37,Chardonnay,wine,7,190,0,Summer
+37,Coca Cola,soft drinks,42,190,40,Summer
+37,Coke Zero,soft drinks,39,190,39,Summer
+37,Cointreau,spirits,0,190,0,Summer
+37,Corona,beer,10,190,10,Summer
+37,Cranberry Juice,soft drinks,7,190,0,Summer
+37,Dalmore 12,spirits,0,190,0,Summer
+37,Diet Coke,soft drinks,15,190,4,Summer
+37,Disaronno,spirits,1,190,0,Summer
+37,Finlandia Vodka,spirits,4,190,4,Summer
+37,Havana Club 3,spirits,0,190,0,Summer
+37,Havana Club 7,spirits,0,190,0,Summer
+37,High Commissioner,spirits,3,190,0,Summer
+37,Irn Bru,soft drinks,7,190,6,Summer
+37,J20,soft drinks,12,190,0,Summer
+37,Jack Daniels,spirits,3,190,0,Summer
+37,Kahlua,spirits,1,190,0,Summer
+37,Lemonade,soft drinks,46,190,37,Summer
+37,Light Tonic,soft drinks,16,190,6,Summer
+37,Limoncello,spirits,0,190,0,Summer
+37,Macallan 12,spirits,1,190,0,Summer
+37,Malbec,wine,4,190,0,Summer
+37,Martini Rosso,spirits,0,190,0,Summer
+37,Merlot,wine,3,190,0,Summer
+37,Moet,wine,6,190,4,Summer
+37,Orange Juice,soft drinks,10,190,0,Summer
+37,Passoa,spirits,1,190,0,Summer
+37,Peroni,beer,52,190,52,Summer
+37,Pineapple Juice,soft drinks,12,190,0,Summer
+37,Pink Gin,spirits,1,190,0,Summer
+37,Pinot Grigio,wine,7,190,3,Summer
+37,Prosecco,wine,4,190,3,Summer
+37,Rijoca,wine,7,190,0,Summer
+37,Sauvignon Blanc,wine,12,190,11,Summer
+37,St Germain,spirits,1,190,0,Summer
+37,Tanqueray 10,spirits,3,190,0,Summer
+37,Tonic Water,soft drinks,21,190,8,Summer
+38,Apple Juice,soft drinks,18,121,12,Summer
+38,Aperol,spirits,6,121,0,Summer
+38,Bacardi Blanco,spirits,3,121,3,Summer
+38,Bira Moretti,beer,51,121,31,Summer
+38,Bombay Gin,spirits,6,121,0,Summer
+38,Captain Morgan Spiced Rum,spirits,6,121,0,Summer
+38,Chardonnay,wine,4,121,0,Summer
+38,Coca Cola,soft drinks,22,121,6,Summer
+38,Coke Zero,soft drinks,46,121,42,Summer
+38,Cointreau,spirits,3,121,0,Summer
+38,Corona,beer,49,121,40,Summer
+38,Cranberry Juice,soft drinks,13,121,2,Summer
+38,Dalmore 12,spirits,3,121,0,Summer
+38,Diet Coke,soft drinks,18,121,8,Summer
+38,Disaronno,spirits,3,121,0,Summer
+38,Finlandia Vodka,spirits,7,121,0,Summer
+38,Havana Club 3,spirits,0,121,0,Summer
+38,Havana Club 7,spirits,0,121,0,Summer
+38,High Commissioner,spirits,3,121,0,Summer
+38,Irn Bru,soft drinks,9,121,0,Summer
+38,J20,soft drinks,15,121,0,Summer
+38,Jack Daniels,spirits,3,121,0,Summer
+38,Kahlua,spirits,0,121,0,Summer
+38,Lemonade,soft drinks,36,121,21,Summer
+38,Light Tonic,soft drinks,12,121,12,Summer
+38,Limoncello,spirits,3,121,0,Summer
+38,Macallan 12,spirits,1,121,0,Summer
+38,Malbec,wine,7,121,0,Summer
+38,Martini Rosso,spirits,3,121,0,Summer
+38,Merlot,wine,7,121,0,Summer
+38,Moet,wine,13,121,5,Summer
+38,Orange Juice,soft drinks,15,121,0,Summer
+38,Passoa,spirits,1,121,0,Summer
+38,Peroni,beer,31,121,25,Summer
+38,Pineapple Juice,soft drinks,18,121,1,Summer
+38,Pink Gin,spirits,0,121,0,Summer
+38,Pinot Grigio,wine,12,121,12,Summer
+38,Prosecco,wine,12,121,9,Summer
+38,Rijoca,wine,9,121,1,Summer
+38,Sauvignon Blanc,wine,9,121,0,Summer
+38,St Germain,spirits,0,121,0,Summer
+38,Tanqueray 10,spirits,0,121,0,Summer
+38,Tonic Water,soft drinks,49,121,30,Summer
+39,Apple Juice,soft drinks,12,218,11,Fall
+39,Aperol,spirits,1,218,0,Fall
+39,Bacardi Blanco,spirits,0,218,0,Fall
+39,Bira Moretti,beer,28,218,26,Fall
+39,Bombay Gin,spirits,6,218,2,Fall
+39,Captain Morgan Spiced Rum,spirits,4,218,0,Fall
+39,Chardonnay,wine,8,218,3,Fall
+39,Coca Cola,soft drinks,28,218,25,Fall
+39,Coke Zero,soft drinks,19,218,13,Fall
+39,Cointreau,spirits,2,218,0,Fall
+39,Corona,beer,31,218,20,Fall
+39,Cranberry Juice,soft drinks,11,218,1,Fall
+39,Dalmore 12,spirits,2,218,0,Fall
+39,Diet Coke,soft drinks,9,218,0,Fall
+39,Disaronno,spirits,2,218,0,Fall
+39,Finlandia Vodka,spirits,4,218,0,Fall
+39,Havana Club 3,spirits,2,218,0,Fall
+39,Havana Club 7,spirits,1,218,0,Fall
+39,High Commissioner,spirits,2,218,0,Fall
+39,Irn Bru,soft drinks,6,218,0,Fall
+39,J20,soft drinks,5,218,0,Fall
+39,Jack Daniels,spirits,1,218,0,Fall
+39,Kahlua,spirits,2,218,0,Fall
+39,Lemonade,soft drinks,30,218,21,Fall
+39,Light Tonic,soft drinks,5,218,0,Fall
+39,Limoncello,spirits,0,218,0,Fall
+39,Macallan 12,spirits,0,218,0,Fall
+39,Malbec,wine,2,218,0,Fall
+39,Martini Rosso,spirits,0,218,0,Fall
+39,Merlot,wine,6,218,0,Fall
+39,Moet,wine,8,218,3,Fall
+39,Orange Juice,soft drinks,6,218,0,Fall
+39,Passoa,spirits,0,218,0,Fall
+39,Peroni,beer,24,218,8,Fall
+39,Pineapple Juice,soft drinks,10,218,3,Fall
+39,Pink Gin,spirits,0,218,0,Fall
+39,Pinot Grigio,wine,6,218,0,Fall
+39,Prosecco,wine,8,218,0,Fall
+39,Rijoca,wine,8,218,0,Fall
+39,Sauvignon Blanc,wine,10,218,0,Fall
+39,St Germain,spirits,0,218,0,Fall
+39,Tanqueray 10,spirits,0,218,0,Fall
+39,Tonic Water,soft drinks,13,218,0,Fall
+40,Apple Juice,soft drinks,12,95,3,Fall
+40,Aperol,spirits,0,95,0,Fall
+40,Bacardi Blanco,spirits,1,95,0,Fall
+40,Bira Moretti,beer,35,95,27,Fall
+40,Bombay Gin,spirits,2,95,0,Fall
+40,Captain Morgan Spiced Rum,spirits,4,95,2,Fall
+40,Chardonnay,wine,3,95,0,Fall
+40,Coca Cola,soft drinks,9,95,0,Fall
+40,Coke Zero,soft drinks,23,95,19,Fall
+40,Cointreau,spirits,0,95,0,Fall
+40,Corona,beer,24,95,12,Fall
+40,Cranberry Juice,soft drinks,12,95,8,Fall
+40,Dalmore 12,spirits,2,95,0,Fall
+40,Diet Coke,soft drinks,33,95,22,Fall
+40,Disaronno,spirits,1,95,0,Fall
+40,Finlandia Vodka,spirits,2,95,0,Fall
+40,Havana Club 3,spirits,0,95,0,Fall
+40,Havana Club 7,spirits,0,95,0,Fall
+40,High Commissioner,spirits,2,95,0,Fall
+40,Irn Bru,soft drinks,6,95,1,Fall
+40,J20,soft drinks,10,95,2,Fall
+40,Jack Daniels,spirits,0,95,0,Fall
+40,Kahlua,spirits,2,95,0,Fall
+40,Lemonade,soft drinks,24,95,23,Fall
+40,Light Tonic,soft drinks,8,95,0,Fall
+40,Limoncello,spirits,2,95,0,Fall
+40,Macallan 12,spirits,1,95,0,Fall
+40,Malbec,wine,5,95,0,Fall
+40,Martini Rosso,spirits,0,95,0,Fall
+40,Merlot,wine,5,95,0,Fall
+40,Moet,wine,8,95,6,Fall
+40,Orange Juice,soft drinks,10,95,0,Fall
+40,Passoa,spirits,1,95,0,Fall
+40,Peroni,beer,7,95,3,Fall
+40,Pineapple Juice,soft drinks,10,95,4,Fall
+40,Pink Gin,spirits,1,95,0,Fall
+40,Pinot Grigio,wine,2,95,0,Fall
+40,Prosecco,wine,6,95,0,Fall
+40,Rijoca,wine,10,95,1,Fall
+40,Sauvignon Blanc,wine,9,95,0,Fall
+40,St Germain,spirits,0,95,0,Fall
+40,Tanqueray 10,spirits,0,95,0,Fall
+40,Tonic Water,soft drinks,33,95,13,Fall
+41,Apple Juice,soft drinks,5,150,0,Fall
+41,Aperol,spirits,2,150,0,Fall
+41,Bacardi Blanco,spirits,2,150,0,Fall
+41,Bira Moretti,beer,19,150,17,Fall
+41,Bombay Gin,spirits,3,150,0,Fall
+41,Captain Morgan Spiced Rum,spirits,2,150,0,Fall
+41,Chardonnay,wine,6,150,6,Fall
+41,Coca Cola,soft drinks,13,150,7,Fall
+41,Coke Zero,soft drinks,29,150,29,Fall
+41,Cointreau,spirits,1,150,0,Fall
+41,Corona,beer,19,150,1,Fall
+41,Cranberry Juice,soft drinks,12,150,2,Fall
+41,Dalmore 12,spirits,0,150,0,Fall
+41,Diet Coke,soft drinks,35,150,33,Fall
+41,Disaronno,spirits,1,150,0,Fall
+41,Finlandia Vodka,spirits,6,150,2,Fall
+41,Havana Club 3,spirits,0,150,0,Fall
+41,Havana Club 7,spirits,1,150,0,Fall
+41,High Commissioner,spirits,0,150,0,Fall
+41,Irn Bru,soft drinks,5,150,3,Fall
+41,J20,soft drinks,6,150,4,Fall
+41,Jack Daniels,spirits,0,150,0,Fall
+41,Kahlua,spirits,1,150,0,Fall
+41,Lemonade,soft drinks,21,150,6,Fall
+41,Light Tonic,soft drinks,11,150,0,Fall
+41,Limoncello,spirits,1,150,0,Fall
+41,Macallan 12,spirits,1,150,0,Fall
+41,Malbec,wine,4,150,0,Fall
+41,Martini Rosso,spirits,1,150,0,Fall
+41,Merlot,wine,9,150,1,Fall
+41,Moet,wine,4,150,0,Fall
+41,Orange Juice,soft drinks,12,150,0,Fall
+41,Passoa,spirits,0,150,0,Fall
+41,Peroni,beer,7,150,0,Fall
+41,Pineapple Juice,soft drinks,10,150,3,Fall
+41,Pink Gin,spirits,1,150,0,Fall
+41,Pinot Grigio,wine,8,150,0,Fall
+41,Prosecco,wine,3,150,0,Fall
+41,Rijoca,wine,3,150,0,Fall
+41,Sauvignon Blanc,wine,2,150,2,Fall
+41,St Germain,spirits,1,150,0,Fall
+41,Tanqueray 10,spirits,0,150,0,Fall
+41,Tonic Water,soft drinks,25,150,18,Fall
+42,Apple Juice,soft drinks,5,108,0,Fall
+42,Aperol,spirits,0,108,0,Fall
+42,Bacardi Blanco,spirits,2,108,0,Fall
+42,Bira Moretti,beer,27,108,25,Fall
+42,Bombay Gin,spirits,2,108,0,Fall
+42,Captain Morgan Spiced Rum,spirits,5,108,1,Fall
+42,Chardonnay,wine,2,108,0,Fall
+42,Coca Cola,soft drinks,24,108,13,Fall
+42,Coke Zero,soft drinks,20,108,16,Fall
+42,Cointreau,spirits,0,108,0,Fall
+42,Corona,beer,33,108,27,Fall
+42,Cranberry Juice,soft drinks,6,108,5,Fall
+42,Dalmore 12,spirits,0,108,0,Fall
+42,Diet Coke,soft drinks,16,108,7,Fall
+42,Disaronno,spirits,2,108,0,Fall
+42,Finlandia Vodka,spirits,5,108,0,Fall
+42,Havana Club 3,spirits,1,108,0,Fall
+42,Havana Club 7,spirits,1,108,0,Fall
+42,High Commissioner,spirits,2,108,0,Fall
+42,Irn Bru,soft drinks,12,108,4,Fall
+42,J20,soft drinks,8,108,0,Fall
+42,Jack Daniels,spirits,1,108,0,Fall
+42,Kahlua,spirits,2,108,0,Fall
+42,Lemonade,soft drinks,33,108,27,Fall
+42,Light Tonic,soft drinks,11,108,0,Fall
+42,Limoncello,spirits,1,108,0,Fall
+42,Macallan 12,spirits,2,108,0,Fall
+42,Malbec,wine,7,108,0,Fall
+42,Martini Rosso,spirits,1,108,0,Fall
+42,Merlot,wine,8,108,0,Fall
+42,Moet,wine,7,108,0,Fall
+42,Orange Juice,soft drinks,12,108,0,Fall
+42,Passoa,spirits,1,108,0,Fall
+42,Peroni,beer,9,108,6,Fall
+42,Pineapple Juice,soft drinks,6,108,0,Fall
+42,Pink Gin,spirits,1,108,0,Fall
+42,Pinot Grigio,wine,10,108,0,Fall
+42,Prosecco,wine,4,108,0,Fall
+42,Rijoca,wine,4,108,0,Fall
+42,Sauvignon Blanc,wine,8,108,0,Fall
+42,St Germain,spirits,0,108,0,Fall
+42,Tanqueray 10,spirits,1,108,1,Fall
+42,Tonic Water,soft drinks,12,108,0,Fall
+43,Apple Juice,soft drinks,5,59,3,Fall
+43,Aperol,spirits,1,59,0,Fall
+43,Bacardi Blanco,spirits,0,59,0,Fall
+43,Bira Moretti,beer,7,59,0,Fall
+43,Bombay Gin,spirits,4,59,0,Fall
+43,Captain Morgan Spiced Rum,spirits,2,59,0,Fall
+43,Chardonnay,wine,5,59,0,Fall
+43,Coca Cola,soft drinks,21,59,7,Fall
+43,Coke Zero,soft drinks,13,59,3,Fall
+43,Cointreau,spirits,0,59,0,Fall
+43,Corona,beer,29,59,19,Fall
+43,Cranberry Juice,soft drinks,11,59,3,Fall
+43,Dalmore 12,spirits,0,59,0,Fall
+43,Diet Coke,soft drinks,22,59,2,Fall
+43,Disaronno,spirits,2,59,0,Fall
+43,Finlandia Vodka,spirits,5,59,0,Fall
+43,Havana Club 3,spirits,2,59,0,Fall
+43,Havana Club 7,spirits,0,59,0,Fall
+43,High Commissioner,spirits,0,59,0,Fall
+43,Irn Bru,soft drinks,7,59,0,Fall
+43,J20,soft drinks,5,59,0,Fall
+43,Jack Daniels,spirits,0,59,0,Fall
+43,Kahlua,spirits,1,59,0,Fall
+43,Lemonade,soft drinks,14,59,0,Fall
+43,Light Tonic,soft drinks,11,59,0,Fall
+43,Limoncello,spirits,1,59,0,Fall
+43,Macallan 12,spirits,1,59,0,Fall
+43,Malbec,wine,4,59,0,Fall
+43,Martini Rosso,spirits,2,59,2,Fall
+43,Merlot,wine,4,59,0,Fall
+43,Moet,wine,7,59,7,Fall
+43,Orange Juice,soft drinks,6,59,0,Fall
+43,Passoa,spirits,1,59,0,Fall
+43,Peroni,beer,24,59,23,Fall
+43,Pineapple Juice,soft drinks,8,59,3,Fall
+43,Pink Gin,spirits,2,59,0,Fall
+43,Pinot Grigio,wine,8,59,0,Fall
+43,Prosecco,wine,6,59,0,Fall
+43,Rijoca,wine,10,59,0,Fall
+43,Sauvignon Blanc,wine,2,59,0,Fall
+43,St Germain,spirits,2,59,0,Fall
+43,Tanqueray 10,spirits,2,59,0,Fall
+43,Tonic Water,soft drinks,30,59,18,Fall
+44,Apple Juice,soft drinks,12,137,2,Fall
+44,Aperol,spirits,0,137,0,Fall
+44,Bacardi Blanco,spirits,2,137,0,Fall
+44,Bira Moretti,beer,12,137,10,Fall
+44,Bombay Gin,spirits,3,137,0,Fall
+44,Captain Morgan Spiced Rum,spirits,5,137,0,Fall
+44,Chardonnay,wine,10,137,0,Fall
+44,Coca Cola,soft drinks,13,137,0,Fall
+44,Coke Zero,soft drinks,22,137,7,Fall
+44,Cointreau,spirits,1,137,0,Fall
+44,Corona,beer,17,137,7,Fall
+44,Cranberry Juice,soft drinks,8,137,0,Fall
+44,Dalmore 12,spirits,2,137,0,Fall
+44,Diet Coke,soft drinks,15,137,2,Fall
+44,Disaronno,spirits,1,137,0,Fall
+44,Finlandia Vodka,spirits,3,137,0,Fall
+44,Havana Club 3,spirits,0,137,0,Fall
+44,Havana Club 7,spirits,0,137,0,Fall
+44,High Commissioner,spirits,2,137,2,Fall
+44,Irn Bru,soft drinks,9,137,0,Fall
+44,J20,soft drinks,11,137,0,Fall
+44,Jack Daniels,spirits,2,137,0,Fall
+44,Kahlua,spirits,1,137,0,Fall
+44,Lemonade,soft drinks,31,137,15,Fall
+44,Light Tonic,soft drinks,9,137,0,Fall
+44,Limoncello,spirits,1,137,1,Fall
+44,Macallan 12,spirits,2,137,0,Fall
+44,Malbec,wine,8,137,6,Fall
+44,Martini Rosso,spirits,0,137,0,Fall
+44,Merlot,wine,3,137,3,Fall
+44,Moet,wine,8,137,0,Fall
+44,Orange Juice,soft drinks,8,137,0,Fall
+44,Passoa,spirits,1,137,0,Fall
+44,Peroni,beer,8,137,0,Fall
+44,Pineapple Juice,soft drinks,7,137,1,Fall
+44,Pink Gin,spirits,0,137,0,Fall
+44,Pinot Grigio,wine,3,137,0,Fall
+44,Prosecco,wine,5,137,0,Fall
+44,Rijoca,wine,7,137,0,Fall
+44,Sauvignon Blanc,wine,7,137,3,Fall
+44,St Germain,spirits,1,137,0,Fall
+44,Tanqueray 10,spirits,2,137,1,Fall
+44,Tonic Water,soft drinks,10,137,6,Fall
+45,Apple Juice,soft drinks,7,81,0,Fall
+45,Aperol,spirits,1,81,0,Fall
+45,Bacardi Blanco,spirits,0,81,0,Fall
+45,Bira Moretti,beer,25,81,21,Fall
+45,Bombay Gin,spirits,4,81,0,Fall
+45,Captain Morgan Spiced Rum,spirits,4,81,0,Fall
+45,Chardonnay,wine,10,81,7,Fall
+45,Coca Cola,soft drinks,26,81,14,Fall
+45,Coke Zero,soft drinks,30,81,27,Fall
+45,Cointreau,spirits,0,81,0,Fall
+45,Corona,beer,7,81,0,Fall
+45,Cranberry Juice,soft drinks,11,81,0,Fall
+45,Dalmore 12,spirits,1,81,0,Fall
+45,Diet Coke,soft drinks,9,81,0,Fall
+45,Disaronno,spirits,1,81,0,Fall
+45,Finlandia Vodka,spirits,2,81,0,Fall
+45,Havana Club 3,spirits,2,81,0,Fall
+45,Havana Club 7,spirits,1,81,0,Fall
+45,High Commissioner,spirits,2,81,0,Fall
+45,Irn Bru,soft drinks,7,81,0,Fall
+45,J20,soft drinks,10,81,0,Fall
+45,Jack Daniels,spirits,1,81,1,Fall
+45,Kahlua,spirits,2,81,0,Fall
+45,Lemonade,soft drinks,30,81,11,Fall
+45,Light Tonic,soft drinks,9,81,0,Fall
+45,Limoncello,spirits,1,81,0,Fall
+45,Macallan 12,spirits,1,81,0,Fall
+45,Malbec,wine,9,81,0,Fall
+45,Martini Rosso,spirits,2,81,0,Fall
+45,Merlot,wine,2,81,0,Fall
+45,Moet,wine,8,81,0,Fall
+45,Orange Juice,soft drinks,5,81,0,Fall
+45,Passoa,spirits,2,81,0,Fall
+45,Peroni,beer,16,81,3,Fall
+45,Pineapple Juice,soft drinks,10,81,0,Fall
+45,Pink Gin,spirits,1,81,0,Fall
+45,Pinot Grigio,wine,10,81,0,Fall
+45,Prosecco,wine,6,81,0,Fall
+45,Rijoca,wine,6,81,0,Fall
+45,Sauvignon Blanc,wine,6,81,0,Fall
+45,St Germain,spirits,0,81,0,Fall
+45,Tanqueray 10,spirits,2,81,1,Fall
+45,Tonic Water,soft drinks,13,81,7,Fall
+46,Apple Juice,soft drinks,12,189,11,Fall
+46,Aperol,spirits,0,189,0,Fall
+46,Bacardi Blanco,spirits,1,189,0,Fall
+46,Bira Moretti,beer,18,189,11,Fall
+46,Bombay Gin,spirits,5,189,0,Fall
+46,Captain Morgan Spiced Rum,spirits,4,189,0,Fall
+46,Chardonnay,wine,6,189,0,Fall
+46,Coca Cola,soft drinks,30,189,10,Fall
+46,Coke Zero,soft drinks,20,189,11,Fall
+46,Cointreau,spirits,1,189,0,Fall
+46,Corona,beer,13,189,10,Fall
+46,Cranberry Juice,soft drinks,5,189,0,Fall
+46,Dalmore 12,spirits,2,189,2,Fall
+46,Diet Coke,soft drinks,32,189,21,Fall
+46,Disaronno,spirits,1,189,0,Fall
+46,Finlandia Vodka,spirits,6,189,0,Fall
+46,Havana Club 3,spirits,1,189,0,Fall
+46,Havana Club 7,spirits,1,189,0,Fall
+46,High Commissioner,spirits,1,189,0,Fall
+46,Irn Bru,soft drinks,10,189,2,Fall
+46,J20,soft drinks,10,189,0,Fall
+46,Jack Daniels,spirits,2,189,0,Fall
+46,Kahlua,spirits,1,189,0,Fall
+46,Lemonade,soft drinks,21,189,20,Fall
+46,Light Tonic,soft drinks,12,189,12,Fall
+46,Limoncello,spirits,0,189,0,Fall
+46,Macallan 12,spirits,2,189,0,Fall
+46,Malbec,wine,8,189,3,Fall
+46,Martini Rosso,spirits,0,189,0,Fall
+46,Merlot,wine,8,189,0,Fall
+46,Moet,wine,9,189,4,Fall
+46,Orange Juice,soft drinks,6,189,0,Fall
+46,Passoa,spirits,1,189,0,Fall
+46,Peroni,beer,34,189,19,Fall
+46,Pineapple Juice,soft drinks,12,189,6,Fall
+46,Pink Gin,spirits,0,189,0,Fall
+46,Pinot Grigio,wine,6,189,0,Fall
+46,Prosecco,wine,4,189,0,Fall
+46,Rijoca,wine,7,189,0,Fall
+46,Sauvignon Blanc,wine,6,189,0,Fall
+46,St Germain,spirits,2,189,0,Fall
+46,Tanqueray 10,spirits,0,189,0,Fall
+46,Tonic Water,soft drinks,11,189,0,Fall
+47,Apple Juice,soft drinks,8,153,4,Fall
+47,Aperol,spirits,1,153,0,Fall
+47,Bacardi Blanco,spirits,0,153,0,Fall
+47,Bira Moretti,beer,33,153,28,Fall
+47,Bombay Gin,spirits,2,153,0,Fall
+47,Captain Morgan Spiced Rum,spirits,6,153,0,Fall
+47,Chardonnay,wine,8,153,0,Fall
+47,Coca Cola,soft drinks,27,153,16,Fall
+47,Coke Zero,soft drinks,13,153,13,Fall
+47,Cointreau,spirits,1,153,0,Fall
+47,Corona,beer,15,153,8,Fall
+47,Cranberry Juice,soft drinks,5,153,4,Fall
+47,Dalmore 12,spirits,0,153,0,Fall
+47,Diet Coke,soft drinks,30,153,14,Fall
+47,Disaronno,spirits,1,153,0,Fall
+47,Finlandia Vodka,spirits,3,153,3,Fall
+47,Havana Club 3,spirits,1,153,0,Fall
+47,Havana Club 7,spirits,0,153,0,Fall
+47,High Commissioner,spirits,1,153,0,Fall
+47,Irn Bru,soft drinks,9,153,0,Fall
+47,J20,soft drinks,7,153,0,Fall
+47,Jack Daniels,spirits,2,153,0,Fall
+47,Kahlua,spirits,2,153,1,Fall
+47,Lemonade,soft drinks,12,153,0,Fall
+47,Light Tonic,soft drinks,12,153,0,Fall
+47,Limoncello,spirits,2,153,0,Fall
+47,Macallan 12,spirits,2,153,0,Fall
+47,Malbec,wine,9,153,8,Fall
+47,Martini Rosso,spirits,1,153,0,Fall
+47,Merlot,wine,2,153,0,Fall
+47,Moet,wine,10,153,0,Fall
+47,Orange Juice,soft drinks,9,153,0,Fall
+47,Passoa,spirits,2,153,0,Fall
+47,Peroni,beer,21,153,7,Fall
+47,Pineapple Juice,soft drinks,10,153,0,Fall
+47,Pink Gin,spirits,0,153,0,Fall
+47,Pinot Grigio,wine,2,153,0,Fall
+47,Prosecco,wine,6,153,0,Fall
+47,Rijoca,wine,8,153,0,Fall
+47,Sauvignon Blanc,wine,10,153,0,Fall
+47,St Germain,spirits,1,153,0,Fall
+47,Tanqueray 10,spirits,2,153,0,Fall
+47,Tonic Water,soft drinks,35,153,35,Fall
+48,Apple Juice,soft drinks,7,83,2,Fall
+48,Aperol,spirits,0,83,0,Fall
+48,Bacardi Blanco,spirits,2,83,0,Fall
+48,Bira Moretti,beer,13,83,13,Fall
+48,Bombay Gin,spirits,5,83,0,Fall
+48,Captain Morgan Spiced Rum,spirits,3,83,0,Fall
+48,Chardonnay,wine,6,83,0,Fall
+48,Coca Cola,soft drinks,18,83,10,Fall
+48,Coke Zero,soft drinks,25,83,7,Fall
+48,Cointreau,spirits,1,83,0,Fall
+48,Corona,beer,19,83,14,Fall
+48,Cranberry Juice,soft drinks,11,83,6,Fall
+48,Dalmore 12,spirits,0,83,0,Fall
+48,Diet Coke,soft drinks,13,83,8,Fall
+48,Disaronno,spirits,1,83,0,Fall
+48,Finlandia Vodka,spirits,6,83,4,Fall
+48,Havana Club 3,spirits,2,83,0,Fall
+48,Havana Club 7,spirits,1,83,0,Fall
+48,High Commissioner,spirits,2,83,0,Fall
+48,Irn Bru,soft drinks,10,83,0,Fall
+48,J20,soft drinks,8,83,7,Fall
+48,Jack Daniels,spirits,2,83,0,Fall
+48,Kahlua,spirits,2,83,0,Fall
+48,Lemonade,soft drinks,7,83,0,Fall
+48,Light Tonic,soft drinks,12,83,12,Fall
+48,Limoncello,spirits,2,83,0,Fall
+48,Macallan 12,spirits,0,83,0,Fall
+48,Malbec,wine,2,83,0,Fall
+48,Martini Rosso,spirits,1,83,0,Fall
+48,Merlot,wine,7,83,0,Fall
+48,Moet,wine,3,83,0,Fall
+48,Orange Juice,soft drinks,7,83,0,Fall
+48,Passoa,spirits,2,83,0,Fall
+48,Peroni,beer,19,83,8,Fall
+48,Pineapple Juice,soft drinks,5,83,0,Fall
+48,Pink Gin,spirits,1,83,0,Fall
+48,Pinot Grigio,wine,8,83,0,Fall
+48,Prosecco,wine,9,83,6,Fall
+48,Rijoca,wine,5,83,0,Fall
+48,Sauvignon Blanc,wine,7,83,0,Fall
+48,St Germain,spirits,2,83,0,Fall
+48,Tanqueray 10,spirits,2,83,0,Fall
+48,Tonic Water,soft drinks,22,83,17,Fall
+49,Apple Juice,soft drinks,5,188,0,Fall
+49,Aperol,spirits,2,188,0,Fall
+49,Bacardi Blanco,spirits,1,188,0,Fall
+49,Bira Moretti,beer,30,188,27,Fall
+49,Bombay Gin,spirits,4,188,0,Fall
+49,Captain Morgan Spiced Rum,spirits,4,188,0,Fall
+49,Chardonnay,wine,8,188,4,Fall
+49,Coca Cola,soft drinks,24,188,19,Fall
+49,Coke Zero,soft drinks,20,188,9,Fall
+49,Cointreau,spirits,2,188,0,Fall
+49,Corona,beer,27,188,26,Fall
+49,Cranberry Juice,soft drinks,8,188,8,Fall
+49,Dalmore 12,spirits,1,188,0,Fall
+49,Diet Coke,soft drinks,13,188,0,Fall
+49,Disaronno,spirits,1,188,0,Fall
+49,Finlandia Vodka,spirits,6,188,0,Fall
+49,Havana Club 3,spirits,2,188,0,Fall
+49,Havana Club 7,spirits,1,188,0,Fall
+49,High Commissioner,spirits,0,188,0,Fall
+49,Irn Bru,soft drinks,6,188,0,Fall
+49,J20,soft drinks,6,188,6,Fall
+49,Jack Daniels,spirits,1,188,0,Fall
+49,Kahlua,spirits,0,188,0,Fall
+49,Lemonade,soft drinks,17,188,0,Fall
+49,Light Tonic,soft drinks,8,188,0,Fall
+49,Limoncello,spirits,2,188,0,Fall
+49,Macallan 12,spirits,2,188,0,Fall
+49,Malbec,wine,5,188,0,Fall
+49,Martini Rosso,spirits,2,188,0,Fall
+49,Merlot,wine,3,188,0,Fall
+49,Moet,wine,5,188,1,Fall
+49,Orange Juice,soft drinks,9,188,2,Fall
+49,Passoa,spirits,2,188,1,Fall
+49,Peroni,beer,34,188,32,Fall
+49,Pineapple Juice,soft drinks,11,188,1,Fall
+49,Pink Gin,spirits,1,188,0,Fall
+49,Pinot Grigio,wine,4,188,0,Fall
+49,Prosecco,wine,10,188,6,Fall
+49,Rijoca,wine,2,188,0,Fall
+49,Sauvignon Blanc,wine,3,188,0,Fall
+49,St Germain,spirits,1,188,0,Fall
+49,Tanqueray 10,spirits,1,188,0,Fall
+49,Tonic Water,soft drinks,16,188,5,Fall
+50,Apple Juice,soft drinks,7,209,0,Fall
+50,Aperol,spirits,0,209,0,Fall
+50,Bacardi Blanco,spirits,0,209,0,Fall
+50,Bira Moretti,beer,16,209,0,Fall
+50,Bombay Gin,spirits,5,209,4,Fall
+50,Captain Morgan Spiced Rum,spirits,4,209,0,Fall
+50,Chardonnay,wine,10,209,0,Fall
+50,Coca Cola,soft drinks,16,209,12,Fall
+50,Coke Zero,soft drinks,9,209,8,Fall
+50,Cointreau,spirits,0,209,0,Fall
+50,Corona,beer,20,209,1,Fall
+50,Cranberry Juice,soft drinks,11,209,0,Fall
+50,Dalmore 12,spirits,1,209,0,Fall
+50,Diet Coke,soft drinks,20,209,9,Fall
+50,Disaronno,spirits,0,209,0,Fall
+50,Finlandia Vodka,spirits,3,209,0,Fall
+50,Havana Club 3,spirits,0,209,0,Fall
+50,Havana Club 7,spirits,1,209,0,Fall
+50,High Commissioner,spirits,0,209,0,Fall
+50,Irn Bru,soft drinks,9,209,0,Fall
+50,J20,soft drinks,6,209,0,Fall
+50,Jack Daniels,spirits,1,209,0,Fall
+50,Kahlua,spirits,0,209,0,Fall
+50,Lemonade,soft drinks,26,209,9,Fall
+50,Light Tonic,soft drinks,10,209,0,Fall
+50,Limoncello,spirits,1,209,0,Fall
+50,Macallan 12,spirits,1,209,0,Fall
+50,Malbec,wine,6,209,0,Fall
+50,Martini Rosso,spirits,1,209,0,Fall
+50,Merlot,wine,4,209,0,Fall
+50,Moet,wine,9,209,4,Fall
+50,Orange Juice,soft drinks,9,209,0,Fall
+50,Passoa,spirits,1,209,0,Fall
+50,Peroni,beer,7,209,0,Summer
+50,Pineapple Juice,soft drinks,8,209,0,Fall
+50,Pink Gin,spirits,0,209,0,Fall
+50,Pinot Grigio,wine,8,209,0,Fall
+50,Prosecco,wine,3,209,0,Fall
+50,Rijoca,wine,10,209,0,Fall
+50,Sauvignon Blanc,wine,5,209,0,Fall
+50,St Germain,spirits,2,209,0,Fall
+50,Tanqueray 10,spirits,0,209,0,Fall
+50,Tonic Water,soft drinks,34,209,25
+51,Aperol,spirits,4,209.0,14,Spring
+51,Bacardi Blanco,spirits,4,209.0,1,Spring
+51,Bira Moretti,beer,4,209.0,32,Spring
+51,Bombay Gin,spirits,9,209.0,3,Spring
+51,Captain Morgan Spiced Rum,spirits,4,209.0,5,Spring
+51,Chardonnay,wine,4,209.0,5,Spring
+51,Coca Cola,soft drinks,19,209.0,30,Spring
+51,Coke Zero,soft drinks,14,209.0,14,Spring
+51,Cointreau,spirits,4,209.0,1,Spring
+51,Corona,beer,5,209.0,15,Spring
+51,Cranberry Juice,soft drinks,4,209.0,7,Spring
+51,Dalmore 12,spirits,4,209.0,1,Spring
+51,Diet Coke,soft drinks,16,209.0,9,Spring
+51,Disaronno,spirits,4,209.0,2,Spring
+51,Finlandia Vodka,spirits,4,209.0,6,Spring
+51,Havana Club 3,spirits,4,209.0,1,Spring
+51,Havana Club 7,spirits,4,209.0,1,Spring
+51,High Commissioner,spirits,4,209.0,2,Spring
+51,Irn Bru,soft drinks,4,209.0,8,Spring
+51,J20,soft drinks,4,209.0,5,Spring
+51,Jack Daniels,spirits,4,209.0,1,Spring
+51,Kahlua,spirits,4,209.0,1,Spring
+51,Lemonade,soft drinks,16,209.0,12,Spring
+51,Light Tonic,soft drinks,4,209.0,11,Spring
+51,Limoncello,spirits,4,209.0,2,Spring
+51,Macallan 12,spirits,4,209.0,0,Spring
+51,Malbec,wine,4,209.0,7,Spring
+51,Martini Rosso,spirits,4,209.0,0,Spring
+51,Merlot,wine,4,209.0,8,Spring
+51,Moet,wine,9,209.0,9,Spring
+51,Orange Juice,soft drinks,4,209.0,12,Spring
+51,Passoa,spirits,4,209.0,1,Spring
+51,Peroni,beer,5,209.0,28,Spring
+51,Pineapple Juice,soft drinks,4,209.0,8,Spring
+51,Pink Gin,spirits,4,209.0,1,Spring
+51,Pinot Grigio,wine,4,209.0,6,Spring
+51,Prosecco,wine,4,209.0,7,Spring
+51,Rijoca,wine,4,209.0,3,Spring
+51,Sauvignon Blanc,wine,4,209.0,4,Spring
+51,St Germain,spirits,4,209.0,3,Spring
+51,Tanqueray 10,spirits,4,209.0,2,Spring
+51,Tonic Water,soft drinks,32,209.0,10,Spring
+52,Aperol,spirits,11,209.0,14,Spring
+52,Bacardi Blanco,spirits,4,209.0,1,Spring
+52,Bira Moretti,beer,17,209.0,32,Spring
+52,Bombay Gin,spirits,6,209.0,3,Spring
+52,Captain Morgan Spiced Rum,spirits,7,209.0,5,Spring
+52,Chardonnay,wine,7,209.0,5,Spring
+52,Coca Cola,soft drinks,16,209.0,30,Spring
+52,Coke Zero,soft drinks,11,209.0,14,Spring
+52,Cointreau,spirits,4,209.0,1,Spring
+52,Corona,beer,11,209.0,15,Spring
+52,Cranberry Juice,soft drinks,8,209.0,7,Spring
+52,Dalmore 12,spirits,4,209.0,1,Spring
+52,Diet Coke,soft drinks,9,209.0,9,Spring
+52,Disaronno,spirits,5,209.0,2,Spring
+52,Finlandia Vodka,spirits,7,209.0,6,Spring
+52,Havana Club 3,spirits,4,209.0,1,Spring
+52,Havana Club 7,spirits,4,209.0,1,Spring
+52,High Commissioner,spirits,5,209.0,2,Spring
+52,Irn Bru,soft drinks,9,209.0,8,Spring
+52,J20,soft drinks,7,209.0,5,Spring
+52,Jack Daniels,spirits,4,209.0,1,Spring
+52,Kahlua,spirits,4,209.0,1,Spring
+52,Lemonade,soft drinks,10,209.0,12,Spring
+52,Light Tonic,soft drinks,10,209.0,11,Spring
+52,Limoncello,spirits,5,209.0,2,Spring
+52,Macallan 12,spirits,4,209.0,0,Spring
+52,Malbec,wine,8,209.0,7,Spring
+52,Martini Rosso,spirits,4,209.0,0,Spring
+52,Merlot,wine,9,209.0,8,Spring
+52,Moet,wine,9,209.0,9,Spring
+52,Orange Juice,soft drinks,10,209.0,12,Spring
+52,Passoa,spirits,4,209.0,1,Spring
+52,Peroni,beer,15,209.0,28,Spring
+52,Pineapple Juice,soft drinks,9,209.0,8,Spring
+52,Pink Gin,spirits,4,209.0,1,Spring
+52,Pinot Grigio,wine,7,209.0,6,Spring
+52,Prosecco,wine,8,209.0,7,Spring
+52,Rijoca,wine,6,209.0,3,Spring
+52,Sauvignon Blanc,wine,6,209.0,4,Spring
+52,St Germain,spirits,6,209.0,3,Spring
+52,Tanqueray 10,spirits,5,209.0,2,Spring
+52,Tonic Water,soft drinks,10,209.0,10,Spring
+53,Aperol,spirits,10,209.0,14,Spring
+53,Bacardi Blanco,spirits,5,209.0,1,Spring
+53,Bira Moretti,beer,15,209.0,32,Spring
+53,Bombay Gin,spirits,6,209.0,3,Spring
+53,Captain Morgan Spiced Rum,spirits,7,209.0,5,Spring
+53,Chardonnay,wine,7,209.0,5,Spring
+53,Coca Cola,soft drinks,14,209.0,30,Spring
+53,Coke Zero,soft drinks,10,209.0,14,Spring
+53,Cointreau,spirits,5,209.0,1,Spring
+53,Corona,beer,10,209.0,15,Spring
+53,Cranberry Juice,soft drinks,8,209.0,7,Spring
+53,Dalmore 12,spirits,5,209.0,1,Spring
+53,Diet Coke,soft drinks,9,209.0,9,Spring
+53,Disaronno,spirits,5,209.0,2,Spring
+53,Finlandia Vodka,spirits,7,209.0,6,Spring
+53,Havana Club 3,spirits,5,209.0,1,Spring
+53,Havana Club 7,spirits,5,209.0,1,Spring
+53,High Commissioner,spirits,5,209.0,2,Spring
+53,Irn Bru,soft drinks,8,209.0,8,Spring
+53,J20,soft drinks,7,209.0,5,Spring
+53,Jack Daniels,spirits,5,209.0,1,Spring
+53,Kahlua,spirits,5,209.0,1,Spring
+53,Lemonade,soft drinks,10,209.0,12,Spring
+53,Light Tonic,soft drinks,10,209.0,11,Spring
+53,Limoncello,spirits,5,209.0,2,Spring
+53,Macallan 12,spirits,4,209.0,0,Spring
+53,Malbec,wine,8,209.0,7,Spring
+53,Martini Rosso,spirits,4,209.0,0,Spring
+53,Merlot,wine,8,209.0,8,Spring
+53,Moet,wine,9,209.0,9,Spring
+53,Orange Juice,soft drinks,10,209.0,12,Spring
+53,Passoa,spirits,5,209.0,1,Spring
+53,Peroni,beer,13,209.0,28,Spring
+53,Pineapple Juice,soft drinks,8,209.0,8,Spring
+53,Pink Gin,spirits,5,209.0,1,Spring
+53,Pinot Grigio,wine,7,209.0,6,Spring
+53,Prosecco,wine,8,209.0,7,Spring
+53,Rijoca,wine,6,209.0,3,Spring
+53,Sauvignon Blanc,wine,6,209.0,4,Spring
+53,St Germain,spirits,6,209.0,3,Spring
+53,Tanqueray 10,spirits,5,209.0,2,Spring
+53,Tonic Water,soft drinks,10,209.0,10,Spring
+53,Aperol,spirits,10,209.0,14,Spring
+53,Bacardi Blanco,spirits,4,209.0,1,Spring
+53,Bira Moretti,beer,15,209.0,32,Spring
+53,Bombay Gin,spirits,6,209.0,3,Spring
+53,Captain Morgan Spiced Rum,spirits,7,209.0,5,Spring
+53,Chardonnay,wine,7,209.0,5,Spring
+53,Coca Cola,soft drinks,14,209.0,30,Spring
+53,Coke Zero,soft drinks,10,209.0,14,Spring
+53,Cointreau,spirits,4,209.0,1,Spring
+53,Corona,beer,10,209.0,15,Spring
+53,Cranberry Juice,soft drinks,8,209.0,7,Spring
+53,Dalmore 12,spirits,4,209.0,1,Spring
+53,Diet Coke,soft drinks,9,209.0,9,Spring
+53,Disaronno,spirits,5,209.0,2,Spring
+53,Finlandia Vodka,spirits,7,209.0,6,Spring
+53,Havana Club 3,spirits,4,209.0,1,Spring
+53,Havana Club 7,spirits,4,209.0,1,Spring
+53,High Commissioner,spirits,5,209.0,2,Spring
+53,Irn Bru,soft drinks,8,209.0,8,Spring
+53,J20,soft drinks,7,209.0,5,Spring
+53,Jack Daniels,spirits,4,209.0,1,Spring
+53,Kahlua,spirits,4,209.0,1,Spring
+53,Lemonade,soft drinks,10,209.0,12,Spring
+53,Light Tonic,soft drinks,10,209.0,11,Spring
+53,Limoncello,spirits,5,209.0,2,Spring
+53,Macallan 12,spirits,4,209.0,0,Spring
+53,Malbec,wine,8,209.0,7,Spring
+53,Martini Rosso,spirits,4,209.0,0,Spring
+53,Merlot,wine,8,209.0,8,Spring
+53,Moet,wine,9,209.0,9,Spring
+53,Orange Juice,soft drinks,10,209.0,12,Spring
+53,Passoa,spirits,4,209.0,1,Spring
+53,Peroni,beer,13,209.0,28,Spring
+53,Pineapple Juice,soft drinks,8,209.0,8,Spring
+53,Pink Gin,spirits,4,209.0,1,Spring
+53,Pinot Grigio,wine,7,209.0,6,Spring
+53,Prosecco,wine,8,209.0,7,Spring
+53,Rijoca,wine,6,209.0,3,Spring
+53,Sauvignon Blanc,wine,6,209.0,4,Spring
+53,St Germain,spirits,6,209.0,3,Spring
+53,Tanqueray 10,spirits,5,209.0,2,Spring
+53,Tonic Water,soft drinks,10,209.0,10,Spring
+54,Aperol,spirits,10,209.0,14,Spring
+54,Bacardi Blanco,spirits,4,209.0,1,Spring
+54,Bira Moretti,beer,14,209.0,32,Spring
+54,Bombay Gin,spirits,5,209.0,3,Spring
+54,Captain Morgan Spiced Rum,spirits,6,209.0,5,Spring
+54,Chardonnay,wine,6,209.0,5,Spring
+54,Coca Cola,soft drinks,13,209.0,30,Spring
+54,Coke Zero,soft drinks,10,209.0,14,Spring
+54,Cointreau,spirits,4,209.0,1,Spring
+54,Corona,beer,10,209.0,15,Spring
+54,Cranberry Juice,soft drinks,7,209.0,7,Spring
+54,Dalmore 12,spirits,4,209.0,1,Spring
+54,Diet Coke,soft drinks,8,209.0,9,Spring
+54,Disaronno,spirits,5,209.0,2,Spring
+54,Finlandia Vodka,spirits,7,209.0,6,Spring
+54,Havana Club 3,spirits,4,209.0,1,Spring
+54,Havana Club 7,spirits,4,209.0,1,Spring
+54,High Commissioner,spirits,5,209.0,2,Spring
+54,Irn Bru,soft drinks,8,209.0,8,Spring
+54,J20,soft drinks,6,209.0,5,Spring
+54,Jack Daniels,spirits,4,209.0,1,Spring
+54,Kahlua,spirits,4,209.0,1,Spring
+54,Lemonade,soft drinks,9,209.0,12,Spring
+54,Light Tonic,soft drinks,9,209.0,11,Spring
+54,Limoncello,spirits,5,209.0,2,Spring
+54,Macallan 12,spirits,3,209.0,0,Spring
+54,Malbec,wine,7,209.0,7,Spring
+54,Martini Rosso,spirits,3,209.0,0,Spring
+54,Merlot,wine,8,209.0,8,Spring
+54,Moet,wine,8,209.0,9,Spring
+54,Orange Juice,soft drinks,9,209.0,12,Spring
+54,Passoa,spirits,4,209.0,1,Spring
+54,Peroni,beer,12,209.0,28,Spring
+54,Pineapple Juice,soft drinks,8,209.0,8,Spring
+54,Pink Gin,spirits,4,209.0,1,Spring
+54,Pinot Grigio,wine,7,209.0,6,Spring
+54,Prosecco,wine,7,209.0,7,Spring
+54,Rijoca,wine,5,209.0,3,Spring
+54,Sauvignon Blanc,wine,6,209.0,4,Spring
+54,St Germain,spirits,5,209.0,3,Spring
+54,Tanqueray 10,spirits,5,209.0,2,Spring
+54,Tonic Water,soft drinks,9,209.0,10,Spring
+54,Aperol,spirits,10,209.0,14,Spring
+54,Bacardi Blanco,spirits,4,209.0,1,Spring
+54,Bira Moretti,beer,14,209.0,32,Spring
+54,Bombay Gin,spirits,5,209.0,3,Spring
+54,Captain Morgan Spiced Rum,spirits,6,209.0,5,Spring
+54,Chardonnay,wine,6,209.0,5,Spring
+54,Coca Cola,soft drinks,13,209.0,30,Spring
+54,Coke Zero,soft drinks,10,209.0,14,Spring
+54,Cointreau,spirits,4,209.0,1,Spring
+54,Corona,beer,10,209.0,15,Spring
+54,Cranberry Juice,soft drinks,7,209.0,7,Spring
+54,Dalmore 12,spirits,4,209.0,1,Spring
+54,Diet Coke,soft drinks,8,209.0,9,Spring
+54,Disaronno,spirits,5,209.0,2,Spring
+54,Finlandia Vodka,spirits,7,209.0,6,Spring
+54,Havana Club 3,spirits,4,209.0,1,Spring
+54,Havana Club 7,spirits,4,209.0,1,Spring
+54,High Commissioner,spirits,5,209.0,2,Spring
+54,Irn Bru,soft drinks,8,209.0,8,Spring
+54,J20,soft drinks,6,209.0,5,Spring
+54,Jack Daniels,spirits,4,209.0,1,Spring
+54,Kahlua,spirits,4,209.0,1,Spring
+54,Lemonade,soft drinks,9,209.0,12,Spring
+54,Light Tonic,soft drinks,9,209.0,11,Spring
+54,Limoncello,spirits,5,209.0,2,Spring
+54,Macallan 12,spirits,3,209.0,0,Spring
+54,Malbec,wine,7,209.0,7,Spring
+54,Martini Rosso,spirits,3,209.0,0,Spring
+54,Merlot,wine,8,209.0,8,Spring
+54,Moet,wine,8,209.0,9,Spring
+54,Orange Juice,soft drinks,9,209.0,12,Spring
+54,Passoa,spirits,4,209.0,1,Spring
+54,Peroni,beer,12,209.0,28,Spring
+54,Pineapple Juice,soft drinks,8,209.0,8,Spring
+54,Pink Gin,spirits,4,209.0,1,Spring
+54,Pinot Grigio,wine,7,209.0,6,Spring
+54,Prosecco,wine,7,209.0,7,Spring
+54,Rijoca,wine,5,209.0,3,Spring
+54,Sauvignon Blanc,wine,6,209.0,4,Spring
+54,St Germain,spirits,5,209.0,3,Spring
+54,Tanqueray 10,spirits,5,209.0,2,Spring
+54,Tonic Water,soft drinks,9,209.0,10,Spring
+55,Aperol,spirits,10,209.0,14,Spring
+55,Bacardi Blanco,spirits,5,209.0,1,Spring
+55,Bira Moretti,beer,14,209.0,32,Spring
+55,Bombay Gin,spirits,6,209.0,3,Spring
+55,Captain Morgan Spiced Rum,spirits,7,209.0,5,Spring
+55,Chardonnay,wine,7,209.0,5,Spring
+55,Coca Cola,soft drinks,13,209.0,30,Spring
+55,Coke Zero,soft drinks,10,209.0,14,Spring
+55,Cointreau,spirits,5,209.0,1,Spring
+55,Corona,beer,10,209.0,15,Spring
+55,Cranberry Juice,soft drinks,8,209.0,7,Spring
+55,Dalmore 12,spirits,5,209.0,1,Spring
+55,Diet Coke,soft drinks,9,209.0,9,Spring
+55,Disaronno,spirits,5,209.0,2,Spring
+55,Finlandia Vodka,spirits,7,209.0,6,Spring
+55,Havana Club 3,spirits,5,209.0,1,Spring
+55,Havana Club 7,spirits,5,209.0,1,Spring
+55,High Commissioner,spirits,5,209.0,2,Spring
+55,Irn Bru,soft drinks,9,209.0,8,Spring
+55,J20,soft drinks,7,209.0,5,Spring
+55,Jack Daniels,spirits,5,209.0,1,Spring
+55,Kahlua,spirits,5,209.0,1,Spring
+55,Lemonade,soft drinks,10,209.0,12,Spring
+55,Light Tonic,soft drinks,10,209.0,11,Spring
+55,Limoncello,spirits,5,209.0,2,Spring
+55,Macallan 12,spirits,4,209.0,0,Spring
+55,Malbec,wine,8,209.0,7,Spring
+55,Martini Rosso,spirits,4,209.0,0,Spring
+55,Merlot,wine,9,209.0,8,Spring
+55,Moet,wine,9,209.0,9,Spring
+55,Orange Juice,soft drinks,10,209.0,12,Spring
+55,Passoa,spirits,5,209.0,1,Spring
+55,Peroni,beer,12,209.0,28,Spring
+55,Pineapple Juice,soft drinks,9,209.0,8,Spring
+55,Pink Gin,spirits,5,209.0,1,Spring
+55,Pinot Grigio,wine,7,209.0,6,Spring
+55,Prosecco,wine,8,209.0,7,Spring
+55,Rijoca,wine,6,209.0,3,Spring
+55,Sauvignon Blanc,wine,6,209.0,4,Spring
+55,St Germain,spirits,6,209.0,3,Spring
+55,Tanqueray 10,spirits,5,209.0,2,Spring
+55,Tonic Water,soft drinks,10,209.0,10,Spring
+55,Aperol,spirits,10,209.0,14,Spring
+55,Bacardi Blanco,spirits,5,209.0,1,Spring
+55,Bira Moretti,beer,14,209.0,32,Spring
+55,Bombay Gin,spirits,6,209.0,3,Spring
+55,Captain Morgan Spiced Rum,spirits,7,209.0,5,Spring
+55,Chardonnay,wine,7,209.0,5,Spring
+55,Coca Cola,soft drinks,13,209.0,30,Spring
+55,Coke Zero,soft drinks,10,209.0,14,Spring
+55,Cointreau,spirits,5,209.0,1,Spring
+55,Corona,beer,10,209.0,15,Spring
+55,Cranberry Juice,soft drinks,8,209.0,7,Spring
+55,Dalmore 12,spirits,5,209.0,1,Spring
+55,Diet Coke,soft drinks,9,209.0,9,Spring
+55,Disaronno,spirits,5,209.0,2,Spring
+55,Finlandia Vodka,spirits,7,209.0,6,Spring
+55,Havana Club 3,spirits,5,209.0,1,Spring
+55,Havana Club 7,spirits,5,209.0,1,Spring
+55,High Commissioner,spirits,5,209.0,2,Spring
+55,Irn Bru,soft drinks,9,209.0,8,Spring
+55,J20,soft drinks,7,209.0,5,Spring
+55,Jack Daniels,spirits,5,209.0,1,Spring
+55,Kahlua,spirits,5,209.0,1,Spring
+55,Lemonade,soft drinks,10,209.0,12,Spring
+55,Light Tonic,soft drinks,10,209.0,11,Spring
+55,Limoncello,spirits,5,209.0,2,Spring
+55,Macallan 12,spirits,4,209.0,0,Spring
+55,Malbec,wine,8,209.0,7,Spring
+55,Martini Rosso,spirits,4,209.0,0,Spring
+55,Merlot,wine,9,209.0,8,Spring
+55,Moet,wine,9,209.0,9,Spring
+55,Orange Juice,soft drinks,10,209.0,12,Spring
+55,Passoa,spirits,5,209.0,1,Spring
+55,Peroni,beer,12,209.0,28,Spring
+55,Pineapple Juice,soft drinks,9,209.0,8,Spring
+55,Pink Gin,spirits,5,209.0,1,Spring
+55,Pinot Grigio,wine,7,209.0,6,Spring
+55,Prosecco,wine,8,209.0,7,Spring
+55,Rijoca,wine,6,209.0,3,Spring
+55,Sauvignon Blanc,wine,6,209.0,4,Spring
+55,St Germain,spirits,6,209.0,3,Spring
+55,Tanqueray 10,spirits,5,209.0,2,Spring
+55,Tonic Water,soft drinks,10,209.0,10,Spring
+56,Aperol,spirits,10,209.0,14,Spring
+56,Bacardi Blanco,spirits,5,209.0,1,Spring
+56,Bira Moretti,beer,17,209.0,32,Spring
+56,Bombay Gin,spirits,6,209.0,3,Spring
+56,Captain Morgan Spiced Rum,spirits,7,209.0,5,Spring
+56,Chardonnay,wine,7,209.0,5,Spring
+56,Coca Cola,soft drinks,15,209.0,30,Spring
+56,Coke Zero,soft drinks,10,209.0,14,Spring
+56,Cointreau,spirits,5,209.0,1,Spring
+56,Corona,beer,10,209.0,15,Spring
+56,Cranberry Juice,soft drinks,8,209.0,7,Spring
+56,Dalmore 12,spirits,5,209.0,1,Spring
+56,Diet Coke,soft drinks,10,209.0,9,Spring
+56,Disaronno,spirits,5,209.0,2,Spring
+56,Finlandia Vodka,spirits,7,209.0,6,Spring
+56,Havana Club 3,spirits,5,209.0,1,Spring
+56,Havana Club 7,spirits,5,209.0,1,Spring
+56,High Commissioner,spirits,5,209.0,2,Spring
+56,Irn Bru,soft drinks,9,209.0,8,Spring
+56,J20,soft drinks,7,209.0,5,Spring
+56,Jack Daniels,spirits,5,209.0,1,Spring
+56,Kahlua,spirits,5,209.0,1,Spring
+56,Lemonade,soft drinks,10,209.0,12,Spring
+56,Light Tonic,soft drinks,10,209.0,11,Spring
+56,Limoncello,spirits,5,209.0,2,Spring
+56,Macallan 12,spirits,4,209.0,0,Spring
+56,Malbec,wine,8,209.0,7,Spring
+56,Martini Rosso,spirits,4,209.0,0,Spring
+56,Merlot,wine,9,209.0,8,Spring
+56,Moet,wine,10,209.0,9,Spring
+56,Orange Juice,soft drinks,10,209.0,12,Spring
+56,Passoa,spirits,5,209.0,1,Spring
+56,Peroni,beer,14,209.0,28,Spring
+56,Pineapple Juice,soft drinks,9,209.0,8,Spring
+56,Pink Gin,spirits,5,209.0,1,Spring
+56,Pinot Grigio,wine,7,209.0,6,Spring
+56,Prosecco,wine,8,209.0,7,Spring
+56,Rijoca,wine,6,209.0,3,Spring
+56,Sauvignon Blanc,wine,6,209.0,4,Spring
+56,St Germain,spirits,6,209.0,3,Spring
+56,Tanqueray 10,spirits,5,209.0,2,Spring
+56,Tonic Water,soft drinks,10,209.0,10,Spring
+56,Aperol,spirits,10,209.0,14,Spring
+56,Bacardi Blanco,spirits,5,209.0,1,Spring
+56,Bira Moretti,beer,17,209.0,32,Spring
+56,Bombay Gin,spirits,6,209.0,3,Spring
+56,Captain Morgan Spiced Rum,spirits,7,209.0,5,Spring
+56,Chardonnay,wine,7,209.0,5,Spring
+56,Coca Cola,soft drinks,15,209.0,30,Spring
+56,Coke Zero,soft drinks,10,209.0,14,Spring
+56,Cointreau,spirits,5,209.0,1,Spring
+56,Corona,beer,10,209.0,15,Spring
+56,Cranberry Juice,soft drinks,8,209.0,7,Spring
+56,Dalmore 12,spirits,5,209.0,1,Spring
+56,Diet Coke,soft drinks,10,209.0,9,Spring
+56,Disaronno,spirits,5,209.0,2,Spring
+56,Finlandia Vodka,spirits,7,209.0,6,Spring
+56,Havana Club 3,spirits,5,209.0,1,Spring
+56,Havana Club 7,spirits,5,209.0,1,Spring
+56,High Commissioner,spirits,5,209.0,2,Spring
+56,Irn Bru,soft drinks,9,209.0,8,Spring
+56,J20,soft drinks,7,209.0,5,Spring
+56,Jack Daniels,spirits,5,209.0,1,Spring
+56,Kahlua,spirits,5,209.0,1,Spring
+56,Lemonade,soft drinks,10,209.0,12,Spring
+56,Light Tonic,soft drinks,10,209.0,11,Spring
+56,Limoncello,spirits,5,209.0,2,Spring
+56,Macallan 12,spirits,4,209.0,0,Spring
+56,Malbec,wine,8,209.0,7,Spring
+56,Martini Rosso,spirits,4,209.0,0,Spring
+56,Merlot,wine,9,209.0,8,Spring
+56,Moet,wine,10,209.0,9,Spring
+56,Orange Juice,soft drinks,10,209.0,12,Spring
+56,Passoa,spirits,5,209.0,1,Spring
+56,Peroni,beer,14,209.0,28,Spring
+56,Pineapple Juice,soft drinks,9,209.0,8,Spring
+56,Pink Gin,spirits,5,209.0,1,Spring
+56,Pinot Grigio,wine,7,209.0,6,Spring
+56,Prosecco,wine,8,209.0,7,Spring
+56,Rijoca,wine,6,209.0,3,Spring
+56,Sauvignon Blanc,wine,6,209.0,4,Spring
+56,St Germain,spirits,6,209.0,3,Spring
+56,Tanqueray 10,spirits,5,209.0,2,Spring
+56,Tonic Water,soft drinks,10,209.0,10,Spring
+57,Aperol,spirits,10,209.0,14,Spring
+57,Bacardi Blanco,spirits,5,209.0,1,Spring
+57,Bira Moretti,beer,14,209.0,32,Spring
+57,Bombay Gin,spirits,6,209.0,3,Spring
+57,Captain Morgan Spiced Rum,spirits,7,209.0,5,Spring
+57,Chardonnay,wine,7,209.0,5,Spring
+57,Coca Cola,soft drinks,13,209.0,30,Spring
+57,Coke Zero,soft drinks,10,209.0,14,Spring
+57,Cointreau,spirits,5,209.0,1,Spring
+57,Corona,beer,10,209.0,15,Spring
+57,Cranberry Juice,soft drinks,8,209.0,7,Spring
+57,Dalmore 12,spirits,5,209.0,1,Spring
+57,Diet Coke,soft drinks,9,209.0,9,Spring
+57,Disaronno,spirits,5,209.0,2,Spring
+57,Finlandia Vodka,spirits,8,209.0,6,Spring
+57,Havana Club 3,spirits,5,209.0,1,Spring
+57,Havana Club 7,spirits,5,209.0,1,Spring
+57,High Commissioner,spirits,5,209.0,2,Spring
+57,Irn Bru,soft drinks,9,209.0,8,Spring
+57,J20,soft drinks,7,209.0,5,Spring
+57,Jack Daniels,spirits,5,209.0,1,Spring
+57,Kahlua,spirits,5,209.0,1,Spring
+57,Lemonade,soft drinks,10,209.0,12,Spring
+57,Light Tonic,soft drinks,10,209.0,11,Spring
+57,Limoncello,spirits,5,209.0,2,Spring
+57,Macallan 12,spirits,5,209.0,0,Spring
+57,Malbec,wine,8,209.0,7,Spring
+57,Martini Rosso,spirits,5,209.0,0,Spring
+57,Merlot,wine,9,209.0,8,Spring
+57,Moet,wine,9,209.0,9,Spring
+57,Orange Juice,soft drinks,10,209.0,12,Spring
+57,Passoa,spirits,5,209.0,1,Spring
+57,Peroni,beer,12,209.0,28,Spring
+57,Pineapple Juice,soft drinks,9,209.0,8,Spring
+57,Pink Gin,spirits,5,209.0,1,Spring
+57,Pinot Grigio,wine,8,209.0,6,Spring
+57,Prosecco,wine,8,209.0,7,Spring
+57,Rijoca,wine,6,209.0,3,Spring
+57,Sauvignon Blanc,wine,6,209.0,4,Spring
+57,St Germain,spirits,6,209.0,3,Spring
+57,Tanqueray 10,spirits,5,209.0,2,Spring
+57,Tonic Water,soft drinks,10,209.0,10,Spring
+57,Aperol,spirits,10,209.0,14,Spring
+57,Bacardi Blanco,spirits,5,209.0,1,Spring
+57,Bira Moretti,beer,14,209.0,32,Spring
+57,Bombay Gin,spirits,6,209.0,3,Spring
+57,Captain Morgan Spiced Rum,spirits,7,209.0,5,Spring
+57,Chardonnay,wine,7,209.0,5,Spring
+57,Coca Cola,soft drinks,13,209.0,30,Spring
+57,Coke Zero,soft drinks,10,209.0,14,Spring
+57,Cointreau,spirits,5,209.0,1,Spring
+57,Corona,beer,10,209.0,15,Spring
+57,Cranberry Juice,soft drinks,8,209.0,7,Spring
+57,Dalmore 12,spirits,5,209.0,1,Spring
+57,Diet Coke,soft drinks,9,209.0,9,Spring
+57,Disaronno,spirits,5,209.0,2,Spring
+57,Finlandia Vodka,spirits,8,209.0,6,Spring
+57,Havana Club 3,spirits,5,209.0,1,Spring
+57,Havana Club 7,spirits,5,209.0,1,Spring
+57,High Commissioner,spirits,5,209.0,2,Spring
+57,Irn Bru,soft drinks,9,209.0,8,Spring
+57,J20,soft drinks,7,209.0,5,Spring
+57,Jack Daniels,spirits,5,209.0,1,Spring
+57,Kahlua,spirits,5,209.0,1,Spring
+57,Lemonade,soft drinks,10,209.0,12,Spring
+57,Light Tonic,soft drinks,10,209.0,11,Spring
+57,Limoncello,spirits,5,209.0,2,Spring
+57,Macallan 12,spirits,5,209.0,0,Spring
+57,Malbec,wine,8,209.0,7,Spring
+57,Martini Rosso,spirits,5,209.0,0,Spring
+57,Merlot,wine,9,209.0,8,Spring
+57,Moet,wine,9,209.0,9,Spring
+57,Orange Juice,soft drinks,10,209.0,12,Spring
+57,Passoa,spirits,5,209.0,1,Spring
+57,Peroni,beer,12,209.0,28,Spring
+57,Pineapple Juice,soft drinks,9,209.0,8,Spring
+57,Pink Gin,spirits,5,209.0,1,Spring
+57,Pinot Grigio,wine,8,209.0,6,Spring
+57,Prosecco,wine,8,209.0,7,Spring
+57,Rijoca,wine,6,209.0,3,Spring
+57,Sauvignon Blanc,wine,6,209.0,4,Spring
+57,St Germain,spirits,6,209.0,3,Spring
+57,Tanqueray 10,spirits,5,209.0,2,Spring
+57,Tonic Water,soft drinks,10,209.0,10,Spring

@@ -62,9 +62,27 @@
                 <!-- Submit button stays at the bottom -->
                 <div class="card-order">
                     <button type="submit" class="add-order-button">Submit</button>
+
+
                 </form>
+
+   
         
                 </div>
+
+                <div class="card-order">
+                    <button type="button" class="add-order-button update-file-button" onclick="triggerFileInput()">Select File</button>
+                    
+                    <!-- Submit File Button -->
+                    <button type="button" class="add-order-button submit-file-button" onclick="submitFile()" disabled>Submit File</button>
+                    
+                    <!-- This span will display the file name -->
+                    <span id="file-name" style="margin-left: 10px; font-weight: bold;"></span>
+                    
+                    <!-- Hidden File Input -->
+                    <input type="file" id="file-upload" style="display:none;" onchange="fileSelected(event)">
+                </div>
+                
             </div>
         </div>
     </div>
@@ -77,6 +95,8 @@
     <script src="/js/getStock.js"></script>
 
     <script src="/js/loadStock.js"></script>
+    
+    <script src="/js/update.js"></script>
 
 </body>
 </html>
